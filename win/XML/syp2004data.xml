@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Document docid="syp2004data.xml">
+  <org-sys id="syp2004school">
+    <name>ЛШЮП-2004 (Юность, Соузга)</name>
+  </org-sys>
+  <person id="syp2004-p-1">
+    <name>Кузькоков Алексей Евгеньевич</name>
+    <birth>31.01.1993</birth>
+  </person>
+  <uchastie id="syp2004-uch-1">
+    <uchastnik ref="syp2004-p-1" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-2">
+    <name>Брагинский Арсений Леонидович</name>
+    <birth>07.12.1992</birth>
+  </person>
+  <uchastie id="syp2004-uch-2">
+    <uchastnik ref="syp2004-p-2" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-3">
+    <name>Таранцев Геннадий Игоревич</name>
+  </person>
+  <uchastie id="syp2004-uch-3">
+    <uchastnik ref="syp2004-p-3" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-4">
+    <name>Болотов Денис Александрович</name>
+    <birth>03.03.1992</birth>
+  </person>
+  <uchastie id="syp2004-uch-4">
+    <uchastnik ref="syp2004-p-4" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-5">
+    <name>Смирнов Николай Владимирович</name>
+    <birth>03.01.1993</birth>
+  </person>
+  <uchastie id="syp2004-uch-5">
+    <uchastnik ref="syp2004-p-5" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-6">
+    <name>Фадеев Николай Олегович</name>
+  </person>
+  <uchastie id="syp2004-uch-6">
+    <uchastnik ref="syp2004-p-6" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-7">
+    <name>Макаров Дмитрий Александрович</name>
+  </person>
+  <uchastie id="syp2004-uch-7">
+    <uchastnik ref="syp2004-p-7" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-8">
+    <name>Морозов Иван Сергеевич</name>
+  </person>
+  <uchastie id="syp2004-uch-8">
+    <uchastnik ref="syp2004-p-8" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-9">
+    <name>Фадеев Федор Олегович</name>
+    <birth>1992</birth>
+  </person>
+  <uchastie id="syp2004-uch-9">
+    <uchastnik ref="syp2004-p-9" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-11">
+    <name>Игнатов Семен Александрович</name>
+  </person>
+  <uchastie id="syp2004-uch-11">
+    <uchastnik ref="syp2004-p-11" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-12">
+    <uchastnik ref="syp2001-p-sosedkin" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-13">
+    <name>Баяндин Александр Александрович</name>
+    <birth>23.02.1990</birth>
+  </person>
+  <uchastie id="syp2004-uch-13">
+    <uchastnik ref="syp2004-p-13" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-14">
+    <name>Берзин Андрей Сергеевич</name>
+  </person>
+  <uchastie id="syp2004-uch-14">
+    <uchastnik ref="syp2004-p-14" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-15">
+    <name>Величко Даниил Евгеньевич</name>
+  </person>
+  <uchastie id="syp2004-uch-15">
+    <uchastnik ref="syp2004-p-15" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-16">
+    <name>Кихтенко Владимир Андреевич</name>
+    <birth>27.07.1990</birth>
+  </person>
+  <uchastie id="syp2004-uch-16">
+    <uchastnik ref="syp2004-p-16" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-17">
+    <name>Кулижников Дмитрий Игоревич</name>
+  </person>
+  <uchastie id="syp2004-uch-17">
+    <uchastnik ref="syp2004-p-17" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-18">
+    <name>Лихтер Константин Андреевич</name>
+    <birth>26.01.1990</birth>
+  </person>
+  <uchastie id="syp2004-uch-18">
+    <uchastnik ref="syp2004-p-18" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-19">
+    <uchastnik ref="syp2001-p-nasibulov" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-20">
+    <name>Петренко Павел Олегович</name>
+  </person>
+  <uchastie id="syp2004-uch-20">
+    <uchastnik ref="syp2004-p-20" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-21">
+    <name>Чепель Максим Михайлович</name>
+  </person>
+  <uchastie id="syp2004-uch-21">
+    <uchastnik ref="syp2004-p-21" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-22">
+    <name>Патрин Дмитрий</name>
+  </person>
+  <uchastie id="syp2004-uch-22">
+    <uchastnik ref="syp2004-p-22" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-23">
+    <name>Агафонов Андрей Николаевич</name>
+  </person>
+  <uchastie id="syp2004-uch-23">
+    <uchastnik ref="syp2004-p-23" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-24">
+    <uchastnik ref="syp2001-p-vodopyanov" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-25">
+    <name>Гатилов Степан Юрьевич</name>
+  </person>
+  <uchastie id="syp2004-uch-25">
+    <uchastnik ref="syp2004-p-25" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-26">
+    <name>Доможаков Артем Алексеевич</name>
+  </person>
+  <uchastie id="syp2004-uch-26">
+    <uchastnik ref="syp2004-p-26" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-27">
+    <name>Ковалев Андрей Юрьевич</name>
+  </person>
+  <uchastie id="syp2004-uch-27">
+    <uchastnik ref="syp2004-p-27" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-28">
+    <name>Коротков Дмитрий Андреевич</name>
+  </person>
+  <uchastie id="syp2004-uch-28">
+    <uchastnik ref="syp2004-p-28" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-29">
+    <uchastnik ref="syp2002-p-31" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-30">
+    <name>Ломоносова Татьяна Станиславовна</name>
+  </person>
+  <uchastie id="syp2004-uch-30">
+    <uchastnik ref="syp2004-p-30" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-31">
+    <name>Любимов Роман</name>
+  </person>
+  <uchastie id="syp2004-uch-31">
+    <uchastnik ref="syp2004-p-31" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-32">
+    <name>Мельников Павел Владимирович</name>
+  </person>
+  <uchastie id="syp2004-uch-32">
+    <uchastnik ref="syp2004-p-32" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-33">
+    <name>Мирочник Денис Олегович</name>
+  </person>
+  <uchastie id="syp2004-uch-33">
+    <uchastnik ref="syp2004-p-33" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-34">
+    <name>Михальков Олег Валентинович</name>
+  </person>
+  <uchastie id="syp2004-uch-34">
+    <uchastnik ref="syp2004-p-34" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-35">
+    <name>Моховиков Алексей Юрьевич</name>
+  </person>
+  <uchastie id="syp2004-uch-35">
+    <uchastnik ref="syp2004-p-35" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-36">
+    <name>Потемкин Дмитрий Игоревич</name>
+  </person>
+  <uchastie id="syp2004-uch-36">
+    <uchastnik ref="syp2004-p-36" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-37">
+    <uchastnik ref="salmin_a" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-38">
+    <name>Симоненко Иван Сергеевич</name>
+  </person>
+  <uchastie id="syp2004-uch-38">
+    <uchastnik ref="syp2004-p-38" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-39">
+    <name>Стафиевский Александр Андреевич</name>
+  </person>
+  <uchastie id="syp2004-uch-39">
+    <uchastnik ref="syp2004-p-39" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-40">
+    <name>Фролов Антон Алексеевич</name>
+  </person>
+  <uchastie id="syp2004-uch-40">
+    <uchastnik ref="syp2004-p-40" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-41">
+    <name>Грачев Артем Александрович</name>
+  </person>
+  <uchastie id="syp2004-uch-41">
+    <uchastnik ref="syp2004-p-41" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-42">
+    <uchastnik ref="syp2002-p-15" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-43">
+    <name>Евсеев Алексей Алексеевич</name>
+  </person>
+  <uchastie id="syp2004-uch-43">
+    <uchastnik ref="syp2004-p-43" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-44">
+    <name>Забайкин Алексей Васильевич</name>
+  </person>
+  <uchastie id="syp2004-uch-44">
+    <uchastnik ref="syp2004-p-44" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-45">
+    <name>Зимарев Андрей Анатольевич</name>
+  </person>
+  <uchastie id="syp2004-uch-45">
+    <uchastnik ref="syp2004-p-45" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-46">
+    <name>Каржавина Александра Михайловна</name>
+  </person>
+  <uchastie id="syp2004-uch-46">
+    <uchastnik ref="syp2004-p-46" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-47">
+    <name>Карпенко Анна Евгеньевна</name>
+  </person>
+  <uchastie id="syp2004-uch-47">
+    <uchastnik ref="syp2004-p-47" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-48">
+    <name>Качалов Тимофей</name>
+  </person>
+  <uchastie id="syp2004-uch-48">
+    <uchastnik ref="syp2004-p-48" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-49">
+    <name>Кашпур Александра Витальевна</name>
+  </person>
+  <uchastie id="syp2004-uch-49">
+    <uchastnik ref="syp2004-p-49" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-50">
+    <name>Крайнева Марина Владимировна</name>
+  </person>
+  <uchastie id="syp2004-uch-50">
+    <uchastnik ref="syp2004-p-50" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-51">
+    <name>Купша Павел</name>
+  </person>
+  <uchastie id="syp2004-uch-51">
+    <uchastnik ref="syp2004-p-51" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-52">
+    <name>Лазаренко Владимир</name>
+  </person>
+  <uchastie id="syp2004-uch-52">
+    <uchastnik ref="syp2004-p-52" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-53">
+    <name>Овчинников Роман Олегович</name>
+  </person>
+  <uchastie id="syp2004-uch-53">
+    <uchastnik ref="syp2004-p-53" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-54">
+    <uchastnik ref="solovyev_v" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-55">
+    <name>Ушаков Алексей Сергеевич</name>
+  </person>
+  <uchastie id="syp2004-uch-55">
+    <uchastnik ref="syp2004-p-55" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-56">
+    <name>Ушаков Михаил</name>
+  </person>
+  <uchastie id="syp2004-uch-56">
+    <uchastnik ref="syp2004-p-56" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-57">
+    <name>Трунов Александр Михайлович</name>
+  </person>
+  <uchastie id="syp2004-uch-57">
+    <uchastnik ref="syp2004-p-57" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-58">
+    <name>Фишман Вениамин Семенович</name>
+  </person>
+  <uchastie id="syp2004-uch-58">
+    <uchastnik ref="syp2004-p-58" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-59">
+    <name>Юрьев Александр Юрьевич</name>
+  </person>
+  <uchastie id="syp2004-uch-59">
+    <uchastnik ref="syp2004-p-59" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-60">
+    <uchastnik ref="syp2002-p-13" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-61">
+    <name>Калугин Михаил Борисович</name>
+  </person>
+  <uchastie id="syp2004-uch-61">
+    <uchastnik ref="syp2004-p-61" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-62">
+    <name>Кашников Юрий Сергеевич</name>
+  </person>
+  <uchastie id="syp2004-uch-62">
+    <uchastnik ref="syp2004-p-62" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-63">
+    <name>Соловьев Михаил Валерьевич</name>
+  </person>
+  <uchastie id="syp2004-uch-63">
+    <uchastnik ref="syp2004-p-63" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-64">
+    <name>Круш Павел Владимирович</name>
+  </person>
+  <uchastie id="syp2004-uch-64">
+    <uchastnik ref="syp2004-p-64" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-65">
+    <uchastnik ref="syp2001-p-koplyarov" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-66">
+    <name>Головин А.С.</name>
+  </person>
+  <uchastie id="syp2004-uch-66">
+    <uchastnik ref="syp2004-p-66" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-67">
+    <name>Васильцов В.</name>
+  </person>
+  <uchastie id="syp2004-uch-67">
+    <uchastnik ref="syp2004-p-67" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-68">
+    <uchastnik ref="syp2002-p-61" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-69">
+    <name>Соколова А.Н.</name>
+  </person>
+  <uchastie id="syp2004-uch-69">
+    <uchastnik ref="syp2004-p-69" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-70">
+    <uchastnik ref="syp2001-p-khalmansky" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-71">
+    <uchastnik ref="syp2001-p-vazhenin" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-72">
+    <uchastnik ref="syp2001-p-potapenko" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-73">
+    <uchastnik ref="syp2001-p-zanin" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-74">
+    <uchastnik ref="syp2001-p-baehrs" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-75">
+    <uchastnik ref="syp2001-p-vodopyanova" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-76">
+    <uchastnik ref="syp2001-p-zanina" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-77">
+    <name>Зарубин Александр</name>
+  </person>
+  <uchastie id="syp2004-uch-77">
+    <uchastnik ref="syp2004-p-77" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-78">
+    <name>Иванова В.В.</name>
+  </person>
+  <uchastie id="syp2004-uch-78">
+    <uchastnik ref="syp2004-p-78" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-79">
+    <name>Ким П.А.</name>
+  </person>
+  <uchastie id="syp2004-uch-79">
+    <uchastnik ref="syp2004-p-79" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-80">
+    <uchastnik ref="syp2001-p-kolodin" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-81">
+    <name>Костов Ю.В.</name>
+  </person>
+  <uchastie id="syp2004-uch-81">
+    <uchastnik ref="syp2004-p-81" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-82">
+    <uchastnik ref="syp2001-p-lystsov" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-83">
+    <uchastnik ref="syp2001-p-marchuk_a" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-84">
+    <uchastnik ref="syp2001-p-marchuk_e" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-85">
+    <name>Панов Валерий</name>
+  </person>
+  <uchastie id="syp2004-uch-85">
+    <uchastnik ref="syp2004-p-85" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-86">
+    <name>Польгун Юрий</name>
+  </person>
+  <uchastie id="syp2004-uch-86">
+    <uchastnik ref="syp2004-p-86" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-87">
+    <uchastnik ref="syp2001-p-smolyak" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-88">
+    <name>Старцев Константин</name>
+  </person>
+  <uchastie id="syp2004-uch-88">
+    <uchastnik ref="syp2004-p-88" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <uchastie id="syp2004-uch-89">
+    <uchastnik ref="syp2001-p-sosedkina" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-90">
+    <name>Тихонова Татьяна Ивановна</name>
+  </person>
+  <uchastie id="syp2004-uch-90">
+    <uchastnik ref="syp2004-p-90" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+  <person id="syp2004-p-91">
+    <name>Четвертаков Евгений</name>
+  </person>
+  <uchastie id="syp2004-uch-91">
+    <uchastnik ref="syp2004-p-91" />
+    <in-org ref="syp2004school" />
+  </uchastie>
+</Document>

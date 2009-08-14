@@ -1,0 +1,1484 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db docid="syp2009data.xml">
+  <!-- Разгоняемся -->
+  <org-sys id="syp2009school">
+    <name>ЛШЮП-2009 (Созвездие Юниор) </name>
+  </org-sys>
+  <!-- Итак, мастерские -->
+  <mastersk id="shashki">
+    <name>Настольные игры::шашки</name>
+  </mastersk>
+  <mastersk id="flash-2009">
+    <name>Тестирующее моделепостроительное FLASH-приложение</name>
+  </mastersk>
+  <mastersk id="ekoles">
+    <name>Эколес</name>
+  </mastersk>
+  <mastersk id="delphi-net">
+    <name>Создание сетевых приложений в среде Delphi</name>
+  </mastersk>
+  <mastersk id="wpf_silverlight">
+    <name>Microsoft WPF и Silverlight</name>
+  </mastersk>
+  <mastersk id="scratch-2009">
+    <name>Мастерская «Scratch»</name>
+  </mastersk>
+  <mastersk id="net-chat-2009">
+    <name>Сетевое программирование — сетевой чат</name>
+  </mastersk>
+  <mastersk id="proc_textures">
+    <name>Процедурная генерация текстур</name>
+  </mastersk>
+  <mastersk id="city_control">
+    <name>Мастерская «Управляем городом»</name>
+  </mastersk>
+  <mastersk id="ekonom_emul">
+    <name>Экономический эмулятор</name>
+  </mastersk>
+  <mastersk id="fuse">
+    <name>Драйвер файловой системы</name>
+  </mastersk>
+  <mastersk id="sozdateli-2009">
+    <name>База данных Летней школы</name>
+  </mastersk>
+  <mastersk id="ocr">
+    <name>OCR</name>
+  </mastersk>
+  <mastersk id="faz_portraits">
+    <name>Построение фазовых портретов</name>
+  </mastersk>
+  <mastersk id="fraktal_2009">
+    <name>Фрактальная графика</name>
+  </mastersk>
+  <mastersk id="phys_robot">
+    <name>Управляемая модель робота в физическом окружении</name>
+  </mastersk>
+  <mastersk id="archivator">
+    <name>Архиватор</name>
+  </mastersk>
+  <mastersk id="web-2009">
+    <name>Веб-программирование</name>
+  </mastersk>
+  <!-- И наконец мы все любимые. Извините, если что напутал -->
+  <person id="syp2009_p1">
+    <name>Соловьёв Владимир Валерьевич</name>
+  </person>
+  <person id="syp2009_p3">
+    <name>Баяндин Олег Витальевич</name>
+  </person>
+  <person id="syp2009_p5">
+    <name>Севостьянов Всеволод Олегович</name>
+  </person>
+  <person id="syp2009_p7">
+    <name>Шилов Иннокентий Николаевич</name>
+  </person>
+  <person id="syp2009_p10">
+    <name>Амикишиева Руслана Вагифовна</name>
+  </person>
+  <person id="syp2009_p11">
+    <name>Колобов Фёдор Иванович</name>
+  </person>
+  <person id="syp2009_p13">
+    <name>Синельникова Нина</name>
+  </person>
+  <person id="syp2009_p14">
+    <name>Фиткович Валерия Владимировна</name>
+  </person>
+  <person id="syp2009_p16">
+    <name>Горносталёв Даниил Игоревич</name>
+  </person>
+  <person id="syp2009_p22">
+    <name>Баянов Александр Васильевич</name>
+  </person>
+  <person id="syp2009_p27">
+    <name>Иванова Анна Андреевна</name>
+  </person>
+  <person id="syp2009_p28">
+    <name>Кинзина Эльвира Давидовна</name>
+  </person>
+  <person id="syp2009_p29">
+    <name>Фирсов Егор Игоревич</name>
+  </person>
+  <person id="syp2009_p32">
+    <name>Беляков Дмитрий Сергеевич</name>
+  </person>
+  <person id="syp2009_p33">
+    <name>Зозуляк Никита Вадимович</name>
+  </person>
+  <person id="syp2009_p35">
+    <name>Сивков Владимир Евгеньевич</name>
+  </person>
+  <person id="syp2009_p36">
+    <name>Сотников Владимир</name>
+  </person>
+  <person id="syp2009_p40">
+    <name>Новокрещёнов Лев Александрович</name>
+  </person>
+  <person id="syp2009_p43">
+    <name>Черенков Павел Андреевич</name>
+  </person>
+  <person id="syp2009_p49">
+    <name>Шишкин Павел Дмитриевич</name>
+  </person>
+  <person id="syp2009_p54">
+    <name>Бычков Савва Игоревич</name>
+  </person>
+  <person id="syp2009_p56">
+    <name>Андрюшков Валерий Андреевич</name>
+  </person>
+  <person id="syp2009_p57">
+    <name>Иванов Владимир Егорович</name>
+  </person>
+  <person id="syp2009_p58">
+    <name>Носов Роман Дмитриевич</name>
+  </person>
+  <person id="syp2009_p62">
+    <name>Ковалёв Дмитрий Александрович</name>
+  </person>
+  <person id="syp2009_p63">
+    <name>Турянский Павел Александрович</name>
+  </person>
+  <person id="syp2009_p64">
+    <name>Царёв Александр Михайлович</name>
+  </person>
+  <person id="syp2009_p67">
+    <name>Ольков Артём Вадимович</name>
+  </person>
+  <person id="syp2009_p68">
+    <name>Тумайкин Данил Михайлович</name>
+  </person>
+  <person id="syp2009_p69">
+    <name>Шестакова Ирина Евгеньевна</name>
+  </person>
+  <person id="syp2009_p76">
+    <name>Буевич Марьян Станиславович</name>
+  </person>
+  <person id="syp2009_p77">
+    <name>Трубачёв Евгений Александрович</name>
+  </person>
+  <person id="syp2009_p79">
+    <name>Молородов Юрий Иванович</name>
+  </person>
+  <person id="syp2009_p82">
+    <name>Тимошок Антон Игоревич</name>
+  </person>
+  <person id="syp2009_p83">
+    <name>Ушакова Полина Алексеевна</name>
+  </person>
+  <person id="syp2009_p85">
+    <name>Пальянов Андрей Юрьевич</name>
+  </person>
+  <person id="syp2009_p87">
+    <name>Казанцев Григорий Юрьевич</name>
+  </person>
+  <person id="syp2009_p89">
+    <name>Кашкута Игорь Николаевич</name>
+  </person>
+  <person id="syp2009_p90">
+    <name>Бессонов Вячеслав Евгеньевич</name>
+  </person>
+  <person id="syp2009_p91">
+    <name>Дерюгин Денис Евгеньевич</name>
+  </person>
+  <person id="syp2009_p94">
+    <name>Мирзуитова Александра Сергеевна</name>
+  </person>
+  <!-- Сделано с помощью программы Ассоциатор.Участник_В_Мастерской -->
+  <uchastie id="syp2009_r_1">
+    <uchastnik ref="syp2009_p1" />
+    <in-org ref="shashki" />
+  </uchastie>
+  <uchastie id="syp2009_r_2">
+    <uchastnik ref="p6" />
+    <in-org ref="shashki" />
+  </uchastie>
+  <uchastie id="syp2009_r_3">
+    <uchastnik ref="syp2009_p3" />
+    <in-org ref="shashki" />
+  </uchastie>
+  <uchastie id="syp2009_r_4">
+    <uchastnik ref="person17" />
+    <in-org ref="shashki" />
+  </uchastie>
+  <uchastie id="syp2009_r_5">
+    <uchastnik ref="syp2009_p5" />
+    <in-org ref="shashki" />
+  </uchastie>
+  <uchastie id="syp2009_r_6">
+    <uchastnik ref="person65" />
+    <in-org ref="shashki" />
+  </uchastie>
+  <uchastie id="syp2009_r_7">
+    <uchastnik ref="syp2009_p7" />
+    <in-org ref="shashki" />
+  </uchastie>
+  <uchastie id="syp2009_r_8">
+    <uchastnik ref="person60" />
+    <in-org ref="shashki" />
+  </uchastie>
+  <uchastie id="syp2009_r_9">
+    <uchastnik ref="syp2008_1182" />
+    <in-org ref="flash-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_10">
+    <uchastnik ref="syp2009_p10" />
+    <in-org ref="flash-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_11">
+    <uchastnik ref="syp2009_p11" />
+    <in-org ref="flash-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_12">
+    <uchastnik ref="syp2008_1118" />
+    <in-org ref="flash-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_13">
+    <uchastnik ref="syp2009_p13" />
+    <in-org ref="flash-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_14">
+    <uchastnik ref="syp2009_p14" />
+    <in-org ref="flash-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_15">
+    <uchastnik ref="person_1" />
+    <in-org ref="ekoles" />
+  </uchastie>
+  <uchastie id="syp2009_r_16">
+    <uchastnik ref="syp2009_p16" />
+    <in-org ref="ekoles" />
+  </uchastie>
+  <uchastie id="syp2009_r_17">
+    <uchastnik ref="person20" />
+    <in-org ref="ekoles" />
+  </uchastie>
+  <uchastie id="syp2009_r_18">
+    <uchastnik ref="person19" />
+    <in-org ref="ekoles" />
+  </uchastie>
+  <uchastie id="syp2009_r_19">
+    <uchastnik ref="smirnov_p" />
+    <in-org ref="ekoles" />
+  </uchastie>
+  <uchastie id="syp2009_r_20">
+    <uchastnik ref="syp2004-p-32" />
+    <in-org ref="delphi-net" />
+  </uchastie>
+  <uchastie id="syp2009_r_21">
+    <uchastnik ref="luchkina_a" />
+    <in-org ref="delphi-net" />
+  </uchastie>
+  <uchastie id="syp2009_r_22">
+    <uchastnik ref="syp2009_p22" />
+    <in-org ref="delphi-net" />
+  </uchastie>
+  <uchastie id="syp2009_r_23">
+    <uchastnik ref="syp2008_1106" />
+    <in-org ref="delphi-net" />
+  </uchastie>
+  <uchastie id="syp2009_r_24">
+    <uchastnik ref="syp2008_1051" />
+    <in-org ref="delphi-net" />
+  </uchastie>
+  <uchastie id="syp2009_r_25">
+    <uchastnik ref="syp2002-p-17" />
+    <in-org ref="wpf_silverlight" />
+  </uchastie>
+  <uchastie id="syp2009_r_26">
+    <uchastnik ref="ahmetzyanov_d" />
+    <in-org ref="wpf_silverlight" />
+  </uchastie>
+  <uchastie id="syp2009_r_27">
+    <uchastnik ref="syp2009_p27" />
+    <in-org ref="wpf_silverlight" />
+  </uchastie>
+  <uchastie id="syp2009_r_28">
+    <uchastnik ref="syp2009_p28" />
+    <in-org ref="wpf_silverlight" />
+  </uchastie>
+  <uchastie id="syp2009_r_29">
+    <uchastnik ref="syp2009_p29" />
+    <in-org ref="wpf_silverlight" />
+  </uchastie>
+  <uchastie id="syp2009_r_30">
+    <uchastnik ref="person13_" />
+    <in-org ref="scratch-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_31">
+    <uchastnik ref="syp2008_1112" />
+    <in-org ref="scratch-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_32">
+    <uchastnik ref="syp2009_p32" />
+    <in-org ref="scratch-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_33">
+    <uchastnik ref="syp2009_p33" />
+    <in-org ref="scratch-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_34">
+    <uchastnik ref="koval_d" />
+    <in-org ref="scratch-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_35">
+    <uchastnik ref="syp2009_p35" />
+    <in-org ref="scratch-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_36">
+    <uchastnik ref="syp2009_p36" />
+    <in-org ref="scratch-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_37">
+    <uchastnik ref="syp2004-p-18" />
+    <in-org ref="net-chat-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_38">
+    <uchastnik ref="syp2008_1096" />
+    <in-org ref="net-chat-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_39">
+    <uchastnik ref="p86" />
+    <in-org ref="net-chat-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_40">
+    <uchastnik ref="syp2009_p40" />
+    <in-org ref="net-chat-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_41">
+    <uchastnik ref="sologub_d" />
+    <in-org ref="net-chat-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_42">
+    <uchastnik ref="tytov_d" />
+    <in-org ref="net-chat-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_43">
+    <uchastnik ref="syp2009_p43" />
+    <in-org ref="net-chat-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_44">
+    <uchastnik ref="p60" />
+    <in-org ref="proc_textures" />
+  </uchastie>
+  <uchastie id="syp2009_r_45">
+    <uchastnik ref="syp2004-p-1" />
+    <in-org ref="proc_textures" />
+  </uchastie>
+  <uchastie id="syp2009_r_46">
+    <uchastnik ref="p23" />
+    <in-org ref="proc_textures" />
+  </uchastie>
+  <uchastie id="syp2009_r_47">
+    <uchastnik ref="syp2008_1130" />
+    <in-org ref="proc_textures" />
+  </uchastie>
+  <uchastie id="syp2009_r_48">
+    <uchastnik ref="syp2008_1133" />
+    <in-org ref="proc_textures" />
+  </uchastie>
+  <uchastie id="syp2009_r_49">
+    <uchastnik ref="syp2009_p49" />
+    <in-org ref="proc_textures" />
+  </uchastie>
+  <uchastie id="syp2009_r_50">
+    <uchastnik ref="sakerin_v" />
+    <in-org ref="city_control" />
+  </uchastie>
+  <uchastie id="syp2009_r_51">
+    <uchastnik ref="syp2008_1185" />
+    <in-org ref="city_control" />
+  </uchastie>
+  <uchastie id="syp2009_r_52">
+    <uchastnik ref="kuzkokov_s" />
+    <in-org ref="city_control" />
+  </uchastie>
+  <uchastie id="syp2009_r_53">
+    <uchastnik ref="syp2008_1157" />
+    <in-org ref="city_control" />
+  </uchastie>
+  <uchastie id="syp2009_r_54">
+    <uchastnik ref="syp2009_p54" />
+    <in-org ref="city_control" />
+  </uchastie>
+  <uchastie id="syp2009_r_55">
+    <uchastnik ref="sakerin_a" />
+    <in-org ref="ekonom_emul" />
+  </uchastie>
+  <uchastie id="syp2009_r_56">
+    <uchastnik ref="syp2009_p56" />
+    <in-org ref="ekonom_emul" />
+  </uchastie>
+  <uchastie id="syp2009_r_57">
+    <uchastnik ref="syp2009_p57" />
+    <in-org ref="ekonom_emul" />
+  </uchastie>
+  <uchastie id="syp2009_r_58">
+    <uchastnik ref="syp2009_p58" />
+    <in-org ref="ekonom_emul" />
+  </uchastie>
+  <uchastie id="syp2009_r_59">
+    <uchastnik ref="person21" />
+    <in-org ref="ekonom_emul" />
+  </uchastie>
+  <uchastie id="syp2009_r_60">
+    <uchastnik ref="salmin_a" />
+    <in-org ref="fuse" />
+  </uchastie>
+  <uchastie id="syp2009_r_61">
+    <uchastnik ref="klimov_n" />
+    <in-org ref="fuse" />
+  </uchastie>
+  <uchastie id="syp2009_r_62">
+    <uchastnik ref="syp2009_p62" />
+    <in-org ref="fuse" />
+  </uchastie>
+  <uchastie id="syp2009_r_63">
+    <uchastnik ref="syp2009_p63" />
+    <in-org ref="fuse" />
+  </uchastie>
+  <uchastie id="syp2009_r_64">
+    <uchastnik ref="syp2009_p64" />
+    <in-org ref="fuse" />
+  </uchastie>
+  <uchastie id="syp2009_r_65">
+    <uchastnik ref="syp2001-p-marchuk_a" />
+    <in-org ref="sozdateli-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_66">
+    <uchastnik ref="p34" />
+    <in-org ref="sozdateli-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_67">
+    <uchastnik ref="syp2009_p67" />
+    <in-org ref="sozdateli-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_68">
+    <uchastnik ref="syp2009_p68" />
+    <in-org ref="sozdateli-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_69">
+    <uchastnik ref="syp2009_p69" />
+    <in-org ref="sozdateli-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_70">
+    <uchastnik ref="bauer_v" />
+    <in-org ref="ocr" />
+  </uchastie>
+  <uchastie id="syp2009_r_71">
+    <uchastnik ref="jirov_a" />
+    <in-org ref="ocr" />
+  </uchastie>
+  <uchastie id="syp2009_r_72">
+    <uchastnik ref="p87" />
+    <in-org ref="ocr" />
+  </uchastie>
+  <uchastie id="syp2009_r_73">
+    <uchastnik ref="p22" />
+    <in-org ref="ocr" />
+  </uchastie>
+  <uchastie id="syp2009_r_74">
+    <uchastnik ref="syp2004-p-5" />
+    <in-org ref="ocr" />
+  </uchastie>
+  <uchastie id="syp2009_r_75">
+    <uchastnik ref="syp2001-p-nasibulov" />
+    <in-org ref="faz_portraits" />
+  </uchastie>
+  <uchastie id="syp2009_r_76">
+    <uchastnik ref="syp2009_p76" />
+    <in-org ref="faz_portraits" />
+  </uchastie>
+  <uchastie id="syp2009_r_77">
+    <uchastnik ref="syp2009_p77" />
+    <in-org ref="faz_portraits" />
+  </uchastie>
+  <uchastie id="syp2009_r_78">
+    <uchastnik ref="rusakova_n" />
+    <in-org ref="fraktal_2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_79">
+    <uchastnik ref="syp2009_p79" />
+    <in-org ref="fraktal_2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_80">
+    <uchastnik ref="kazanceva_a" />
+    <in-org ref="fraktal_2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_81">
+    <uchastnik ref="kazanceva_n" />
+    <in-org ref="fraktal_2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_82">
+    <uchastnik ref="syp2009_p82" />
+    <in-org ref="fraktal_2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_83">
+    <uchastnik ref="syp2009_p83" />
+    <in-org ref="fraktal_2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_84">
+    <uchastnik ref="p25" />
+    <in-org ref="fraktal_2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_85">
+    <uchastnik ref="syp2009_p85" />
+    <in-org ref="phys_robot" />
+  </uchastie>
+  <uchastie id="syp2009_r_86">
+    <uchastnik ref="zyulyaev_n" />
+    <in-org ref="phys_robot" />
+  </uchastie>
+  <uchastie id="syp2009_r_87">
+    <uchastnik ref="syp2009_p87" />
+    <in-org ref="phys_robot" />
+  </uchastie>
+  <uchastie id="syp2009_r_88">
+    <uchastnik ref="morozov_a" />
+    <in-org ref="phys_robot" />
+  </uchastie>
+  <uchastie id="syp2009_r_89">
+    <uchastnik ref="syp2009_p89" />
+    <in-org ref="archivator" />
+  </uchastie>
+  <uchastie id="syp2009_r_90">
+    <uchastnik ref="syp2009_p90" />
+    <in-org ref="archivator" />
+  </uchastie>
+  <uchastie id="syp2009_r_91">
+    <uchastnik ref="syp2009_p91" />
+    <in-org ref="archivator" />
+  </uchastie>
+  <uchastie id="syp2009_r_92">
+    <uchastnik ref="person11" />
+    <in-org ref="archivator" />
+  </uchastie>
+  <uchastie id="syp2009_r_93">
+    <uchastnik ref="sherbina_s" />
+    <in-org ref="web-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_94">
+    <uchastnik ref="syp2009_p94" />
+    <in-org ref="web-2009" />
+  </uchastie>
+  <uchastie id="syp2009_r_95">
+    <uchastnik ref="person15" />
+    <in-org ref="web-2009" />
+  </uchastie>
+  <!-- Программма Ассоциатор.Участник_и_Мастерские_в_ЛШЮП-->
+  <uchastie id="syp2009_uchsyp1">
+    <uchastnik ref="syp2009_p1" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp2">
+    <uchastnik ref="p6" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp3">
+    <uchastnik ref="syp2009_p3" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp4">
+    <uchastnik ref="person17" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp5">
+    <uchastnik ref="syp2009_p5" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp6">
+    <uchastnik ref="person65" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp7">
+    <uchastnik ref="syp2009_p7" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp8">
+    <uchastnik ref="person60" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp9">
+    <uchastnik ref="syp2008_1182" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp10">
+    <uchastnik ref="syp2009_p10" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp11">
+    <uchastnik ref="syp2009_p11" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp12">
+    <uchastnik ref="syp2008_1118" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp13">
+    <uchastnik ref="syp2009_p13" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp14">
+    <uchastnik ref="syp2009_p14" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp15">
+    <uchastnik ref="person_1" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp16">
+    <uchastnik ref="syp2009_p16" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp17">
+    <uchastnik ref="person20" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp18">
+    <uchastnik ref="person19" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp19">
+    <uchastnik ref="smirnov_p" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp20">
+    <uchastnik ref="syp2004-p-32" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp21">
+    <uchastnik ref="luchkina_a" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp22">
+    <uchastnik ref="syp2009_p22" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp23">
+    <uchastnik ref="syp2008_1106" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp24">
+    <uchastnik ref="syp2008_1051" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp25">
+    <uchastnik ref="syp2002-p-17" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp26">
+    <uchastnik ref="ahmetzyanov_d" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp27">
+    <uchastnik ref="syp2009_p27" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp28">
+    <uchastnik ref="syp2009_p28" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp29">
+    <uchastnik ref="syp2009_p29" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp30">
+    <uchastnik ref="person13_" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp31">
+    <uchastnik ref="syp2008_1112" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp32">
+    <uchastnik ref="syp2009_p32" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp33">
+    <uchastnik ref="syp2009_p33" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp34">
+    <uchastnik ref="koval_d" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp35">
+    <uchastnik ref="syp2009_p35" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp36">
+    <uchastnik ref="syp2009_p36" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp37">
+    <uchastnik ref="syp2004-p-18" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp38">
+    <uchastnik ref="syp2008_1096" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp39">
+    <uchastnik ref="p86" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp40">
+    <uchastnik ref="syp2009_p40" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp41">
+    <uchastnik ref="sologub_d" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp42">
+    <uchastnik ref="tytov_d" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp43">
+    <uchastnik ref="syp2009_p43" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp44">
+    <uchastnik ref="p60" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp45">
+    <uchastnik ref="syp2004-p-1" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp46">
+    <uchastnik ref="p23" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp47">
+    <uchastnik ref="syp2008_1130" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp48">
+    <uchastnik ref="syp2008_1133" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp49">
+    <uchastnik ref="syp2009_p49" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp50">
+    <uchastnik ref="sakerin_v" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp51">
+    <uchastnik ref="syp2008_1185" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp52">
+    <uchastnik ref="kuzkokov_s" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp53">
+    <uchastnik ref="syp2008_1157" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp54">
+    <uchastnik ref="syp2009_p54" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp55">
+    <uchastnik ref="sakerin_a" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp56">
+    <uchastnik ref="syp2009_p56" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp57">
+    <uchastnik ref="syp2009_p57" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp58">
+    <uchastnik ref="syp2009_p58" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp59">
+    <uchastnik ref="person21" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp60">
+    <uchastnik ref="salmin_a" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp61">
+    <uchastnik ref="klimov_n" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp62">
+    <uchastnik ref="syp2009_p62" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp63">
+    <uchastnik ref="syp2009_p63" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp64">
+    <uchastnik ref="syp2009_p64" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp65">
+    <uchastnik ref="syp2001-p-marchuk_a" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp66">
+    <uchastnik ref="p34" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp67">
+    <uchastnik ref="syp2009_p67" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp68">
+    <uchastnik ref="syp2009_p68" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp69">
+    <uchastnik ref="syp2009_p69" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp70">
+    <uchastnik ref="bauer_v" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp71">
+    <uchastnik ref="jirov_a" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp72">
+    <uchastnik ref="p87" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp73">
+    <uchastnik ref="p22" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp74">
+    <uchastnik ref="syp2004-p-5" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp75">
+    <uchastnik ref="syp2001-p-nasibulov" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp76">
+    <uchastnik ref="syp2009_p76" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp77">
+    <uchastnik ref="syp2009_p77" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp78">
+    <uchastnik ref="rusakova_n" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp79">
+    <uchastnik ref="syp2009_p79" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp80">
+    <uchastnik ref="kazanceva_a" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp81">
+    <uchastnik ref="kazanceva_n" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp82">
+    <uchastnik ref="syp2009_p82" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp83">
+    <uchastnik ref="syp2009_p83" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp84">
+    <uchastnik ref="p25" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp85">
+    <uchastnik ref="syp2009_p85" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp86">
+    <uchastnik ref="zyulyaev_n" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp87">
+    <uchastnik ref="syp2009_p87" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp88">
+    <uchastnik ref="morozov_a" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp89">
+    <uchastnik ref="syp2009_p89" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp90">
+    <uchastnik ref="syp2009_p90" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp91">
+    <uchastnik ref="syp2009_p91" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp92">
+    <uchastnik ref="person11" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp93">
+    <uchastnik ref="sherbina_s" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp94">
+    <uchastnik ref="syp2009_p94" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp95">
+    <uchastnik ref="person15" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp96">
+    <uchastnik ref="syp2004-p-90" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp97">
+    <uchastnik ref="syp2001-p-baehrs" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp98">
+    <uchastnik ref="syp2001-p-zanina" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp99">
+    <uchastnik ref="syp2001-p-sosedkin" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <uchastie id="syp2009_uchsyp100">
+    <uchastnik ref="syp2001-p-smolyak" />
+    <in-org ref="syp2009school" />
+  </uchastie>
+  <!-- Мастерские в ЛШЮП -->
+  <org-relatives id="syp2009_mastsyp1">
+    <org-child ref="shashki" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp2">
+    <org-child ref="flash-2009" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp3">
+    <org-child ref="ekoles" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp4">
+    <org-child ref="delphi-net" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp5">
+    <org-child ref="wpf_silverlight" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp6">
+    <org-child ref="scratch-2009" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp7">
+    <org-child ref="net-chat-2009" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp8">
+    <org-child ref="proc_textures" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp9">
+    <org-child ref="city_control" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp10">
+    <org-child ref="ekonom_emul" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp11">
+    <org-child ref="fuse" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp12">
+    <org-child ref="sozdateli-2009" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp13">
+    <org-child ref="ocr" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp14">
+    <org-child ref="faz_portraits" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp15">
+    <org-child ref="fraktal_2009" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp16">
+    <org-child ref="phys_robot" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp17">
+    <org-child ref="archivator" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <org-relatives id="syp2009_mastsyp18">
+    <org-child ref="web-2009" />
+    <org-parent ref="syp2009school" />
+  </org-relatives>
+  <!-- Города и кто там живет -->
+  <city id="nsk">
+    <name>Новосибирск</name>
+  </city>
+  <city id="kem">
+    <name>Кемерово</name>
+  </city>
+  <city id="moscow">
+    <name>Москва</name>
+  </city>
+  <city id="bratsk">
+    <name>Братск</name>
+  </city>
+  <city id="berdsk">
+    <name>Бердск</name>
+  </city>
+  <city id="miass">
+    <name>Миасс</name>
+  </city>
+  <city id="abakan">
+    <name>Абакан</name>
+  </city>
+  <city id="stpetesburg">
+    <name>Санкт-Петербург</name>
+  </city>
+  <city id="new_kuznetsk">
+    <name>Новокузнецк</name>
+  </city>
+  <city id="omsk">
+    <name>Омск</name>
+  </city>
+  <city id="tomsk">
+    <name>Томск</name>
+  </city>
+  <city id="irkutsk">
+    <name>Иркутск</name>
+  </city>
+  <city id="milan">
+    <name>Милан</name>
+  </city>
+  <city id="biysk">
+    <name>Бийск</name>
+  </city>
+  <living id="syp2009_ref251">
+    <where ref="nsk" />
+    <who ref="person15" />
+  </living>
+  <living id="syp2009_ref252">
+    <where ref="nsk" />
+    <who ref="syp2009_p94" />
+  </living>
+  <living id="syp2009_ref253">
+    <where ref="nsk" />
+    <who ref="syp2009_p10" />
+  </living>
+  <living id="syp2009_ref254">
+    <where ref="nsk" />
+    <who ref="ahmetzyanov_d" />
+  </living>
+  <living id="syp2009_ref255">
+    <where ref="nsk" />
+    <who ref="syp2008_1112" />
+  </living>
+  <living id="syp2009_ref256">
+    <where ref="nsk" />
+    <who ref="syp2009_p3" />
+  </living>
+  <living id="syp2009_ref257">
+    <where ref="nsk" />
+    <who ref="syp2009_p22" />
+  </living>
+  <living id="syp2009_ref258">
+    <where ref="nsk" />
+    <who ref="syp2009_p32" />
+  </living>
+  <living id="syp2009_ref259">
+    <where ref="nsk" />
+    <who ref="syp2009_p90" />
+  </living>
+  <living id="syp2009_ref260">
+    <where ref="nsk" />
+    <who ref="person17" />
+  </living>
+  <living id="syp2009_ref261">
+    <where ref="nsk" />
+    <who ref="p87" />
+  </living>
+  <living id="syp2009_ref262">
+    <where ref="nsk" />
+    <who ref="syp2009_p33" />
+  </living>
+  <living id="syp2009_ref263">
+    <where ref="nsk" />
+    <who ref="zyulyaev_n" />
+  </living>
+  <living id="syp2009_ref264">
+    <where ref="nsk" />
+    <who ref="syp2009_p87" />
+  </living>
+  <living id="syp2009_ref265">
+    <where ref="nsk" />
+    <who ref="kazanceva_a" />
+  </living>
+  <living id="syp2009_ref266">
+    <where ref="nsk" />
+    <who ref="kazanceva_n" />
+  </living>
+  <living id="syp2009_ref267">
+    <where ref="nsk" />
+    <who ref="p22" />
+  </living>
+  <living id="syp2009_ref268">
+    <where ref="nsk" />
+    <who ref="syp2009_p62" />
+  </living>
+  <living id="syp2009_ref269">
+    <where ref="nsk" />
+    <who ref="koval_d" />
+  </living>
+  <living id="syp2009_ref270">
+    <where ref="nsk" />
+    <who ref="person13_" />
+  </living>
+  <living id="syp2009_ref271">
+    <where ref="nsk" />
+    <who ref="syp2008_1185" />
+  </living>
+  <living id="syp2009_ref272">
+    <where ref="nsk" />
+    <who ref="syp2009_p11" />
+  </living>
+  <living id="syp2009_ref273">
+    <where ref="nsk" />
+    <who ref="syp2004-p-1" />
+  </living>
+  <living id="syp2009_ref274">
+    <where ref="nsk" />
+    <who ref="kuzkokov_s" />
+  </living>
+  <living id="syp2009_ref275">
+    <where ref="nsk" />
+    <who ref="p23" />
+  </living>
+  <living id="syp2009_ref276">
+    <where ref="nsk" />
+    <who ref="syp2001-p-marchuk_a" />
+  </living>
+  <living id="syp2009_ref277">
+    <where ref="nsk" />
+    <who ref="morozov_a" />
+  </living>
+  <living id="syp2009_ref279">
+    <where ref="nsk" />
+    <who ref="person20" />
+  </living>
+  <living id="syp2009_ref280">
+    <where ref="nsk" />
+    <who ref="syp2009_p40" />
+  </living>
+  <living id="syp2009_ref281">
+    <where ref="nsk" />
+    <who ref="syp2009_p67" />
+  </living>
+  <living id="syp2009_ref282">
+    <where ref="nsk" />
+    <who ref="syp2008_1051" />
+  </living>
+  <living id="syp2009_ref283">
+    <where ref="nsk" />
+    <who ref="p6" />
+  </living>
+  <living id="syp2009_ref284">
+    <where ref="nsk" />
+    <who ref="syp2009_p35" />
+  </living>
+  <living id="syp2009_ref285">
+    <where ref="nsk" />
+    <who ref="syp2009_p13" />
+  </living>
+  <living id="syp2009_ref286">
+    <where ref="nsk" />
+    <who ref="person19" />
+  </living>
+  <living id="syp2009_ref287">
+    <where ref="nsk" />
+    <who ref="sologub_d" />
+  </living>
+  <living id="syp2009_ref288">
+    <where ref="nsk" />
+    <who ref="syp2009_p82" />
+  </living>
+  <living id="syp2009_ref289">
+    <where ref="nsk" />
+    <who ref="tytov_d" />
+  </living>
+  <living id="syp2009_ref290">
+    <where ref="nsk" />
+    <who ref="p25" />
+  </living>
+  <living id="syp2009_ref291">
+    <where ref="nsk" />
+    <who ref="syp2009_p14" />
+  </living>
+  <living id="syp2009_ref292">
+    <where ref="nsk" />
+    <who ref="person65" />
+  </living>
+  <living id="syp2009_ref293">
+    <where ref="nsk" />
+    <who ref="syp2009_p64" />
+  </living>
+  <living id="syp2009_ref294">
+    <where ref="nsk" />
+    <who ref="syp2009_p43" />
+  </living>
+  <living id="syp2009_ref295">
+    <where ref="nsk" />
+    <who ref="syp2009_p69" />
+  </living>
+  <living id="syp2009_ref296">
+    <where ref="nsk" />
+    <who ref="syp2008_1118" />
+  </living>
+  <living id="syp2009_ref297">
+    <where ref="nsk" />
+    <who ref="syp2009_p7" />
+  </living>
+  <living id="syp2009_ref298">
+    <where ref="nsk" />
+    <who ref="syp2009_p49" />
+  </living>
+  <living id="syp2009_ref299">
+    <where ref="nsk" />
+    <who ref="person11" />
+  </living>
+  <living id="syp2009_ref300">
+    <where ref="nsk" />
+    <who ref="person21" />
+  </living>
+  <living id="syp2009_ref301">
+    <where ref="kem" />
+    <who ref="syp2009_p27" />
+  </living>
+  <living id="syp2009_ref302">
+    <where ref="kem" />
+    <who ref="syp2009_p28" />
+  </living>
+  <living id="syp2009_ref303">
+    <where ref="kem" />
+    <who ref="klimov_n" />
+  </living>
+  <living id="syp2009_ref304">
+    <where ref="kem" />
+    <who ref="syp2008_1130" />
+  </living>
+  <living id="syp2009_ref305">
+    <where ref="kem" />
+    <who ref="syp2009_p58" />
+  </living>
+  <living id="syp2009_ref306">
+    <where ref="kem" />
+    <who ref="rusakova_n" />
+  </living>
+  <living id="syp2009_ref307">
+    <where ref="kem" />
+    <who ref="syp2009_p5" />
+  </living>
+  <living id="syp2009_ref308">
+    <where ref="kem" />
+    <who ref="syp2009_p77" />
+  </living>
+  <living id="syp2009_ref309">
+    <where ref="kem" />
+    <who ref="syp2008_1106" />
+  </living>
+  <living id="syp2009_ref310">
+    <where ref="kem" />
+    <who ref="syp2009_p83" />
+  </living>
+  <living id="syp2009_ref311">
+    <where ref="kem" />
+    <who ref="syp2008_1133" />
+  </living>
+  <living id="syp2009_ref312">
+    <where ref="moscow" />
+    <who ref="syp2009_p36" />
+  </living>
+  <living id="syp2009_ref313">
+    <where ref="bratsk" />
+    <who ref="syp2009_p63" />
+  </living>
+  <living id="syp2009_ref314">
+    <where ref="berdsk" />
+    <who ref="luchkina_a" />
+  </living>
+  <living id="syp2009_ref315">
+    <where ref="berdsk" />
+    <who ref="syp2004-p-5" />
+  </living>
+  <living id="syp2009_ref316">
+    <where ref="berdsk" />
+    <who ref="smirnov_p" />
+  </living>
+  <living id="syp2009_ref317">
+    <where ref="miass" />
+    <who ref="person_1" />
+  </living>
+  <living id="syp2009_ref318">
+    <where ref="miass" />
+    <who ref="syp2009_p76" />
+  </living>
+  <living id="syp2009_ref319">
+    <where ref="miass" />
+    <who ref="syp2009_p29" />
+  </living>
+  <living id="syp2009_ref320">
+    <where ref="abakan" />
+    <who ref="syp2009_p56" />
+  </living>
+  <living id="syp2009_ref321">
+    <where ref="abakan" />
+    <who ref="sakerin_a" />
+  </living>
+  <living id="syp2009_ref322">
+    <where ref="abakan" />
+    <who ref="sakerin_v" />
+  </living>
+  <living id="syp2009_ref323">
+    <where ref="stpetesburg" />
+    <who ref="syp2008_1096" />
+  </living>
+  <living id="syp2009_ref324">
+    <where ref="new_kuznetsk" />
+    <who ref="syp2009_p54" />
+  </living>
+  <living id="syp2009_ref325">
+    <where ref="new_kuznetsk" />
+    <who ref="syp2008_1157" />
+  </living>
+  <living id="syp2009_ref326">
+    <where ref="omsk" />
+    <who ref="p86" />
+  </living>
+  <living id="syp2009_ref327">
+    <where ref="tomsk" />
+    <who ref="syp2009_p91" />
+  </living>
+  <living id="syp2009_ref328">
+    <where ref="irkutsk" />
+    <who ref="syp2009_p57" />
+  </living>
+  <living id="syp2009_ref329">
+    <where ref="milan" />
+    <who ref="syp2009_p68" />
+  </living>
+  <living id="syp2009_ref330">
+    <where ref="biysk" />
+    <who ref="p34" />
+  </living>
+  <living id="syp2009_ref331">
+    <where ref="nsk" />
+    <who ref="bauer_v" />
+  </living>
+  <living id="syp2009_ref332">
+    <where ref="nsk" />
+    <who ref="p60" />
+  </living>
+  <living id="syp2009_ref333">
+    <where ref="nsk" />
+    <who ref="syp2008_1182" />
+  </living>
+  <living id="syp2009_ref334">
+    <where ref="nsk" />
+    <who ref="syp2002-p-17" />
+  </living>
+  <living id="syp2009_ref335">
+    <where ref="nsk" />
+    <who ref="jirov_a" />
+  </living>
+  <living id="syp2009_ref336">
+    <where ref="nsk" />
+    <who ref="syp2009_p89" />
+  </living>
+  <living id="syp2009_ref337">
+    <where ref="nsk" />
+    <who ref="syp2004-p-18" />
+  </living>
+  <living id="syp2009_ref338">
+    <where ref="nsk" />
+    <who ref="syp2004-p-32" />
+  </living>
+  <living id="syp2009_ref339">
+    <where ref="nsk" />
+    <who ref="syp2009_p79" />
+  </living>
+  <living id="syp2009_ref340">
+    <where ref="nsk" />
+    <who ref="syp2001-p-nasibulov" />
+  </living>
+  <living id="syp2009_ref341">
+    <where ref="nsk" />
+    <who ref="syp2009_p85" />
+  </living>
+  <living id="syp2009_ref343">
+    <where ref="nsk" />
+    <who ref="syp2009_p1" />
+  </living>
+  <living id="syp2009_ref344">
+    <where ref="nsk" />
+    <who ref="salmin_a" />
+  </living>
+  <living id="syp2009_ref345">
+    <where ref="nsk" />
+    <who ref="syp2009_p16" />
+  </living>
+  <living id="syp2009_ref346">
+    <where ref="nsk" />
+    <who ref="person60" />
+  </living>
+  <living id="syp2009_ref347">
+    <where ref="nsk" />
+    <who ref="sherbina_s" />
+  </living>
+  <living id="syp2009_ref348">
+    <where ref="nsk" />
+    <who ref="syp2004-p-90" />
+  </living>
+  <living id="syp2009_ref349">
+    <where ref="nsk" />
+    <who ref="syp2001-p-baehrs" />
+  </living>
+  <living id="syp2009_ref350">
+    <where ref="nsk" />
+    <who ref="syp2001-p-zanina" />
+  </living>
+  <living id="syp2009_ref351">
+    <where ref="nsk" />
+    <who ref="syp2001-p-sosedkin" />
+  </living>
+  <living id="syp2009_ref352">
+    <where ref="nsk" />
+    <who ref="syp2001-p-smolyak" />
+  </living>
+</db>

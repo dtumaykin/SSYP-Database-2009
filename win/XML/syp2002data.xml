@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Document docid="syp2002data.xml">
+  <org-sys id="syp2002school">
+    <name>ЛШЮП-2002 (Сибиряк)</name>
+  </org-sys>
+  <living id="id=syp2002-liv-1">
+    <who ref="syp2001-p-aleksandrov" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-1">
+    <uchastnik ref="syp2001-p-aleksandrov" />
+    <in-org ref="syp2002-mast-7" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-1">
+    <uchastnik ref="syp2001-p-aleksandrov" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-2">
+    <name>Арыков Станислав</name>
+  </person>
+  <living id="id=syp2002-liv-2">
+    <who ref="syp2002-p-2" />
+    <where ref="gal" />
+  </living>
+  <uchastie id="syp2002-uch-2">
+    <uchastnik ref="syp2002-p-2" />
+    <in-org ref="syp2002-mast-9" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-2">
+    <uchastnik ref="syp2002-p-2" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-3">
+    <name>Бажинов Слава</name>
+  </person>
+  <living id="id=syp2002-liv-3">
+    <who ref="syp2002-p-3" />
+    <where ref="zim" />
+  </living>
+  <uchastie id="syp2002-uch-3">
+    <uchastnik ref="syp2002-p-3" />
+    <in-org ref="syp2002-mast-7" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-3">
+    <uchastnik ref="syp2002-p-3" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-4">
+    <name>Балутин Иван</name>
+  </person>
+  <living id="id=syp2002-liv-4">
+    <who ref="syp2002-p-4" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-4">
+    <uchastnik ref="syp2002-p-4" />
+    <in-org ref="syp2002-mast-10" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-4">
+    <uchastnik ref="syp2002-p-4" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-5">
+    <who ref="syp2001-p-basalaev" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-5">
+    <uchastnik ref="syp2001-p-basalaev" />
+    <in-org ref="syp2002-mast-2" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-5">
+    <uchastnik ref="syp2001-p-basalaev" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-6">
+    <name>Баяновская Светлана</name>
+  </person>
+  <living id="id=syp2002-liv-6">
+    <who ref="syp2002-p-6" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-6">
+    <uchastnik ref="syp2002-p-6" />
+    <in-org ref="syp2002-mast-11" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-6">
+    <uchastnik ref="syp2002-p-6" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-7">
+    <name>Бессмельцев Михаил</name>
+  </person>
+  <living id="id=syp2002-liv-7">
+    <who ref="syp2002-p-7" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-7">
+    <uchastnik ref="syp2002-p-7" />
+    <in-org ref="syp2002-mast-8" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-7">
+    <uchastnik ref="syp2002-p-7" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-8">
+    <name>Богданов Кирилл</name>
+  </person>
+  <living id="id=syp2002-liv-8">
+    <who ref="syp2002-p-8" />
+    <where ref="ptv" />
+  </living>
+  <uchastie id="syp2002-uch-8">
+    <uchastnik ref="syp2002-p-8" />
+    <in-org ref="syp2002-mast-9" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-8">
+    <uchastnik ref="syp2002-p-8" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-9">
+    <name>Бочкарев Антон</name>
+  </person>
+  <living id="id=syp2002-liv-9">
+    <who ref="syp2002-p-9" />
+    <where ref="brd" />
+  </living>
+  <uchastie id="syp2002-uch-9">
+    <uchastnik ref="syp2002-p-9" />
+    <in-org ref="syp2002-mast-1" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-9">
+    <uchastnik ref="syp2002-p-9" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-10">
+    <who ref="syp2001-p-vazhenin" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-10">
+    <uchastnik ref="syp2001-p-vazhenin" />
+    <in-org ref="syp2002-mast-6" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-10">
+    <uchastnik ref="syp2001-p-vazhenin" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-11">
+    <who ref="syp2001-p-vdovin" />
+    <where ref="gal" />
+  </living>
+  <uchastie id="syp2002-uch-11">
+    <uchastnik ref="syp2001-p-vdovin" />
+    <in-org ref="syp2002-mast-5" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-11">
+    <uchastnik ref="syp2001-p-vdovin" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-12">
+    <name>Веснин Дмитрий</name>
+  </person>
+  <living id="id=syp2002-liv-12">
+    <who ref="syp2002-p-12" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-12">
+    <uchastnik ref="syp2002-p-12" />
+    <in-org ref="syp2002-mast-7" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-12">
+    <uchastnik ref="syp2002-p-12" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-13">
+    <name>Глазырин Евгений Евгеньевич</name>
+  </person>
+  <living id="id=syp2002-liv-13">
+    <who ref="syp2002-p-13" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-13">
+    <uchastnik ref="syp2002-p-13" />
+    <in-org ref="syp2002-mast-5" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-13">
+    <uchastnik ref="syp2002-p-13" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-14">
+    <name>Гольдорт Лев</name>
+  </person>
+  <living id="id=syp2002-liv-14">
+    <who ref="syp2002-p-14" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-14">
+    <uchastnik ref="syp2002-p-14" />
+    <in-org ref="syp2002-mast-4" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-14">
+    <uchastnik ref="syp2002-p-14" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-15">
+    <name>Горшков Иван Геннадьевич</name>
+  </person>
+  <living id="id=syp2002-liv-15">
+    <who ref="syp2002-p-15" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-15">
+    <uchastnik ref="syp2002-p-15" />
+    <in-org ref="syp2002-mast-2" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-15">
+    <uchastnik ref="syp2002-p-15" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-16">
+    <who ref="syp2001-p-dortman" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-16">
+    <uchastnik ref="syp2001-p-dortman" />
+    <in-org ref="syp2002-mast-7" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-16">
+    <uchastnik ref="syp2001-p-dortman" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-17">
+    <name>Дульцев Игорь Николаевич</name>
+  </person>
+  <living id="id=syp2002-liv-17">
+    <who ref="syp2002-p-17" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-17">
+    <uchastnik ref="syp2002-p-17" />
+    <in-org ref="syp2002-mast-9" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-17">
+    <uchastnik ref="syp2002-p-17" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-18">
+    <name>Душечкин Алексей</name>
+  </person>
+  <living id="id=syp2002-liv-18">
+    <who ref="syp2002-p-18" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-18">
+    <uchastnik ref="syp2002-p-18" />
+    <in-org ref="syp2002-mast-7" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-18">
+    <uchastnik ref="syp2002-p-18" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-19">
+    <name>Елисевич Александр</name>
+  </person>
+  <living id="id=syp2002-liv-19">
+    <who ref="syp2002-p-19" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-19">
+    <uchastnik ref="syp2002-p-19" />
+    <in-org ref="syp2002-mast-2" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-19">
+    <uchastnik ref="syp2002-p-19" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-20">
+    <name>Забелин Алексей</name>
+  </person>
+  <living id="id=syp2002-liv-20">
+    <who ref="syp2002-p-20" />
+    <where ref="gal" />
+  </living>
+  <uchastie id="syp2002-uch-20">
+    <uchastnik ref="syp2002-p-20" />
+    <in-org ref="syp2002-mast-5" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-20">
+    <uchastnik ref="syp2002-p-20" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-21">
+    <name>Забелина Евгения</name>
+  </person>
+  <living id="id=syp2002-liv-21">
+    <who ref="syp2002-p-21" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-21">
+    <uchastnik ref="syp2002-p-21" />
+    <in-org ref="syp2002-mast-11" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-21">
+    <uchastnik ref="syp2002-p-21" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-22">
+    <name>Загорулько Максим</name>
+  </person>
+  <living id="id=syp2002-liv-22">
+    <who ref="syp2002-p-22" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-22">
+    <uchastnik ref="syp2002-p-22" />
+    <in-org ref="syp2002-mast-1" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-22">
+    <uchastnik ref="syp2002-p-22" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-23">
+    <who ref="syp2001-p-ivanov_a" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-23">
+    <uchastnik ref="syp2001-p-ivanov_a" />
+    <in-org ref="syp2002-mast-10" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-23">
+    <uchastnik ref="syp2001-p-ivanov_a" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-24">
+    <who ref="syp2001-p-ilduganov" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-24">
+    <uchastnik ref="syp2001-p-ilduganov" />
+    <in-org ref="syp2002-mast-8" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-24">
+    <uchastnik ref="syp2001-p-ilduganov" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-25">
+    <name>Калгин Константин Викторович</name>
+  </person>
+  <living id="id=syp2002-liv-25">
+    <who ref="syp2002-p-25" />
+    <where ref="obx" />
+  </living>
+  <uchastie id="syp2002-uch-25">
+    <uchastnik ref="syp2002-p-25" />
+    <in-org ref="syp2002-mast-1" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-25">
+    <uchastnik ref="syp2002-p-25" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-26">
+    <who ref="syp2001-p-kateshov" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-26">
+    <uchastnik ref="syp2001-p-kateshov" />
+    <in-org ref="syp2002-mast-9" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-26">
+    <uchastnik ref="syp2001-p-kateshov" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-27">
+    <name>Коваль Сергей</name>
+  </person>
+  <living id="id=syp2002-liv-27">
+    <who ref="syp2002-p-27" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-27">
+    <uchastnik ref="syp2002-p-27" />
+    <in-org ref="syp2002-mast-3" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-27">
+    <uchastnik ref="syp2002-p-27" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-28">
+    <name>Козионов Василий</name>
+  </person>
+  <living id="id=syp2002-liv-28">
+    <who ref="syp2002-p-28" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-28">
+    <uchastnik ref="syp2002-p-28" />
+    <in-org ref="syp2002-mast-4" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-28">
+    <uchastnik ref="syp2002-p-28" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-29">
+    <who ref="syp2001-p-kolodin" />
+    <where ref="spb" />
+  </living>
+  <uchastie id="syp2002-uch-29">
+    <uchastnik ref="syp2001-p-kolodin" />
+    <in-org ref="syp2002-mast-1" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-29">
+    <uchastnik ref="syp2001-p-kolodin" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-30">
+    <who ref="syp2001-p-koplyarov" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-30">
+    <uchastnik ref="syp2001-p-koplyarov" />
+    <in-org ref="syp2002-mast-2" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-30">
+    <uchastnik ref="syp2001-p-koplyarov" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-31">
+    <name>Кузькоков Владислав</name>
+  </person>
+  <living id="id=syp2002-liv-31">
+    <who ref="syp2002-p-31" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-31">
+    <uchastnik ref="syp2002-p-31" />
+    <in-org ref="syp2002-mast-10" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-31">
+    <uchastnik ref="syp2002-p-31" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-32">
+    <name>Лахин Илья Александрович</name>
+  </person>
+  <living id="id=syp2002-liv-32">
+    <who ref="syp2002-p-32" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-32">
+    <uchastnik ref="syp2002-p-32" />
+    <in-org ref="syp2002-mast-4" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-32">
+    <uchastnik ref="syp2002-p-32" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-33">
+    <who ref="syp2001-p-legchenko" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-33">
+    <uchastnik ref="syp2001-p-legchenko" />
+    <in-org ref="syp2002-mast-6" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-33">
+    <uchastnik ref="syp2001-p-legchenko" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-34">
+    <name>Лейченко Дмитрий Николаевич</name>
+  </person>
+  <living id="id=syp2002-liv-34">
+    <who ref="syp2002-p-34" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-34">
+    <uchastnik ref="syp2002-p-34" />
+    <in-org ref="syp2002-mast-8" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-34">
+    <uchastnik ref="syp2002-p-34" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-35">
+    <who ref="syp2001-p-lipovoy" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-35">
+    <uchastnik ref="syp2001-p-lipovoy" />
+    <in-org ref="syp2002-mast-8" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-35">
+    <uchastnik ref="syp2001-p-lipovoy" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-36">
+    <who ref="syp2001-p-luzin" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-36">
+    <uchastnik ref="syp2001-p-luzin" />
+    <in-org ref="syp2002-mast-9" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-36">
+    <uchastnik ref="syp2001-p-luzin" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-37">
+    <who ref="syp2001-p-lystsov" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-37">
+    <uchastnik ref="syp2001-p-lystsov" />
+    <in-org ref="syp2002-mast-3" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-37">
+    <uchastnik ref="syp2001-p-lystsov" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-38">
+    <who ref="syp2001-p-makarov" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-38">
+    <uchastnik ref="syp2001-p-makarov" />
+    <in-org ref="syp2002-mast-4" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-38">
+    <uchastnik ref="syp2001-p-makarov" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-39">
+    <name>Маркина Светлана</name>
+  </person>
+  <living id="id=syp2002-liv-39">
+    <who ref="syp2002-p-39" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-39">
+    <uchastnik ref="syp2002-p-39" />
+    <in-org ref="syp2002-mast-5" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-39">
+    <uchastnik ref="syp2002-p-39" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-40">
+    <who ref="syp2001-p-marchuk_a" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-40">
+    <uchastnik ref="syp2001-p-marchuk_a" />
+    <in-org ref="syp2002-mast-10" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-40">
+    <uchastnik ref="syp2001-p-marchuk_a" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-41">
+    <name>Махнаткина Настя</name>
+  </person>
+  <living id="id=syp2002-liv-41">
+    <who ref="syp2002-p-41" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-41">
+    <uchastnik ref="syp2002-p-41" />
+    <in-org ref="syp2002-mast-5" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-41">
+    <uchastnik ref="syp2002-p-41" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-42">
+    <name>Намбулов Егор</name>
+  </person>
+  <living id="id=syp2002-liv-42">
+    <who ref="syp2002-p-42" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-42">
+    <uchastnik ref="syp2002-p-42" />
+    <in-org ref="syp2002-mast-3" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-42">
+    <uchastnik ref="syp2002-p-42" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-43">
+    <name>Немов Илья</name>
+  </person>
+  <living id="id=syp2002-liv-43">
+    <who ref="syp2002-p-43" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-43">
+    <uchastnik ref="syp2002-p-43" />
+    <in-org ref="syp2002-mast-8" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-43">
+    <uchastnik ref="syp2002-p-43" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-44">
+    <name>Нестеров Никита</name>
+  </person>
+  <living id="id=syp2002-liv-44">
+    <who ref="syp2002-p-44" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-44">
+    <uchastnik ref="syp2002-p-44" />
+    <in-org ref="syp2002-mast-10" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-44">
+    <uchastnik ref="syp2002-p-44" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-45">
+    <who ref="syp2001-p-onischenko" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-45">
+    <uchastnik ref="syp2001-p-onischenko" />
+    <in-org ref="syp2002-mast-6" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-45">
+    <uchastnik ref="syp2001-p-onischenko" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-46">
+    <name>Острикова Ольга</name>
+  </person>
+  <living id="id=syp2002-liv-46">
+    <who ref="syp2002-p-46" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-46">
+    <uchastnik ref="syp2002-p-46" />
+    <in-org ref="syp2002-mast-1" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-46">
+    <uchastnik ref="syp2002-p-46" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-47">
+    <who ref="syp2001-p-pozdnyakov" />
+    <where ref="brn" />
+  </living>
+  <uchastie id="syp2002-uch-47">
+    <uchastnik ref="syp2001-p-pozdnyakov" />
+    <in-org ref="syp2002-mast-4" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-47">
+    <uchastnik ref="syp2001-p-pozdnyakov" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-48">
+    <who ref="syp2001-p-pokrovskaya" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-48">
+    <uchastnik ref="syp2001-p-pokrovskaya" />
+    <in-org ref="syp2002-mast-5" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-48">
+    <uchastnik ref="syp2001-p-pokrovskaya" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-49">
+    <name>Попов Никита</name>
+  </person>
+  <living id="id=syp2002-liv-49">
+    <who ref="syp2002-p-49" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-49">
+    <uchastnik ref="syp2002-p-49" />
+    <in-org ref="syp2002-mast-7" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-49">
+    <uchastnik ref="syp2002-p-49" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-50">
+    <who ref="syp2001-p-potapenko" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-50">
+    <uchastnik ref="syp2001-p-potapenko" />
+    <in-org ref="syp2002-mast-6" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-50">
+    <uchastnik ref="syp2001-p-potapenko" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-51">
+    <name>Похиленко Тимофей</name>
+  </person>
+  <living id="id=syp2002-liv-51">
+    <who ref="syp2002-p-51" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-51">
+    <uchastnik ref="syp2002-p-51" />
+    <in-org ref="syp2002-mast-4" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-51">
+    <uchastnik ref="syp2002-p-51" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-52">
+    <name>Пупков Евгений Максимович</name>
+  </person>
+  <living id="id=syp2002-liv-52">
+    <who ref="syp2002-p-52" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-52">
+    <uchastnik ref="syp2002-p-52" />
+    <in-org ref="syp2002-mast-4" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-52">
+    <uchastnik ref="syp2002-p-52" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-53">
+    <name>Савельева Нина</name>
+  </person>
+  <living id="id=syp2002-liv-53">
+    <who ref="syp2002-p-53" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-53">
+    <uchastnik ref="syp2002-p-53" />
+    <in-org ref="syp2002-mast-6" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-53">
+    <uchastnik ref="syp2002-p-53" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-54">
+    <name>Сборщиков Илья</name>
+  </person>
+  <living id="id=syp2002-liv-54">
+    <who ref="syp2002-p-54" />
+    <where ref="chr" />
+  </living>
+  <uchastie id="syp2002-uch-54">
+    <uchastnik ref="syp2002-p-54" />
+    <in-org ref="syp2002-mast-11" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-54">
+    <uchastnik ref="syp2002-p-54" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-55">
+    <who ref="syp2004-p-63" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-55">
+    <uchastnik ref="syp2004-p-63" />
+    <in-org ref="syp2002-mast-1" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-55">
+    <uchastnik ref="syp2004-p-63" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-56">
+    <who ref="solovyev_v" />
+    <where ref="ptv" />
+  </living>
+  <uchastie id="syp2002-uch-56">
+    <uchastnik ref="solovyev_v" />
+    <in-org ref="syp2002-mast-9" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-56">
+    <uchastnik ref="solovyev_v" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-57">
+    <name>Старцев Валерий</name>
+  </person>
+  <living id="id=syp2002-liv-57">
+    <who ref="syp2002-p-57" />
+    <where ref="brn" />
+  </living>
+  <uchastie id="syp2002-uch-57">
+    <uchastnik ref="syp2002-p-57" />
+    <in-org ref="syp2002-mast-12" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-57">
+    <uchastnik ref="syp2002-p-57" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-58">
+    <name>Степанов Сергей Анатольевич</name>
+  </person>
+  <living id="id=syp2002-liv-58">
+    <who ref="syp2002-p-58" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-58">
+    <uchastnik ref="syp2002-p-58" />
+    <in-org ref="syp2002-mast-11" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-58">
+    <uchastnik ref="syp2002-p-58" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-59">
+    <name>Степанова Анастасия Сергеевна</name>
+  </person>
+  <living id="id=syp2002-liv-59">
+    <who ref="syp2002-p-59" />
+    <where ref="brd" />
+  </living>
+  <uchastie id="syp2002-uch-59">
+    <uchastnik ref="syp2002-p-59" />
+    <in-org ref="syp2002-mast-11" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-59">
+    <uchastnik ref="syp2002-p-59" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-60">
+    <name>Федосеев Станислав</name>
+  </person>
+  <living id="id=syp2002-liv-60">
+    <who ref="syp2002-p-60" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-60">
+    <uchastnik ref="syp2002-p-60" />
+    <in-org ref="syp2002-mast-2" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-60">
+    <uchastnik ref="syp2002-p-60" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-61">
+    <name>Фенстер Александр Геннадьевич</name>
+  </person>
+  <living id="id=syp2002-liv-61">
+    <who ref="syp2002-p-61" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-61">
+    <uchastnik ref="syp2002-p-61" />
+    <in-org ref="syp2002-mast-0" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-61">
+    <uchastnik ref="syp2002-p-61" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-62">
+    <name>Французов Леонид</name>
+  </person>
+  <living id="id=syp2002-liv-62">
+    <who ref="syp2002-p-62" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-62">
+    <uchastnik ref="syp2002-p-62" />
+    <in-org ref="syp2002-mast-5" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-62">
+    <uchastnik ref="syp2002-p-62" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-63">
+    <who ref="syp2001-p-khalmansky" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-63">
+    <uchastnik ref="syp2001-p-khalmansky" />
+    <in-org ref="syp2002-mast-9" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-63">
+    <uchastnik ref="syp2001-p-khalmansky" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-64">
+    <name>Черкасский Илья</name>
+  </person>
+  <living id="id=syp2002-liv-64">
+    <who ref="syp2002-p-64" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-64">
+    <uchastnik ref="syp2002-p-64" />
+    <in-org ref="syp2002-mast-10" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-64">
+    <uchastnik ref="syp2002-p-64" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-65">
+    <name>Черный Григорий</name>
+  </person>
+  <living id="id=syp2002-liv-65">
+    <who ref="syp2002-p-65" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-65">
+    <uchastnik ref="syp2002-p-65" />
+    <in-org ref="syp2002-mast-10" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-65">
+    <uchastnik ref="syp2002-p-65" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <person id="syp2002-p-66">
+    <name>Чиглинцев Егор</name>
+  </person>
+  <living id="id=syp2002-liv-66">
+    <who ref="syp2002-p-66" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-66">
+    <uchastnik ref="syp2002-p-66" />
+    <in-org ref="syp2002-mast-2" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-66">
+    <uchastnik ref="syp2002-p-66" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-67">
+    <who ref="syp2001-p-shapovalov" />
+    <where ref="chk" />
+  </living>
+  <uchastie id="syp2002-uch-67">
+    <uchastnik ref="syp2001-p-shapovalov" />
+    <in-org ref="syp2002-mast-8" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-67">
+    <uchastnik ref="syp2001-p-shapovalov" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-68">
+    <who ref="syp2001-p-shindin" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-68">
+    <uchastnik ref="syp2001-p-shindin" />
+    <in-org ref="syp2002-mast-2" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-68">
+    <uchastnik ref="syp2001-p-shindin" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-69">
+    <who ref="syp2001-p-shpitalev" />
+    <where ref="nsk" />
+  </living>
+  <uchastie id="syp2002-uch-69">
+    <uchastnik ref="syp2001-p-shpitalev" />
+    <in-org ref="syp2002-mast-1" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-69">
+    <uchastnik ref="syp2001-p-shpitalev" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <living id="id=syp2002-liv-70">
+    <who ref="syp2001-p-yurkovskaya" />
+    <where ref="isk" />
+  </living>
+  <uchastie id="syp2002-uch-70">
+    <uchastnik ref="syp2001-p-yurkovskaya" />
+    <in-org ref="syp2002-mast-5" />
+  </uchastie>
+  <uchastie id="syp2002-uchs-70">
+    <uchastnik ref="syp2001-p-yurkovskaya" />
+    <in-org ref="syp2002school" />
+  </uchastie>
+  <mastersk id="syp2002-mast-1">
+    <name>Веб-движки</name>
+    <from-date>
+      2002
+    </from-date>
+  </mastersk>
+  <mastersk id="syp2002-mast-2">
+    <name></name>
+    <from-date>
+      2002
+    </from-date>
+  </mastersk>
+  <mastersk id="syp2002-mast-3">
+    <name>
+      Разработка стратегической экономической игры
+      "Рыболовство"
+    </name>
+    <from-date>
+      2002
+    </from-date>
+  </mastersk>
+  <mastersk id="syp2002-mast-4">
+    <name>Мастерская по трехмерной графике</name>
+    <from-date>
+      2002
+    </from-date>
+  </mastersk>
+  <mastersk id="syp2002-mast-5">
+    <name>
+      Создание интерактивных анимаций для веб-приложений в среде
+      Macromedia Flash-5
+    </name>
+    <from-date>
+      2002
+    </from-date>
+  </mastersk>
+  <mastersk id="syp2002-mast-6">
+    <name>
+      Разработка системы ведения терминологического словаря по
+      программированию
+    </name>
+    <from-date>
+      2002
+    </from-date>
+  </mastersk>
+  <mastersk id="syp2002-mast-7">
+    <name>
+      Создание интерактивной веб-системы для тестирования
+      знаний
+    </name>
+    <from-date>
+      2002
+    </from-date>
+  </mastersk>
+  <mastersk id="syp2002-mast-8">
+    <name>Сетевое программирование</name>
+    <from-date>
+      2002
+    </from-date>
+  </mastersk>
+  <mastersk id="syp2002-mast-9">
+    <name>Разработка драйверов Linux</name>
+    <from-date>
+      2002
+    </from-date>
+  </mastersk>
+  <mastersk id="syp2002-mast-10">
+    <name>Веб-дизайн и электронные издания</name>
+    <from-date>
+      2002
+    </from-date>
+  </mastersk>
+  <mastersk id="syp2002-mast-11">
+    <name>Студия по изучению языка Си</name>
+    <from-date>
+      2002
+    </from-date>
+  </mastersk>
+  <mastersk id="syp2002-mast-12">
+    <name>Системное администрирование</name>
+    <from-date>
+      2002
+    </from-date>
+  </mastersk>
+  <city id="nsk">
+    <name>Новосибирск</name>
+  </city>
+  <city id="brd">
+    <name>Бердск</name>
+  </city>
+  <city id="gal">
+    <name>Горно-Алтайск</name>
+  </city>
+  <city id="brn">
+    <name>Барнаул</name>
+  </city>
+  <city id="spb">
+    <name>Санкт-Петербург</name>
+  </city>
+  <city id="ptv">
+    <name>Петропавловск</name>
+  </city>
+  <city id="chr">
+    <name>Черепаново</name>
+  </city>
+  <city id="zim">
+    <name>Зима</name>
+  </city>
+  <city id="chk">
+    <name>п.Чик</name>
+  </city>
+  <city id="isk">
+    <name>Искитим</name>
+  </city>
+  <city id="obx">
+    <name>Обь</name>
+  </city>
+</Document>

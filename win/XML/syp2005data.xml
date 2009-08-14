@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db>
+  <person id="p8">
+    <name>Жарова Мария</name>
+  </person>
+  <person id="p9">
+    <name>Клешнина Мария</name>
+  </person>
+  <person id="p11">
+    <name>Киселёва Алёна</name>
+  </person>
+  <person id="p12">
+    <name>Фиткович Мария</name>
+  </person>
+  <person id="p20">
+    <name>Пахалюк Яна</name>
+  </person>
+  <person id="p21">
+    <name>Демурин Сергей</name>
+    <birth>31.03.1993</birth>
+  </person>
+  <person id="p22">
+    <name>Карасюк Павел Константинович</name>
+    <birth>21.01.1994</birth>
+  </person>
+  <person id="p23">
+    <name>Магеррамов Эмиль Зияфатович</name>
+    <birth>08.06.1993</birth>
+  </person>
+  <person id="p24">
+    <name>Царев Александр</name>
+  </person>
+  <person id="p25">
+    <name>Филиппов Артём Владимирович</name>
+    <birth>01.09.1994</birth>
+  </person>
+  <person id="p26">
+    <name>Тараскина Анна</name>
+  </person>
+  <person id="p31">
+    <name>Кононенко Даниил</name>
+    <birth>05.01.1990</birth>
+  </person>
+  <person id="p32">
+    <name>Мандельбаум Константин</name>
+    <birth>11.07.1990</birth>
+  </person>
+  <person id="p33">
+    <name>Дедова Анна Витальевна</name>
+  </person>
+  <person id="p34">
+    <name>Истомин Николай Игоревич</name>
+  </person>
+  <person id="p36">
+    <name>Воронко Софья</name>
+    <birth>19.02.1993</birth>
+  </person>
+  <person id="p37">
+    <name>Дрожжинова Алёна</name>
+    <birth>15.01.1992</birth>
+  </person>
+  <person id="p38">
+    <name>Панна Вероника</name>
+    <birth>11.07.1992</birth>
+  </person>
+  <person id="p39">
+    <name>Зозуляк Владислав</name>
+  </person>
+  <person id="p40">
+    <name>Юрин Вячеслав</name>
+  </person>
+  <person id="p44">
+    <name>Шабалин Тимофей</name>
+  </person>
+  <person id="p45">
+    <name>Тарасов Дмитрий</name>
+    <birth>30.06.1991</birth>
+  </person>
+  <person id="p46">
+    <name>Есилевич Александр</name>
+  </person>
+  <person id="p48">
+    <name>Микрюков Дмитрий</name>
+  </person>
+  <person id="p49">
+    <name>Лабецкий Бронислав</name>
+  </person>
+  <person id="p51">
+    <name>Хомич Константин</name>
+  </person>
+  <person id="p53">
+    <name>Ковалев Павел</name>
+  </person>
+  <person id="p54">
+    <name>Ермашов Дмитрий</name>
+  </person>
+  <person id="p55">
+    <name>Кулумбегов Руслан</name>
+  </person>
+  <person id="p56">
+    <name>Едаменко Степан</name>
+  </person>
+  <person id="p57">
+    <name>Воронин Сергей</name>
+  </person>
+  <person id="p58">
+    <name>Свидинская Анастасия</name>
+  </person>
+  <person id="p59">
+    <name>Шевченко Анита</name>
+  </person>
+  <person id="p60">
+    <name>Викторов Андрей</name>
+  </person>
+  <person id="p61">
+    <name>Басканов Антон</name>
+  </person>
+  <person id="p67">
+    <name>Пикулин Артем</name>
+  </person>
+  <person id="p68">
+    <name>Кравник Власта</name>
+  </person>
+  <person id="p69">
+    <name>Семенова Дарья</name>
+  </person>
+  <person id="p70">
+    <name>Богунова Дарья</name>
+  </person>
+  <person id="p73">
+    <name>Ларионов Григорий</name>
+  </person>
+  <person id="p74">
+    <name>Панова Юлия</name>
+  </person>
+  <person id="p75">
+    <name>Пак Елена</name>
+  </person>
+  <person id="p76">
+    <name>Ишикаев Тимур</name>
+    <birth>24.12.1990</birth>
+  </person>
+  <person id="p77">
+    <name>Тимофеенко Владимир</name>
+  </person>
+  <person id="p78">
+    <name>Бугоровский Кирилл</name>
+  </person>
+  <person id="p79">
+    <name>Коробейникова Ольга</name>
+  </person>
+  <person id="p80">
+    <name>Шурупова Анастасия</name>
+    <birth>08.05.1991</birth>
+  </person>
+  <person id="p82">
+    <name>Черкашина Анна</name>
+  </person>
+  <person id="p85">
+    <name>Цикоза Анастасия</name>
+  </person>
+  <person id="p86">
+    <name>Воронцов Александр Павлович</name>
+  </person>
+  <person id="p87">
+    <name>Горбунов Дмитрий Евгеньевич</name>
+    <birth>05.05.1993</birth>
+  </person>
+  <person id="p3">
+    <name>Углянский Иван Евгеньевич</name>
+    <from-date>1991-12-10</from-date>
+    <birth>10.12.1991</birth>
+  </person>
+  <person id="p6">
+    <name>Подстригайло Алена Сергеевна</name>
+    <from-date>1991-08-08</from-date>
+    <birth>08.08.1991</birth>
+  </person>
+  <person id="p2">
+    <name>Дерига Роман</name>
+    <from-date>1988-10-30</from-date>
+  </person>
+  <org-sys id="syp2005">
+    <name>ЛШЮП-2005 (Красная Горка)</name>
+    <from-date>2005</from-date>
+  </org-sys>
+  <mastersk id="mast8">
+    <name>Мультимедия лаборатория</name>
+  </mastersk>
+  <mastersk id="mast1">
+    <name>Электронный словарь</name>
+  </mastersk>
+  <mastersk id="mast2">
+    <name>Написание мобильных клиентов для веб-сервисов</name>
+  </mastersk>
+  <mastersk id="mast3">
+    <name>Логическое программирование и базы знаний в среде Visual Prolog</name>
+  </mastersk>
+  <mastersk id="mast4">
+    <name>Задачник по Лого</name>
+  </mastersk>
+  <mastersk id="mast5">
+    <name>Системная компьютерная биология</name>
+  </mastersk>
+  <mastersk id="mast6">
+    <name>Система тестирования знаний</name>
+  </mastersk>
+  <mastersk id="mast7">
+    <name>Компиляторы</name>
+  </mastersk>
+  <mastersk id="mast9">
+    <name>Веб-сервер</name>
+  </mastersk>
+  <mastersk id="mast10">
+    <name>Геоинформационные системы</name>
+  </mastersk>
+  <mastersk id="mast11">
+    <name>OpenGL</name>
+  </mastersk>
+  <mastersk id="mast12">
+    <name>Web-дизайн и Web-программирование</name>
+  </mastersk>
+  <mastersk id="mast13">
+    <name>Сетевые коммуникации</name>
+  </mastersk>
+  <mastersk id="mast14">
+    <name>Flash</name>
+  </mastersk>
+  <mastersk id="mast15">
+    <name>Фотогалерея</name>
+  </mastersk>
+  <mastersk id="mast16">
+    <name>Программирование на Паскале</name>
+  </mastersk>
+  <org-relatives id="or-2005-01">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast1" />
+  </org-relatives>
+  <org-relatives id="or-2005-02">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast2" />
+  </org-relatives>
+  <org-relatives id="or-2005-03">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast3" />
+  </org-relatives>
+  <org-relatives id="or-2005-04">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast4" />
+  </org-relatives>
+  <org-relatives id="or-2005-05">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast5" />
+  </org-relatives>
+  <org-relatives id="or-2005-06">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast6" />
+  </org-relatives>
+  <org-relatives id="or-2005-07">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast7" />
+  </org-relatives>
+  <org-relatives id="or-2005-08">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast8" />
+  </org-relatives>
+  <org-relatives id="or-2005-09">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast9" />
+  </org-relatives>
+  <org-relatives id="or-2005-10">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast10" />
+  </org-relatives>
+  <org-relatives id="or-2005-11">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast11" />
+  </org-relatives>
+  <org-relatives id="or-2005-12">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast12" />
+  </org-relatives>
+  <org-relatives id="or-2005-13">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast13" />
+  </org-relatives>
+  <org-relatives id="or-2005-14">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast14" />
+  </org-relatives>
+  <org-relatives id="or-2005-15">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast15" />
+  </org-relatives>
+  <org-relatives id="or-2005-16">
+    <org-parent ref="syp2005" />
+    <org-child ref="mast16" />
+  </org-relatives>
+  <uchastie id="uch1">
+    <uchastnik ref="syp2001-p-marchuk_a"></uchastnik>
+    <in-org ref="mast8"></in-org>
+  </uchastie>
+  <uchastie id="uch2">
+    <uchastnik ref="p2"></uchastnik>
+    <in-org ref="mast8"></in-org>
+  </uchastie>
+  <uchastie id="uch3">
+    <uchastnik ref="p6"></uchastnik>
+    <in-org ref="mast8"></in-org>
+  </uchastie>
+  <uchastie id="uch4">
+    <uchastnik ref="p3"></uchastnik>
+    <in-org ref="mast8"></in-org>
+  </uchastie>
+  <uchastie id="uch5">
+    <uchastnik ref="syp2004-p-27"></uchastnik>
+    <in-org ref="mast8"></in-org>
+  </uchastie>
+  <uchastie id="uch6">
+    <uchastnik ref="syp2004-p-1"></uchastnik>
+    <in-org ref="mast8"></in-org>
+  </uchastie>
+  <uchastie id="uch8">
+    <uchastnik ref="p8"></uchastnik>
+    <in-org ref="mast1"></in-org>
+  </uchastie>
+  <uchastie id="uch9">
+    <uchastnik ref="p9"></uchastnik>
+    <in-org ref="mast1"></in-org>
+  </uchastie>
+  <uchastie id="uch11">
+    <uchastnik ref="p11"></uchastnik>
+    <in-org ref="mast2"></in-org>
+  </uchastie>
+  <uchastie id="uch12">
+    <uchastnik ref="p12"></uchastnik>
+    <in-org ref="mast2"></in-org>
+  </uchastie>
+  <uchastie id="uch13">
+    <uchastnik ref="p13"></uchastnik>
+    <in-org ref="mast2"></in-org>
+  </uchastie>
+  <uchastie id="uch14">
+    <uchastnik ref="p14"></uchastnik>
+    <in-org ref="mast2"></in-org>
+  </uchastie>
+  <uchastie id="uch15">
+    <uchastnik ref="p15"></uchastnik>
+    <in-org ref="mast2"></in-org>
+  </uchastie>
+  <uchastie id="uch16">
+    <uchastnik ref="syp2004-p-22"></uchastnik>
+    <in-org ref="mast3"></in-org>
+  </uchastie>
+  <uchastie id="uch17">
+    <uchastnik ref="p17"></uchastnik>
+    <in-org ref="mast3"></in-org>
+  </uchastie>
+  <uchastie id="uch18">
+    <uchastnik ref="p18"></uchastnik>
+    <in-org ref="mast3"></in-org>
+  </uchastie>
+  <uchastie id="uch19">
+    <uchastnik ref="p19"></uchastnik>
+    <in-org ref="mast4"></in-org>
+  </uchastie>
+  <uchastie id="uch20">
+    <uchastnik ref="p20"></uchastnik>
+    <in-org ref="mast4"></in-org>
+  </uchastie>
+  <uchastie id="uch21">
+    <uchastnik ref="p21"></uchastnik>
+    <in-org ref="mast4"></in-org>
+  </uchastie>
+  <uchastie id="uch22">
+    <uchastnik ref="p22"></uchastnik>
+    <in-org ref="mast4"></in-org>
+  </uchastie>
+  <uchastie id="uch23">
+    <uchastnik ref="p23"></uchastnik>
+    <in-org ref="mast4"></in-org>
+  </uchastie>
+  <uchastie id="uch24">
+    <uchastnik ref="p24"></uchastnik>
+    <in-org ref="mast4"></in-org>
+  </uchastie>
+  <uchastie id="uch25">
+    <uchastnik ref="p25"></uchastnik>
+    <in-org ref="mast4"></in-org>
+  </uchastie>
+  <uchastie id="uch26">
+    <uchastnik ref="p26"></uchastnik>
+    <in-org ref="mast5"></in-org>
+  </uchastie>
+  <uchastie id="uch27">
+    <uchastnik ref="p27"></uchastnik>
+    <in-org ref="mast5"></in-org>
+  </uchastie>
+  <uchastie id="uch28">
+    <uchastnik ref="p28"></uchastnik>
+    <in-org ref="mast5"></in-org>
+  </uchastie>
+  <uchastie id="uch29">
+    <uchastnik ref="p29"></uchastnik>
+    <in-org ref="mast5"></in-org>
+  </uchastie>
+  <uchastie id="uch30">
+    <uchastnik ref="syp2004-p-15"></uchastnik>
+    <in-org ref="mast5"></in-org>
+  </uchastie>
+  <uchastie id="uch31">
+    <uchastnik ref="p31"></uchastnik>
+    <in-org ref="mast5"></in-org>
+  </uchastie>
+  <uchastie id="uch32">
+    <uchastnik ref="p32"></uchastnik>
+    <in-org ref="mast5"></in-org>
+  </uchastie>
+  <uchastie id="uch33">
+    <uchastnik ref="p33"></uchastnik>
+    <in-org ref="mast6"></in-org>
+  </uchastie>
+  <uchastie id="uch34">
+    <uchastnik ref="p34"></uchastnik>
+    <in-org ref="mast6"></in-org>
+  </uchastie>
+  <uchastie id="uch35">
+    <uchastnik ref="p35"></uchastnik>
+    <in-org ref="mast6"></in-org>
+  </uchastie>
+  <uchastie id="uch36">
+    <uchastnik ref="p36"></uchastnik>
+    <in-org ref="mast6"></in-org>
+  </uchastie>
+  <uchastie id="uch37">
+    <uchastnik ref="p37"></uchastnik>
+    <in-org ref="mast6"></in-org>
+  </uchastie>
+  <uchastie id="uch38">
+    <uchastnik ref="p38"></uchastnik>
+    <in-org ref="mast6"></in-org>
+  </uchastie>
+  <uchastie id="uch39">
+    <uchastnik ref="p39"></uchastnik>
+    <in-org ref="mast7"></in-org>
+  </uchastie>
+  <uchastie id="uch40">
+    <uchastnik ref="p40"></uchastnik>
+    <in-org ref="mast7"></in-org>
+  </uchastie>
+  <uchastie id="uch41">
+    <uchastnik ref="p41"></uchastnik>
+    <in-org ref="mast7"></in-org>
+  </uchastie>
+  <uchastie id="uch42">
+    <uchastnik ref="p42"></uchastnik>
+    <in-org ref="mast7"></in-org>
+  </uchastie>
+  <uchastie id="uch43">
+    <uchastnik ref="p43"></uchastnik>
+    <in-org ref="mast7"></in-org>
+  </uchastie>
+  <uchastie id="uch44">
+    <uchastnik ref="p44"></uchastnik>
+    <in-org ref="mast7"></in-org>
+  </uchastie>
+  <uchastie id="uch45">
+    <uchastnik ref="p45"></uchastnik>
+    <in-org ref="mast7"></in-org>
+  </uchastie>
+  <uchastie id="uch46">
+    <uchastnik ref="p46"></uchastnik>
+    <in-org ref="mast9"></in-org>
+  </uchastie>
+  <uchastie id="uch47">
+    <uchastnik ref="syp2004-p-38"></uchastnik>
+    <in-org ref="mast9"></in-org>
+  </uchastie>
+  <uchastie id="uch48">
+    <uchastnik ref="p48"></uchastnik>
+    <in-org ref="mast9"></in-org>
+  </uchastie>
+  <uchastie id="uch49">
+    <uchastnik ref="p49"></uchastnik>
+    <in-org ref="mast9"></in-org>
+  </uchastie>
+  <uchastie id="uch50">
+    <uchastnik ref="syp2004-p-37"></uchastnik>
+    <in-org ref="mast9"></in-org>
+  </uchastie>
+  <uchastie id="uch51">
+    <uchastnik ref="p51"></uchastnik>
+    <in-org ref="mast9"></in-org>
+  </uchastie>
+  <uchastie id="uch52">
+    <uchastnik ref="syp2004-p-18"></uchastnik>
+    <in-org ref="mast9"></in-org>
+  </uchastie>
+  <uchastie id="uch53">
+    <uchastnik ref="p53"></uchastnik>
+    <in-org ref="mast10"></in-org>
+  </uchastie>
+  <uchastie id="uch54">
+    <uchastnik ref="p54"></uchastnik>
+    <in-org ref="mast10"></in-org>
+  </uchastie>
+  <uchastie id="uch55">
+    <uchastnik ref="p55"></uchastnik>
+    <in-org ref="mast10"></in-org>
+  </uchastie>
+  <uchastie id="uch56">
+    <uchastnik ref="p56"></uchastnik>
+    <in-org ref="mast10"></in-org>
+  </uchastie>
+  <uchastie id="uch57">
+    <uchastnik ref="p57"></uchastnik>
+    <in-org ref="mast10"></in-org>
+  </uchastie>
+  <uchastie id="uch58">
+    <uchastnik ref="p58"></uchastnik>
+    <in-org ref="mast10"></in-org>
+  </uchastie>
+  <uchastie id="uch59">
+    <uchastnik ref="p59"></uchastnik>
+    <in-org ref="mast10"></in-org>
+  </uchastie>
+  <uchastie id="uch60">
+    <uchastnik ref="p60"></uchastnik>
+    <in-org ref="mast11"></in-org>
+  </uchastie>
+  <uchastie id="uch61">
+    <uchastnik ref="p61"></uchastnik>
+    <in-org ref="mast11"></in-org>
+  </uchastie>
+  <uchastie id="uch62">
+    <uchastnik ref="syp2004-p-39"></uchastnik>
+    <in-org ref="mast11"></in-org>
+  </uchastie>
+  <uchastie id="uch63">
+    <uchastnik ref="syp2004-p-33"></uchastnik>
+    <in-org ref="mast11"></in-org>
+  </uchastie>
+  <uchastie id="uch64">
+    <uchastnik ref="syp2004-p-25"></uchastnik>
+    <in-org ref="mast11"></in-org>
+  </uchastie>
+  <uchastie id="uch65">
+    <uchastnik ref="p65"></uchastnik>
+    <in-org ref="mast11"></in-org>
+  </uchastie>
+  <uchastie id="uch66">
+    <uchastnik ref="syp2004-p-40"></uchastnik>
+    <in-org ref="mast12"></in-org>
+  </uchastie>
+  <uchastie id="uch67">
+    <uchastnik ref="p67"></uchastnik>
+    <in-org ref="mast12"></in-org>
+  </uchastie>
+  <uchastie id="uch68">
+    <uchastnik ref="p68"></uchastnik>
+    <in-org ref="mast12"></in-org>
+  </uchastie>
+  <uchastie id="uch69">
+    <uchastnik ref="p69"></uchastnik>
+    <in-org ref="mast12"></in-org>
+  </uchastie>
+  <uchastie id="uch70">
+    <uchastnik ref="p70"></uchastnik>
+    <in-org ref="mast12"></in-org>
+  </uchastie>
+  <uchastie id="uch71">
+    <uchastnik ref="chernov_k"></uchastnik>
+    <in-org ref="mast12"></in-org>
+  </uchastie>
+  <uchastie id="uch72">
+    <uchastnik ref="syp2004-p-62"></uchastnik>
+    <in-org ref="mast13"></in-org>
+  </uchastie>
+  <uchastie id="uch73">
+    <uchastnik ref="p73"></uchastnik>
+    <in-org ref="mast13"></in-org>
+  </uchastie>
+  <uchastie id="uch74">
+    <uchastnik ref="p74"></uchastnik>
+    <in-org ref="mast13"></in-org>
+  </uchastie>
+  <uchastie id="uch75">
+    <uchastnik ref="p75"></uchastnik>
+    <in-org ref="mast13"></in-org>
+  </uchastie>
+  <uchastie id="uch76">
+    <uchastnik ref="p76"></uchastnik>
+    <in-org ref="mast13"></in-org>
+  </uchastie>
+  <uchastie id="uch77">
+    <uchastnik ref="p77"></uchastnik>
+    <in-org ref="mast13"></in-org>
+  </uchastie>
+  <uchastie id="uch78">
+    <uchastnik ref="p78"></uchastnik>
+    <in-org ref="mast13"></in-org>
+  </uchastie>
+  <uchastie id="uch79">
+    <uchastnik ref="p79"></uchastnik>
+    <in-org ref="mast14"></in-org>
+  </uchastie>
+  <uchastie id="uch80">
+    <uchastnik ref="p80"></uchastnik>
+    <in-org ref="mast14"></in-org>
+  </uchastie>
+  <uchastie id="uch81">
+    <uchastnik ref="syp2004-p-6"></uchastnik>
+    <in-org ref="mast14"></in-org>
+  </uchastie>
+  <uchastie id="uch82">
+    <uchastnik ref="p82"></uchastnik>
+    <in-org ref="mast15"></in-org>
+  </uchastie>
+  <uchastie id="uch83">
+    <uchastnik ref="syp2001-p-sosedkin"></uchastnik>
+    <in-org ref="mast15"></in-org>
+  </uchastie>
+  <uchastie id="uch84">
+    <uchastnik ref="tchursin_n"></uchastnik>
+    <in-org ref="mast15"></in-org>
+  </uchastie>
+  <uchastie id="uch71">
+    <uchastnik ref="p85"></uchastnik>
+    <in-org ref="mast16"></in-org>
+  </uchastie>
+  <uchastie id="uch71">
+    <uchastnik ref="p86"></uchastnik>
+    <in-org ref="mast16"></in-org>
+  </uchastie>
+  <uchastie id="sl1">
+    <uchastnik ref="p2"></uchastnik>
+    <in-org ref="o5"></in-org>
+  </uchastie>
+  <uchastie id="sl3">
+    <uchastnik ref="syp2004-p-27"></uchastnik>
+    <in-org ref="o4"></in-org>
+  </uchastie>
+  <uchastie id="sl4">
+    <uchastnik ref="syp2004-p-1"></uchastnik>
+    <in-org ref="school68"></in-org>
+  </uchastie>
+  <uchastie id="sl5">
+    <uchastnik ref="p6"></uchastnik>
+    <in-org ref="o2"></in-org>
+  </uchastie>
+  <uchastie id="sl6">
+    <uchastnik ref="syp2004-p-64"></uchastnik>
+    <in-org ref="o6"></in-org>
+  </uchastie>
+  <uchastie id="sl7">
+    <uchastnik ref="p8"></uchastnik>
+    <in-org ref="o7"></in-org>
+  </uchastie>
+  <uchastie id="sl8">
+    <uchastnik ref="syp2004-p-11"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <uchastie id="sl9">
+    <uchastnik ref="p11"></uchastnik>
+    <in-org ref="o9"></in-org>
+  </uchastie>
+  <uchastie id="sl10">
+    <uchastnik ref="p12"></uchastnik>
+    <in-org ref="o10"></in-org>
+  </uchastie>
+  <uchastie id="sl11">
+    <uchastnik ref="syp2004-p-34"></uchastnik>
+    <in-org ref="o7"></in-org>
+  </uchastie>
+  <uchastie id="sl12">
+    <uchastnik ref="syp2004-p-30"></uchastnik>
+    <in-org ref="o11"></in-org>
+  </uchastie>
+  <uchastie id="sl13">
+    <uchastnik ref="syp2004-p-32"></uchastnik>
+    <in-org ref="o7"></in-org>
+  </uchastie>
+  <uchastie id="sl14">
+    <uchastnik ref="syp2004-p-22"></uchastnik>
+    <in-org ref="o12"></in-org>
+  </uchastie>
+  <uchastie id="sl15">
+    <uchastnik ref="syp2004-p-5"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <uchastie id="sl16">
+    <uchastnik ref="syp2004-p-2"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <uchastie id="sl17">
+    <uchastnik ref="p20"></uchastnik>
+    <in-org ref="o13"></in-org>
+  </uchastie>
+  <uchastie id="sl18">
+    <uchastnik ref="p21"></uchastnik>
+    <in-org ref="school68"></in-org>
+  </uchastie>
+  <uchastie id="sl19">
+    <uchastnik ref="p22"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <uchastie id="sl20">
+    <uchastnik ref="p23"></uchastnik>
+    <in-org ref="school68"></in-org>
+  </uchastie>
+  <uchastie id="sl21">
+    <uchastnik ref="p24"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <uchastie id="sl22">
+    <uchastnik ref="p25"></uchastnik>
+    <in-org ref="o7"></in-org>
+  </uchastie>
+  <uchastie id="sl23">
+    <uchastnik ref="p26"></uchastnik>
+    <in-org ref="o9"></in-org>
+  </uchastie>
+  <uchastie id="sl24">
+    <uchastnik ref="syp2004-p-46"></uchastnik>
+    <in-org ref="o15"></in-org>
+  </uchastie>
+  <uchastie id="sl25">
+    <uchastnik ref="syp2004-p-58"></uchastnik>
+    <in-org ref="o15"></in-org>
+  </uchastie>
+  <uchastie id="sl26">
+    <uchastnik ref="syp2004-p-36"></uchastnik>
+    <in-org ref="o15"></in-org>
+  </uchastie>
+  <uchastie id="sl27">
+    <uchastnik ref="syp2004-p-15"></uchastnik>
+    <in-org ref="o16"></in-org>
+  </uchastie>
+  <uchastie id="sl28">
+    <uchastnik ref="p31"></uchastnik>
+    <in-org ref="o15"></in-org>
+  </uchastie>
+  <uchastie id="sl29">
+    <uchastnik ref="p32"></uchastnik>
+    <in-org ref="o15"></in-org>
+  </uchastie>
+  <uchastie id="sl30">
+    <uchastnik ref="p33"></uchastnik>
+    <in-org ref="o9"></in-org>
+  </uchastie>
+  <uchastie id="sl31">
+    <uchastnik ref="syp2004-p-9"></uchastnik>
+    <in-org ref="o17"></in-org>
+  </uchastie>
+  <uchastie id="sl32">
+    <uchastnik ref="p36"></uchastnik>
+    <in-org ref="o18"></in-org>
+  </uchastie>
+  <uchastie id="sl33">
+    <uchastnik ref="p37"></uchastnik>
+    <in-org ref="o7"></in-org>
+  </uchastie>
+  <uchastie id="sl34">
+    <uchastnik ref="p38"></uchastnik>
+    <in-org ref="o7"></in-org>
+  </uchastie>
+  <uchastie id="sl35">
+    <uchastnik ref="p39"></uchastnik>
+    <in-org ref="o6"></in-org>
+  </uchastie>
+  <uchastie id="sl36">
+    <uchastnik ref="p40"></uchastnik>
+    <in-org ref="o6"></in-org>
+  </uchastie>
+  <uchastie id="sl37">
+    <uchastnik ref="syp2001-p-nasibulov"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <uchastie id="sl38">
+    <uchastnik ref="p44"></uchastnik>
+    <in-org ref="o19"></in-org>
+  </uchastie>
+  <uchastie id="sl39">
+    <uchastnik ref="p45"></uchastnik>
+    <in-org ref="o20"></in-org>
+  </uchastie>
+  <uchastie id="sl40">
+    <uchastnik ref="p46"></uchastnik>
+    <in-org ref="o9"></in-org>
+  </uchastie>
+  <uchastie id="sl41">
+    <uchastnik ref="syp2004-p-38"></uchastnik>
+    <in-org ref="o21"></in-org>
+  </uchastie>
+  <uchastie id="sl42">
+    <uchastnik ref="p48"></uchastnik>
+    <in-org ref="o27"></in-org>
+  </uchastie>
+  <uchastie id="sl43">
+    <uchastnik ref="p49"></uchastnik>
+    <in-org ref="o22"></in-org>
+  </uchastie>
+  <uchastie id="sl44">
+    <uchastnik ref="syp2004-p-37"></uchastnik>
+    <in-org ref="o15"></in-org>
+  </uchastie>
+  <uchastie id="sl90">
+    <uchastnik ref="p51"></uchastnik>
+    <in-org ref="o22"></in-org>
+  </uchastie>
+  <uchastie id="sl91">
+    <uchastnik ref="p53"></uchastnik>
+    <in-org ref="o6"></in-org>
+  </uchastie>
+  <uchastie id="sl47">
+    <uchastnik ref="p60"></uchastnik>
+    <in-org ref="o6"></in-org>
+  </uchastie>
+  <uchastie id="sl48">
+    <uchastnik ref="p61"></uchastnik>
+    <in-org ref="o22"></in-org>
+  </uchastie>
+  <uchastie id="sl50">
+    <uchastnik ref="syp2004-p-33"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <uchastie id="sl92">
+    <uchastnik ref="syp2004-p-25"></uchastnik>
+    <in-org ref="o7"></in-org>
+  </uchastie>
+  <uchastie id="sl93">
+    <uchastnik ref="p65"></uchastnik>
+    <in-org ref="o23"></in-org>
+  </uchastie>
+  <uchastie id="sl94">
+    <uchastnik ref="syp2004-p-40"></uchastnik>
+    <in-org ref="o24"></in-org>
+  </uchastie>
+  <uchastie id="sl55">
+    <uchastnik ref="syp2004-p-62"></uchastnik>
+    <in-org ref="o9"></in-org>
+  </uchastie>
+  <uchastie id="sl56">
+    <uchastnik ref="p73"></uchastnik>
+    <in-org ref="o25"></in-org>
+  </uchastie>
+  <uchastie id="sl57">
+    <uchastnik ref="p75"></uchastnik>
+    <in-org ref="o17"></in-org>
+  </uchastie>
+  <uchastie id="sl95">
+    <uchastnik ref="p74"></uchastnik>
+    <in-org ref="o26"></in-org>
+  </uchastie>
+  <uchastie id="sl58">
+    <uchastnik ref="p76"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <uchastie id="sl59">
+    <uchastnik ref="p77"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <uchastie id="sl60">
+    <uchastnik ref="p78"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <uchastie id="sl61">
+    <uchastnik ref="p80"></uchastnik>
+    <in-org ref="o13"></in-org>
+  </uchastie>
+  <uchastie id="sl96">
+    <uchastnik ref="syp2004-p-6"></uchastnik>
+    <in-org ref="o17"></in-org>
+  </uchastie>
+  <uchastie id="sl97">
+    <uchastnik ref="p82"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <uchastie id="sl98">
+    <uchastnik ref="syp2001-p-sosedkin"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <uchastie id="sl99">
+    <uchastnik ref="p85"></uchastnik>
+    <in-org ref="o16"></in-org>
+  </uchastie>
+  <uchastie id="sl100">
+    <uchastnik ref="p87"></uchastnik>
+    <in-org ref="o8"></in-org>
+  </uchastie>
+  <working id="w1">
+    <worker ref="syp2001-p-marchuk_a"></worker>
+    <in-org ref="o3"></in-org>
+  </working>
+  <org-sys id="o2">
+    <name>Школа 12 </name>
+  </org-sys>
+  <org-sys id="o4">
+    <name>Школа 1</name>
+  </org-sys>
+  <org-sys id="o3">
+    <name>Институт систем информатики</name>
+  </org-sys>
+  <org-sys id="o5">
+    <name>Школа 9 </name>
+  </org-sys>
+  <org-sys id="o6">
+    <name>ВКИ НГУ</name>
+  </org-sys>
+  <org-sys id="o7">
+    <name>Лицей 130</name>
+  </org-sys>
+  <org-sys id="o8">
+    <name>Гимназия 3</name>
+  </org-sys>
+  <org-sys id="o9">
+    <name>ММФ НГУ</name>
+  </org-sys>
+  <org-sys id="o10">
+    <name>СУНЦ НГУ</name>
+  </org-sys>
+  <org-sys id="o11">
+    <name>Лицей</name>
+  </org-sys>
+  <org-sys id="o12">
+    <name>школа 156</name>
+  </org-sys>
+  <org-sys id="o13">
+    <name>школа 10</name>
+  </org-sys>
+  <org-sys id="o15">
+    <name>Гимназия 1</name>
+  </org-sys>
+  <org-sys id="o16">
+    <name>Школа 61</name>
+  </org-sys>
+  <org-sys id="o17">
+    <name>Гимназия 2</name>
+  </org-sys>
+  <org-sys id="o18">
+    <name>Гимназия 6</name>
+  </org-sys>
+  <org-sys id="o19">
+    <name>Школа 119</name>
+  </org-sys>
+  <org-sys id="o20">
+    <name>Криводановская школа</name>
+  </org-sys>
+  <org-sys id="o21">
+    <name>Гимназия 5</name>
+  </org-sys>
+  <org-sys id="o22">
+    <name>лицей НГТУ</name>
+  </org-sys>
+  <org-sys id="o23">
+    <name>школа 162</name>
+  </org-sys>
+  <org-sys id="o24">
+    <name>лицей 200</name>
+  </org-sys>
+  <org-sys id="o25">
+    <name>школа 163</name>
+  </org-sys>
+  <org-sys id="o26">
+    <name>школа 125</name>
+  </org-sys>
+  <org-sys id="o27">
+    <name>школа 168</name>
+  </org-sys>
+  <org-sys id="o1">
+    <name>Гимназия 10</name>
+  </org-sys>
+  <uchastie id="sl2">
+    <uchastnik ref="p3"></uchastnik>
+    <in-org ref="o1"></in-org>
+  </uchastie>
+  <photo-doc id="pic1">
+    <published>photos/syp2005/marchyk</published>
+  </photo-doc>
+  <photo-doc id="pic2">
+    <published>photos/syp2005/Deriga</published>
+  </photo-doc>
+  <photo-doc id="pic3">
+    <published>photos/syp2005/Kovalev</published>
+  </photo-doc>
+  <reflection id="r4">
+    <reflected ref="syp2004-p-1"></reflected>
+    <in-doc ref="pic5"></in-doc>
+  </reflection>
+  <reflection id="r5">
+    <reflected ref="p6"></reflected>
+    <in-doc ref="pic6"></in-doc>
+  </reflection>
+  <reflection id="r6">
+    <reflected ref="syp2001-p-marchuk_a"></reflected>
+    <in-doc ref="pic1"></in-doc>
+  </reflection>
+  <reflection id="r3">
+    <reflected ref="syp2004-p-27"></reflected>
+    <in-doc ref="pic3"></in-doc>
+  </reflection>
+  <reflection id="r2">
+    <reflected ref="p3"></reflected>
+    <in-doc ref="pic4"></in-doc>
+  </reflection>
+  <reflection id="r1">
+    <reflected ref="p2"></reflected>
+    <in-doc ref="pic2"></in-doc>
+  </reflection>
+  <photo-doc id="pic5">
+    <published>photos/syp2005/Kuzkokov</published>
+  </photo-doc>
+  <photo-doc id="pic4">
+    <published>photos/syp2005/Yglianskii</published>
+  </photo-doc>
+  <photo-doc id="pic6">
+    <published>photos\syp2005\Podstrigailo</published>
+  </photo-doc>
+</db>

@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db>
+  <collection id="20070726_syp2001_col_learnwork">
+    <name>Учебный процесс 2001</name>
+  </collection>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_001">
+    <name>syp2001/learnwork/07140001.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_001</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_001">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_001" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_002">
+    <name>syp2001/learnwork/07140002.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_002</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_002">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_002" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_003">
+    <name>syp2001/learnwork/07140005.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_003</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_003">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_003" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_004">
+    <name>syp2001/learnwork/07150013.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_004</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_004">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_004" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_005">
+    <name>syp2001/learnwork/07150014.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_005</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_005">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_005" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_006">
+    <name>syp2001/learnwork/07160010.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_006</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_006">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_006" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_007">
+    <name>syp2001/learnwork/07160011.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_007</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_007">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_007" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_008">
+    <name>syp2001/learnwork/07160015_2.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_008</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_008">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_008" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_009">
+    <name>syp2001/learnwork/07160022.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_009</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_009">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_009" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_010">
+    <name>syp2001/learnwork/07160023.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_010</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_010">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_010" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_011">
+    <name>syp2001/learnwork/07170002.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_011</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_011">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_011" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_012">
+    <name>syp2001/learnwork/07170003.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_012</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_012">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_012" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_013">
+    <name>syp2001/learnwork/07170004_2.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_013</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_013">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_013" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_014">
+    <name>syp2001/learnwork/07180008_2.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_014</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_014">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_014" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_015">
+    <name>syp2001/learnwork/07180010.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_015</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_015">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_015" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_016">
+    <name>syp2001/learnwork/07180012.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_016</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_016">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_016" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_017">
+    <name>syp2001/learnwork/07180014.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_017</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_017">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_017" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_018">
+    <name>syp2001/learnwork/07180019.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_018</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_018">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_018" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_019">
+    <name>syp2001/learnwork/07180020.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_019</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_019">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_019" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_020">
+    <name>syp2001/learnwork/07180021.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_020</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_020">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_020" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_021">
+    <name>syp2001/learnwork/07190027.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_021</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_021">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_021" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_022">
+    <name>syp2001/learnwork/07190028.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_022</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_022">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_022" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_023">
+    <name>syp2001/learnwork/07190030.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_023</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_023">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_023" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_024">
+    <name>syp2001/learnwork/07200004.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_024</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_024">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_024" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_025">
+    <name>syp2001/learnwork/07200005.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_025</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_025">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_025" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_026">
+    <name>syp2001/learnwork/07200007.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_026</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_026">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_026" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_027">
+    <name>syp2001/learnwork/07200008.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_027</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_027">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_027" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_028">
+    <name>syp2001/learnwork/07200009.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_028</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_028">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_028" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_029">
+    <name>syp2001/learnwork/07210001_2.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_029</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_029">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_029" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_030">
+    <name>syp2001/learnwork/07210002_2.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_030</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_030">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_030" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_031">
+    <name>syp2001/learnwork/07210003_2.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_031</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_031">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_031" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_032">
+    <name>syp2001/learnwork/07210017.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_032</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_032">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_032" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_033">
+    <name>syp2001/learnwork/Image-01.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_033</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_033">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_033" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_034">
+    <name>syp2001/learnwork/Image-02.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_034</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_034">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_034" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_035">
+    <name>syp2001/learnwork/Image-06.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_035</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_035">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_035" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_036">
+    <name>syp2001/learnwork/Image-07.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_036</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_036">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_036" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_037">
+    <name>syp2001/learnwork/Image-08.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_037</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_037">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_037" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_038">
+    <name>syp2001/learnwork/Image-09.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_038</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_038">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_038" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_039">
+    <name>syp2001/learnwork/Image-46.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_039</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_039">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_039" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_040">
+    <name>syp2001/learnwork/Image-54.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_040</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_040">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_040" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_041">
+    <name>syp2001/learnwork/Image-56.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_041</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_041">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_041" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_042">
+    <name>syp2001/learnwork/Image-57.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_042</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_042">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_042" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_043">
+    <name>syp2001/learnwork/Image-59.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_043</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_043">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_043" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_044">
+    <name>syp2001/learnwork/Image-65.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_044</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_044">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_044" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_045">
+    <name>syp2001/learnwork/Image-66.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_045</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_045">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_045" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_046">
+    <name>syp2001/learnwork/Image-74.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_046</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_046">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_046" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_047">
+    <name>syp2001/learnwork/Image-75.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_047</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_047">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_047" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_048">
+    <name>syp2001/learnwork/Image-85.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_048</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_048">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_048" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_049">
+    <name>syp2001/learnwork/Image-91.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_049</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_049">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_049" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_050">
+    <name>syp2001/learnwork/Image-93.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_050</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_050">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_050" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_051">
+    <name>syp2001/learnwork/Image-94.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_051</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_051">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_051" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_052">
+    <name>syp2001/learnwork/KRA01.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_052</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_052">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_052" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_053">
+    <name>syp2001/learnwork/KRA03.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_053</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_053">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_053" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_054">
+    <name>syp2001/learnwork/KRA04.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_054</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_054">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_054" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_055">
+    <name>syp2001/learnwork/KRA24.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_055</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_055">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_055" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_learnwork_pd_056">
+    <name>syp2001/learnwork/pic00044_l.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/learnwork/20070726_syp2001_col_learnwork_pd_056</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_learnwork_cm_056">
+    <in-collection ref="20070726_syp2001_col_learnwork" />
+    <collection-item ref="20070726_syp2001_col_learnwork_pd_056" />
+  </collection-member>
+</db>

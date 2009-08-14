@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db>
+  <collection id="20070726_syp2001_col_rest">
+    <name>Отдых 2001</name>
+  </collection>
+  <photo-doc id="20070726_syp2001_col_rest_pd_001">
+    <name>syp2001/rest/07150008.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_001</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_001">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_001" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_002">
+    <name>syp2001/rest/07150009.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_002</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_002">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_002" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_003">
+    <name>syp2001/rest/07150012.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_003</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_003">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_003" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_004">
+    <name>syp2001/rest/07160017.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_004</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_004">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_004" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_005">
+    <name>syp2001/rest/07170004.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_005</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_005">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_005" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_006">
+    <name>syp2001/rest/07170005.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_006</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_006">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_006" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_007">
+    <name>syp2001/rest/07170006.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_007</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_007">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_007" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_008">
+    <name>syp2001/rest/07170007.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_008</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_008">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_008" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_009">
+    <name>syp2001/rest/07170008.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_009</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_009">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_009" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_010">
+    <name>syp2001/rest/07170009.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_010</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_010">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_010" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_011">
+    <name>syp2001/rest/07180001.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_011</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_011">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_011" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_012">
+    <name>syp2001/rest/07180007_2.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_012</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_012">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_012" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_013">
+    <name>syp2001/rest/07190031.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_013</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_013">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_013" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_014">
+    <name>syp2001/rest/07190032.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_014</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_014">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_014" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_015">
+    <name>syp2001/rest/07210007.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_015</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_015">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_015" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_016">
+    <name>syp2001/rest/07210007_2.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_016</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_016">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_016" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_017">
+    <name>syp2001/rest/07210010.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_017</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_017">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_017" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_018">
+    <name>syp2001/rest/07210017_2.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_018</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_018">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_018" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_019">
+    <name>syp2001/rest/07210020.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_019</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_019">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_019" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_020">
+    <name>syp2001/rest/07210021.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_020</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_020">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_020" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_021">
+    <name>syp2001/rest/07220023.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_021</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_021">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_021" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_022">
+    <name>syp2001/rest/07220024.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_022</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_022">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_022" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_023">
+    <name>syp2001/rest/07240001.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_023</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_023">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_023" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_024">
+    <name>syp2001/rest/07240002.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_024</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_024">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_024" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_025">
+    <name>syp2001/rest/Image-01.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_025</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_025">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_025" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_026">
+    <name>syp2001/rest/Image-03.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_026</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_026">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_026" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_027">
+    <name>syp2001/rest/Image-05.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_027</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_027">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_027" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_028">
+    <name>syp2001/rest/Image-07.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_028</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_028">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_028" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_029">
+    <name>syp2001/rest/Image-07_1.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_029</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_029">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_029" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_030">
+    <name>syp2001/rest/Image-09.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_030</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_030">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_030" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_031">
+    <name>syp2001/rest/Image-09_1.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_031</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_031">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_031" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_032">
+    <name>syp2001/rest/Image-10.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_032</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_032">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_032" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_033">
+    <name>syp2001/rest/Image-100.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_033</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_033">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_033" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_034">
+    <name>syp2001/rest/Image-10_1.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_034</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_034">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_034" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_035">
+    <name>syp2001/rest/Image-11.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_035</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_035">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_035" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_036">
+    <name>syp2001/rest/Image-12.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_036</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_036">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_036" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_037">
+    <name>syp2001/rest/Image-14.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_037</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_037">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_037" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_038">
+    <name>syp2001/rest/Image-15.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_038</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_038">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_038" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_039">
+    <name>syp2001/rest/Image-16.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_039</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_039">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_039" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_040">
+    <name>syp2001/rest/Image-16_1.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_040</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_040">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_040" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_041">
+    <name>syp2001/rest/Image-17.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_041</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_041">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_041" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_042">
+    <name>syp2001/rest/Image-18.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_042</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_042">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_042" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_043">
+    <name>syp2001/rest/Image-20.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_043</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_043">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_043" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_044">
+    <name>syp2001/rest/Image-22.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_044</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_044">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_044" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_045">
+    <name>syp2001/rest/Image-25.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_045</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_045">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_045" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_046">
+    <name>syp2001/rest/Image-27.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_046</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_046">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_046" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_047">
+    <name>syp2001/rest/Image-29.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_047</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_047">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_047" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_048">
+    <name>syp2001/rest/Image-34.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_048</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_048">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_048" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_049">
+    <name>syp2001/rest/Image-35.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_049</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_049">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_049" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_050">
+    <name>syp2001/rest/Image-41.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_050</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_050">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_050" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_051">
+    <name>syp2001/rest/Image-41_01.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_051</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_051">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_051" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_052">
+    <name>syp2001/rest/Image-43.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_052</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_052">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_052" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_053">
+    <name>syp2001/rest/Image-45.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_053</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_053">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_053" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_054">
+    <name>syp2001/rest/Image-58.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_054</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_054">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_054" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_055">
+    <name>syp2001/rest/Image-61.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_055</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_055">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_055" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_056">
+    <name>syp2001/rest/Image-67.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_056</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_056">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_056" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_057">
+    <name>syp2001/rest/Image-71.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_057</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_057">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_057" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_058">
+    <name>syp2001/rest/Image-73.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_058</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_058">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_058" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_059">
+    <name>syp2001/rest/KRA31.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_059</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_059">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_059" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_060">
+    <name>syp2001/rest/KRA33.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_060</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_060">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_060" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_061">
+    <name>syp2001/rest/KRA37.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_061</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_061">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_061" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_062">
+    <name>syp2001/rest/pic00021_l.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_062</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_062">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_062" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_063">
+    <name>syp2001/rest/pic00037_l.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_063</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_063">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_063" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_064">
+    <name>syp2001/rest/pic00038_l.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_064</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_064">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_064" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_065">
+    <name>syp2001/rest/pic00050_l.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_065</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_065">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_065" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_066">
+    <name>syp2001/rest/pic00051_l.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_066</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_066">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_066" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_067">
+    <name>syp2001/rest/pic00065_l.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_067</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_067">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_067" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_068">
+    <name>syp2001/rest/pic00067_l.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_068</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_068">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_068" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_069">
+    <name>syp2001/rest/pic00072_l.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_069</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_069">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_069" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_070">
+    <name>syp2001/rest/pic00079_l.jpg</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_070</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_070">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_070" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_071">
+    <name>syp2001/rest/SEMP2.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_071</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_071">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_071" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_072">
+    <name>syp2001/rest/SEMP7.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_072</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_072">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_072" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_073">
+    <name>syp2001/rest/zan05.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_073</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_073">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_073" />
+  </collection-member>
+  <photo-doc id="20070726_syp2001_col_rest_pd_074">
+    <name>syp2001/rest/ZAN15.JPG</name>
+    <from-date>2001</from-date>
+    <published>photos/syp2001/rest/20070726_syp2001_col_rest_pd_074</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2001_col_rest_cm_074">
+    <in-collection ref="20070726_syp2001_col_rest" />
+    <collection-item ref="20070726_syp2001_col_rest_pd_074" />
+  </collection-member>
+</db>

@@ -1,0 +1,1 @@
+You need download photos.zip, from http://radioactive1f.org/ssyp/photos.zip and unzip it in the /win/photos folder.

@@ -1,0 +1,91 @@
+a.podpis
+{
+	font-size: 7pt;
+}
+
+a
+{
+	text-decoration: none;
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+a.top
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight: bold;
+	cursor: pointer;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+a.menu
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+ 
+div.nav
+{
+	text-align: left;
+}
+
+
+div.header
+{
+	color: black;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+
+
+div.title
+{
+	font-family: Arial; 
+	font-weight: bold; 
+	font-size: 13px; 
+}
+
+td.top_link
+{
+	text-align:center;
+}
+
+
+td.search
+{
+	text-align:center;
+}
+
+
+
+
+div.title_div_200
+{
+	font-family: Arial; 
+	font-weight: bold; 
+	font-size: 10px; 
+	color: White;
+}
+
+div.title_div_200_r
+{
+	font-family: Arial; 
+	font-weight: bold; 
+	font-size: 10px; 
+	color: White;
+}
+
+
+span.elem_evident
+{
+	font-size: 13px; 
+	color:#FFFFFF;
+}
+

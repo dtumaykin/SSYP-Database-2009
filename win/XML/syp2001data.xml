@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db docid="syp2001data.xml">
+  <org-sys id="syp2001school">
+    <name>ЛШЮП-2001 (Семинский Перевал, Алтай)</name>
+  </org-sys>
+  <person id="syp2001-p-avdeev">
+    <name>Авдеев Иван</name>
+  </person>
+  <uchastie id="syp2001-uch-1">
+    <uchastnik ref="syp2001-p-avdeev" />
+    <in-org ref="syp2001-mast-ass" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-1">
+    <uchastnik ref="syp2001-p-avdeev" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-aleksandrov">
+    <name>Александров Алексей</name>
+    <from-date>1986-11-16</from-date>
+  </person>
+  <uchastie id="syp2001-uch-2">
+    <uchastnik ref="syp2001-p-aleksandrov" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-2">
+    <uchastnik ref="syp2001-p-aleksandrov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-banin">
+    <name>Банин Александр</name>
+  </person>
+  <uchastie id="syp2001-uch-3">
+    <uchastnik ref="syp2001-p-banin" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-3">
+    <uchastnik ref="syp2001-p-banin" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-basalaev">
+    <name>Басалаев Андрей</name>
+  </person>
+  <uchastie id="syp2001-uch-4">
+    <uchastnik ref="syp2001-p-basalaev" />
+    <in-org ref="syp2001-mast-ic" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-4">
+    <uchastnik ref="syp2001-p-basalaev" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-baehrs">
+    <name>Берс Андрей Александрович</name>
+    <birth>1934-07-26</birth>
+  </person>
+  <uchastie id="syp2001-uch-5">
+    <uchastnik ref="syp2001-p-baehrs" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-5">
+    <uchastnik ref="syp2001-p-baehrs" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-bobrik">
+    <name>Бобрик Андрей</name>
+  </person>
+  <uchastie id="syp2001-uch-6">
+    <uchastnik ref="syp2001-p-bobrik" />
+    <in-org ref="syp2001-mast-robik" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-6">
+    <uchastnik ref="syp2001-p-bobrik" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-vazhenin">
+    <name>Важенин Михаил</name>
+    <from-date>1986-05-12</from-date>
+  </person>
+  <uchastie id="syp2001-uch-7">
+    <uchastnik ref="syp2001-p-vazhenin" />
+    <in-org ref="syp2001-mast-ass" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-7">
+    <uchastnik ref="syp2001-p-vazhenin" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-vdovin">
+    <name>Вдовин Иван</name>
+  </person>
+  <uchastie id="syp2001-uch-8">
+    <uchastnik ref="syp2001-p-vdovin" />
+    <in-org ref="syp2001-mast-lego" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-8">
+    <uchastnik ref="syp2001-p-vdovin" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-vodopyanov">
+    <name>Водопьянов Евгений Сергеевич</name>
+  </person>
+  <uchastie id="syp2001-uch-9">
+    <uchastnik ref="syp2001-p-vodopyanov" />
+    <in-org ref="syp2001-mast-lego" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-9">
+    <uchastnik ref="syp2001-p-vodopyanov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-vodopyanova">
+    <name>Водопьянова Наталья Сергеевна</name>
+  </person>
+  <uchastie id="syp2001-uch-10">
+    <uchastnik ref="syp2001-p-vodopyanova" />
+    <in-org ref="syp2001-mast-lego" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-10">
+    <uchastnik ref="syp2001-p-vodopyanova" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-volf">
+    <name>Вольф Александр</name>
+  </person>
+  <uchastie id="syp2001-uch-11">
+    <uchastnik ref="syp2001-p-volf" />
+    <in-org ref="syp2001-mast-game" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-11">
+    <uchastnik ref="syp2001-p-volf" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-gorodnyaya">
+    <name>Городняя Лидия Васильевна</name>
+  </person>
+  <uchastie id="syp2001-uch-12">
+    <uchastnik ref="syp2001-p-gorodnyaya" />
+    <in-org ref="syp2001-mast-sch" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-12">
+    <uchastnik ref="syp2001-p-gorodnyaya" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-dortman">
+    <name>Дортман Павел Александрович</name>
+  </person>
+  <uchastie id="syp2001-uch-13">
+    <uchastnik ref="syp2001-p-dortman" />
+    <in-org ref="syp2001-mast-game" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-13">
+    <uchastnik ref="syp2001-p-dortman" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-drobyshevich_o">
+    <name>Дробышевич Ольга Валерьевна</name>
+  </person>
+  <uchastie id="syp2001-uch-14">
+    <uchastnik ref="syp2001-p-drobyshevich_o" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-14">
+    <uchastnik ref="syp2001-p-drobyshevich_o" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-drobyshevich_s">
+    <name>Дробышевич Сергей</name>
+  </person>
+  <uchastie id="syp2001-uch-15">
+    <uchastnik ref="syp2001-p-drobyshevich_s" />
+    <in-org ref="syp2001-mast-lego" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-15">
+    <uchastnik ref="syp2001-p-drobyshevich_s" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-ermakov">
+    <name>Ермаков Степан</name>
+  </person>
+  <uchastie id="syp2001-uch-16">
+    <uchastnik ref="syp2001-p-ermakov" />
+    <in-org ref="syp2001-mast-ic" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-16">
+    <uchastnik ref="syp2001-p-ermakov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-efremova">
+    <name>Ефремова Екатерина</name>
+  </person>
+  <uchastie id="syp2001-uch-17">
+    <uchastnik ref="syp2001-p-efremova" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-17">
+    <uchastnik ref="syp2001-p-efremova" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-zhukov">
+    <name>Жуков Олег</name>
+  </person>
+  <uchastie id="syp2001-uch-18">
+    <uchastnik ref="syp2001-p-zhukov" />
+    <in-org ref="syp2001-mast-3d" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-18">
+    <uchastnik ref="syp2001-p-zhukov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-zaytsev">
+    <name>Зайцев Илья</name>
+  </person>
+  <uchastie id="syp2001-uch-19">
+    <uchastnik ref="syp2001-p-zaytsev" />
+    <in-org ref="syp2001-mast-press" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-19">
+    <uchastnik ref="syp2001-p-zaytsev" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-zanin">
+    <name>Занин Николай</name>
+  </person>
+  <uchastie id="syp2001-uch-20">
+    <uchastnik ref="syp2001-p-zanin" />
+    <in-org ref="syp2001-mast-forth" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-20">
+    <uchastnik ref="syp2001-p-zanin" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-zanina">
+    <name>Занина Ирина Викторовна</name>
+  </person>
+  <uchastie id="syp2001-uch-21">
+    <uchastnik ref="syp2001-p-zanina" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-21">
+    <uchastnik ref="syp2001-p-zanina" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-zonov">
+    <name>Зонов Олег</name>
+  </person>
+  <uchastie id="syp2001-uch-22">
+    <uchastnik ref="syp2001-p-zonov" />
+    <in-org ref="syp2001-mast-ass" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-22">
+    <uchastnik ref="syp2001-p-zonov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-zubakin">
+    <name>Зубакин Алексей</name>
+  </person>
+  <uchastie id="syp2001-uch-23">
+    <uchastnik ref="syp2001-p-zubakin" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-23">
+    <uchastnik ref="syp2001-p-zubakin" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-ivanov_a">
+    <name>Иванов Андрей</name>
+  </person>
+  <uchastie id="syp2001-uch-24">
+    <uchastnik ref="syp2001-p-ivanov_a" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-24">
+    <uchastnik ref="syp2001-p-ivanov_a" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-ivanov_d">
+    <name>Иванов Дмитрий</name>
+  </person>
+  <uchastie id="syp2001-uch-25">
+    <uchastnik ref="syp2001-p-ivanov_d" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-25">
+    <uchastnik ref="syp2001-p-ivanov_d" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-ilduganov">
+    <name>Ильдуганов Николай Владимирович</name>
+  </person>
+  <uchastie id="syp2001-uch-26">
+    <uchastnik ref="syp2001-p-ilduganov" />
+    <in-org ref="syp2001-mast-game" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-26">
+    <uchastnik ref="syp2001-p-ilduganov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-kalinina">
+    <name>Калинина Нина Алексеевна</name>
+  </person>
+  <uchastie id="syp2001-uch-27">
+    <uchastnik ref="syp2001-p-kalinina" />
+    <in-org ref="syp2001-mast-mapple" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-27">
+    <uchastnik ref="syp2001-p-kalinina" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-karabalina">
+    <name>Карабалина Инга Алексеевна</name>
+  </person>
+  <uchastie id="syp2001-uch-28">
+    <uchastnik ref="syp2001-p-karabalina" />
+    <in-org ref="syp2001-mast-press" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-28">
+    <uchastnik ref="syp2001-p-karabalina" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-kateshov">
+    <name>Катешов Андрей</name>
+  </person>
+  <uchastie id="syp2001-uch-29">
+    <uchastnik ref="syp2001-p-kateshov" />
+    <in-org ref="syp2001-mast-ass" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-29">
+    <uchastnik ref="syp2001-p-kateshov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-kolesnikov">
+    <name>Колесников Василий</name>
+  </person>
+  <uchastie id="syp2001-uch-30">
+    <uchastnik ref="syp2001-p-kolesnikov" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-30">
+    <uchastnik ref="syp2001-p-kolesnikov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-kolodin">
+    <name>Колодин Михаил Юрьевич</name>
+    <from-date>1968-03-20</from-date>
+  </person>
+  <uchastie id="syp2001-uch-31">
+    <uchastnik ref="syp2001-p-kolodin" />
+    <in-org ref="syp2001-mast-ic" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-31">
+    <uchastnik ref="syp2001-p-kolodin" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-komlev">
+    <name>Комлев Андрей</name>
+  </person>
+  <uchastie id="syp2001-uch-32">
+    <uchastnik ref="syp2001-p-komlev" />
+    <in-org ref="syp2001-mast-lego" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-32">
+    <uchastnik ref="syp2001-p-komlev" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-koplyarov">
+    <name>Копляров Дмитрий Аркадьевич</name>
+  </person>
+  <uchastie id="syp2001-uch-33">
+    <uchastnik ref="syp2001-p-koplyarov" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-33">
+    <uchastnik ref="syp2001-p-koplyarov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-kudryavtseva">
+    <name>Кудрявцева Виолетта</name>
+  </person>
+  <uchastie id="syp2001-uch-34">
+    <uchastnik ref="syp2001-p-kudryavtseva" />
+    <in-org ref="syp2001-mast-delphi" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-34">
+    <uchastnik ref="syp2001-p-kudryavtseva" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-kuznetsov">
+    <name>Кузнецов Сергей Валерьевич</name>
+  </person>
+  <uchastie id="syp2001-uch-35">
+    <uchastnik ref="syp2001-p-kuznetsov" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-35">
+    <uchastnik ref="syp2001-p-kuznetsov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-kuznetsova">
+    <name>Кузнецова Наталья</name>
+  </person>
+  <uchastie id="syp2001-uch-36">
+    <uchastnik ref="syp2001-p-kuznetsova" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-36">
+    <uchastnik ref="syp2001-p-kuznetsova" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-lazarenko">
+    <name>Лазаренко Андрей</name>
+  </person>
+  <uchastie id="syp2001-uch-37">
+    <uchastnik ref="syp2001-p-lazarenko" />
+    <in-org ref="syp2001-mast-3d" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-37">
+    <uchastnik ref="syp2001-p-lazarenko" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-legchenko">
+    <name>Легченко Михаил</name>
+  </person>
+  <uchastie id="syp2001-uch-38">
+    <uchastnik ref="syp2001-p-legchenko" />
+    <in-org ref="syp2001-mast-ic" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-38">
+    <uchastnik ref="syp2001-p-legchenko" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-lipovoy">
+    <name>Липовой Дмитрий</name>
+  </person>
+  <uchastie id="syp2001-uch-39">
+    <uchastnik ref="syp2001-p-lipovoy" />
+    <in-org ref="syp2001-mast-game" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-39">
+    <uchastnik ref="syp2001-p-lipovoy" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-lomivorotov">
+    <name>Ломиворотов Родион</name>
+    <from-date>1985-09-05</from-date>
+  </person>
+  <uchastie id="syp2001-uch-40">
+    <uchastnik ref="syp2001-p-lomivorotov" />
+    <in-org ref="syp2001-mast-game" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-40">
+    <uchastnik ref="syp2001-p-lomivorotov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-luzin">
+    <name>Лузин Алексей</name>
+    <from-date>1984-02-07</from-date>
+  </person>
+  <uchastie id="syp2001-uch-41">
+    <uchastnik ref="syp2001-p-luzin" />
+    <in-org ref="syp2001-mast-ass" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-41">
+    <uchastnik ref="syp2001-p-luzin" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-lystsov">
+    <name>Лысцов Алексей Владимирович</name>
+    <from-date>1985-03-16</from-date>
+  </person>
+  <uchastie id="syp2001-uch-42">
+    <uchastnik ref="syp2001-p-lystsov" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-42">
+    <uchastnik ref="syp2001-p-lystsov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-makarov">
+    <name>Макаров Михаил</name>
+  </person>
+  <uchastie id="syp2001-uch-43">
+    <uchastnik ref="syp2001-p-makarov" />
+    <in-org ref="syp2001-mast-3d" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-43">
+    <uchastnik ref="syp2001-p-makarov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-makeev">
+    <name>Макеев Александр</name>
+  </person>
+  <uchastie id="syp2001-uch-44">
+    <uchastnik ref="syp2001-p-makeev" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-44">
+    <uchastnik ref="syp2001-p-makeev" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-marchuk_a">
+    <name>Марчук Александр Гурьевич</name>
+    <from-date>1951-12-30</from-date>
+    <birth>1951-12-30</birth>
+  </person>
+  <uchastie id="syp2001-uch-45">
+    <uchastnik ref="syp2001-p-marchuk_a" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-45">
+    <uchastnik ref="syp2001-p-marchuk_a" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-marchuk_e">
+    <name>Марчук Елена Александровна</name>
+  </person>
+  <uchastie id="syp2001-uch-46">
+    <uchastnik ref="syp2001-p-marchuk_e" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-46">
+    <uchastnik ref="syp2001-p-marchuk_e" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-marchuk_p">
+    <name>Марчук Петр Александрович(мастер)</name>
+  </person>
+  <uchastie id="syp2001-uch-47">
+    <uchastnik ref="syp2001-p-marchuk_p" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-47">
+    <uchastnik ref="syp2001-p-marchuk_p" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-molodykh">
+    <name>Молодых Евгения</name>
+  </person>
+  <uchastie id="syp2001-uch-48">
+    <uchastnik ref="syp2001-p-molodykh" />
+    <in-org ref="syp2001-mast-mapple" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-48">
+    <uchastnik ref="syp2001-p-molodykh" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-molchanova">
+    <name>Молчанова Елена Павловна</name>
+    <from-date>1976-10-13</from-date>
+  </person>
+  <uchastie id="syp2001-uch-49">
+    <uchastnik ref="syp2001-p-molchanova" />
+    <in-org ref="syp2001-mast-delphi" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-49">
+    <uchastnik ref="syp2001-p-molchanova" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-musher">
+    <name>Мушер Семен Львович</name>
+  </person>
+  <uchastie id="syp2001-uch-50">
+    <uchastnik ref="syp2001-p-musher" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-50">
+    <uchastnik ref="syp2001-p-musher" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-nasibulov">
+    <name>Насибулов Егор Андреевич</name>
+    <birth>09.09.1990</birth>
+  </person>
+  <uchastie id="syp2001-uch-51">
+    <uchastnik ref="syp2001-p-nasibulov" />
+    <in-org ref="syp2001-mast-lego" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-51">
+    <uchastnik ref="syp2001-p-nasibulov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-nemov">
+    <name>Немов Андрей</name>
+  </person>
+  <uchastie id="syp2001-uch-52">
+    <uchastnik ref="syp2001-p-nemov" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-52">
+    <uchastnik ref="syp2001-p-nemov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-onischenko">
+    <name>Онищенко Павел</name>
+  </person>
+  <uchastie id="syp2001-uch-53">
+    <uchastnik ref="syp2001-p-onischenko" />
+    <in-org ref="syp2001-mast-ass" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-53">
+    <uchastnik ref="syp2001-p-onischenko" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-osipov">
+    <name>Осипов Александр Евгеньевич</name>
+  </person>
+  <uchastie id="syp2001-uch-54">
+    <uchastnik ref="syp2001-p-osipov" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-54">
+    <uchastnik ref="syp2001-p-osipov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-parfenov">
+    <name>Парфенов Алексей</name>
+  </person>
+  <uchastie id="syp2001-uch-55">
+    <uchastnik ref="syp2001-p-parfenov" />
+    <in-org ref="syp2001-mast-ass" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-55">
+    <uchastnik ref="syp2001-p-parfenov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-petrov">
+    <name>Петров Евгений Сергеевич</name>
+  </person>
+  <uchastie id="syp2001-uch-56">
+    <uchastnik ref="syp2001-p-petrov" />
+    <in-org ref="syp2001-mast-prolog" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-56">
+    <uchastnik ref="syp2001-p-petrov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-pletnev">
+    <name>Плетнев Дмитрий</name>
+  </person>
+  <uchastie id="syp2001-uch-57">
+    <uchastnik ref="syp2001-p-pletnev" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-57">
+    <uchastnik ref="syp2001-p-pletnev" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-pozdnyakov">
+    <name>Поздняков Анатолий Михайлович</name>
+  </person>
+  <uchastie id="syp2001-uch-58">
+    <uchastnik ref="syp2001-p-pozdnyakov" />
+    <in-org ref="syp2001-mast-3d" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-58">
+    <uchastnik ref="syp2001-p-pozdnyakov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-pokrovskaya">
+    <name>Покровская Анна</name>
+  </person>
+  <uchastie id="syp2001-uch-59">
+    <uchastnik ref="syp2001-p-pokrovskaya" />
+    <in-org ref="syp2001-mast-." />
+  </uchastie>
+  <uchastie id="syp2001-uchs-59">
+    <uchastnik ref="syp2001-p-pokrovskaya" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-pokrovsky">
+    <name>Покровский Сергей Борисович</name>
+  </person>
+  <uchastie id="syp2001-uch-60">
+    <uchastnik ref="syp2001-p-pokrovsky" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-60">
+    <uchastnik ref="syp2001-p-pokrovsky" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-polyakova_a">
+    <name>Полякова Александра</name>
+  </person>
+  <uchastie id="syp2001-uch-61">
+    <uchastnik ref="syp2001-p-polyakova_a" />
+    <in-org ref="syp2001-mast-lego" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-61">
+    <uchastnik ref="syp2001-p-polyakova_a" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-polyakova_e">
+    <name>Полякова Елена Александровна</name>
+  </person>
+  <milo id="syp2001-m-polyakova_e">
+    <abonent ref="syp2001-p-polyakova_e" />
+    <adress ref="syp2001-email-polyakova_e-1" />
+  </milo>
+  <uchastie id="syp2001-uch-62">
+    <uchastnik ref="syp2001-p-polyakova_e" />
+    <in-org ref="syp2001-mast-sch" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-62">
+    <uchastnik ref="syp2001-p-polyakova_e" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-potapenko">
+    <name>Потапенко Вадим</name>
+  </person>
+  <uchastie id="syp2001-uch-63">
+    <uchastnik ref="syp2001-p-potapenko" />
+    <in-org ref="syp2001-mast-forth" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-63">
+    <uchastnik ref="syp2001-p-potapenko" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-rabinovich">
+    <name>Рабинович Леонид Рудольфович</name>
+  </person>
+  <uchastie id="syp2001-uch-64">
+    <uchastnik ref="syp2001-p-rabinovich" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-64">
+    <uchastnik ref="syp2001-p-rabinovich" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-root">
+    <name>Роот Дмитрий</name>
+  </person>
+  <uchastie id="syp2001-uch-65">
+    <uchastnik ref="syp2001-p-root" />
+    <in-org ref="syp2001-mast-3d" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-65">
+    <uchastnik ref="syp2001-p-root" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-siparenko">
+    <name>Сипаренко Ольга Ивановна</name>
+  </person>
+  <uchastie id="syp2001-uch-66">
+    <uchastnik ref="syp2001-p-siparenko" />
+    <in-org ref="syp2001-mast-sch" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-66">
+    <uchastnik ref="syp2001-p-siparenko" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-smolyak">
+    <name>Смоляк Татьяна Николаевна</name>
+  </person>
+  <uchastie id="syp2001-uch-67">
+    <uchastnik ref="syp2001-p-smolyak" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-67">
+    <uchastnik ref="syp2001-p-smolyak" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-sosedkin">
+    <name>Соседкин Александр Павлович</name>
+    <birth>11.07.1991</birth>
+  </person>
+  <uchastie id="syp2001-uch-68">
+    <uchastnik ref="syp2001-p-sosedkin" />
+    <in-org ref="syp2001-mast-lego" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-68">
+    <uchastnik ref="syp2001-p-sosedkin" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-sosedkina">
+    <name>Соседкина Наталия Валерьевна</name>
+    <from-date>1968-06-05</from-date>
+  </person>
+  <milo id="syp2001-m-sosedkina">
+    <abonent ref="syp2001-p-sosedkina" />
+    <adress ref="syp2001-email-sosedkina-1" />
+  </milo>
+  <uchastie id="syp2001-uch-69">
+    <uchastnik ref="syp2001-p-sosedkina" />
+    <in-org ref="syp2001-mast-press" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-69">
+    <uchastnik ref="syp2001-p-sosedkina" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-tamarevsky">
+    <name>Тамаревский Алексей</name>
+  </person>
+  <uchastie id="syp2001-uch-70">
+    <uchastnik ref="syp2001-p-tamarevsky" />
+    <in-org ref="syp2001-mast-game" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-70">
+    <uchastnik ref="syp2001-p-tamarevsky" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-tarasova">
+    <name>Тарасова Дарья</name>
+  </person>
+  <uchastie id="syp2001-uch-71">
+    <uchastnik ref="syp2001-p-tarasova" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-71">
+    <uchastnik ref="syp2001-p-tarasova" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <milo id="syp2001-m-tikhonova">
+    <abonent ref="syp2001-p-tikhonova" />
+    <adress ref="syp2001-email-tikhonova-1" />
+  </milo>
+  <uchastie id="syp2001-uch-72">
+    <uchastnik ref="syp2001-p-tikhonova" />
+    <in-org ref="syp2001-mast-robik" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-72">
+    <uchastnik ref="syp2001-p-tikhonova" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-tomin">
+    <name>Томин Павел</name>
+  </person>
+  <uchastie id="syp2001-uch-73">
+    <uchastnik ref="syp2001-p-tomin" />
+    <in-org ref="syp2001-mast-forth" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-73">
+    <uchastnik ref="syp2001-p-tomin" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-faktorovich">
+    <name>Факторович Семен</name>
+    <from-date>1986-05-02</from-date>
+  </person>
+  <uchastie id="syp2001-uch-74">
+    <uchastnik ref="syp2001-p-faktorovich" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-74">
+    <uchastnik ref="syp2001-p-faktorovich" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-filippov">
+    <name>Филиппов Владимир Эдуардович</name>
+  </person>
+  <uchastie id="syp2001-uch-75">
+    <uchastnik ref="syp2001-p-filippov" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-75">
+    <uchastnik ref="syp2001-p-filippov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-fomina">
+    <name>Фомина Ася</name>
+  </person>
+  <uchastie id="syp2001-uch-76">
+    <uchastnik ref="syp2001-p-fomina" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-76">
+    <uchastnik ref="syp2001-p-fomina" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-khalmansky">
+    <name>Халманский Виталий</name>
+  </person>
+  <uchastie id="syp2001-uch-77">
+    <uchastnik ref="syp2001-p-khalmansky" />
+    <in-org ref="syp2001-mast-ass" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-77">
+    <uchastnik ref="syp2001-p-khalmansky" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-cheremnykh">
+    <name>Черемных Наталья Ариановна</name>
+  </person>
+  <uchastie id="syp2001-uch-78">
+    <uchastnik ref="syp2001-p-cheremnykh" />
+    <in-org ref="syp2001-mast-" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-78">
+    <uchastnik ref="syp2001-p-cheremnykh" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-chertenkov">
+    <name>Чертенков Игорь</name>
+  </person>
+  <uchastie id="syp2001-uch-79">
+    <uchastnik ref="syp2001-p-chertenkov" />
+    <in-org ref="syp2001-mast-3d" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-79">
+    <uchastnik ref="syp2001-p-chertenkov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-shadrin">
+    <name>Шадрин Станислав</name>
+  </person>
+  <uchastie id="syp2001-uch-80">
+    <uchastnik ref="syp2001-p-shadrin" />
+    <in-org ref="syp2001-mast-ic" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-80">
+    <uchastnik ref="syp2001-p-shadrin" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-shapovalov">
+    <name>Шаповалов Илья</name>
+  </person>
+  <uchastie id="syp2001-uch-81">
+    <uchastnik ref="syp2001-p-shapovalov" />
+    <in-org ref="syp2001-mast-ass" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-81">
+    <uchastnik ref="syp2001-p-shapovalov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-shindin">
+    <name>Шиндин Слава</name>
+  </person>
+  <uchastie id="syp2001-uch-82">
+    <uchastnik ref="syp2001-p-shindin" />
+    <in-org ref="syp2001-mast-3d" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-82">
+    <uchastnik ref="syp2001-p-shindin" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-shpitalev">
+    <name>Шпиталев Алексей</name>
+  </person>
+  <uchastie id="syp2001-uch-83">
+    <uchastnik ref="syp2001-p-shpitalev" />
+    <in-org ref="syp2001-mast-ic" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-83">
+    <uchastnik ref="syp2001-p-shpitalev" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-yurkovskaya">
+    <name>Юрковская Елена Сергеевна</name>
+  </person>
+  <uchastie id="syp2001-uch-84">
+    <uchastnik ref="syp2001-p-yurkovskaya" />
+    <in-org ref="syp2001-mast-delphi" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-84">
+    <uchastnik ref="syp2001-p-yurkovskaya" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-yushkov">
+    <name>Юшков Саша</name>
+  </person>
+  <uchastie id="syp2001-uch-85">
+    <uchastnik ref="syp2001-p-yushkov" />
+    <in-org ref="syp2001-mast-lego" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-85">
+    <uchastnik ref="syp2001-p-yushkov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-yushkova">
+    <name>Юшкова Раиса Николаевна</name>
+    <from-date>1949-08-31</from-date>
+  </person>
+  <uchastie id="syp2001-uch-86">
+    <uchastnik ref="syp2001-p-yushkova" />
+    <in-org ref="syp2001-mast-sch" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-86">
+    <uchastnik ref="syp2001-p-yushkova" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-yaimov">
+    <name>Яимов Булат</name>
+  </person>
+  <uchastie id="syp2001-uch-87">
+    <uchastnik ref="syp2001-p-yaimov" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-87">
+    <uchastnik ref="syp2001-p-yaimov" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <person id="syp2001-p-yanshole">
+    <name>Яньшоле Сергей</name>
+  </person>
+  <uchastie id="syp2001-uch-88">
+    <uchastnik ref="syp2001-p-yanshole" />
+    <in-org ref="syp2001-mast-web" />
+  </uchastie>
+  <uchastie id="syp2001-uchs-88">
+    <uchastnik ref="syp2001-p-yanshole" />
+    <in-org ref="syp2001school" />
+  </uchastie>
+  <mastersk id="syp2001-mast-sch">
+    <name>Система "Школьница" под Linux</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_01">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-sch" />
+  </org-relatives>
+  <mastersk id="syp2001-mast-web">
+    <name>Web-проектирование</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_02">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-web" />
+  </org-relatives>
+  <mastersk id="syp2001-mast-lego">
+    <name>Lego-Logo</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_03">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-lego" />
+  </org-relatives>
+  <mastersk id="syp2001-mast-mapple">
+    <name>Mapple</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_04">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-mapple" />
+  </org-relatives>
+  <mastersk id="syp2001-mast-ic">
+    <name>Идеальная компания</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_05">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-ic" />
+  </org-relatives>
+  <mastersk id="syp2001-mast-press">
+    <name>Пресс-центр</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_06">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-press" />
+  </org-relatives>
+  <mastersk id="syp2001-mast-robik">
+    <name>Параллельный Робик</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_07">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-robik" />
+  </org-relatives>
+  <mastersk id="syp2001-mast-ass">
+    <name>Низкоуровневое программирование и аппаратура</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_08">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-ass" />
+  </org-relatives>
+  <mastersk id="syp2001-mast-prolog">
+    <name>Логическое программирование. Язык Пролог</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_09">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-prolog" />
+  </org-relatives>
+  <mastersk id="syp2001-mast-forth">
+    <name>Язык Форт</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_10">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-forth" />
+  </org-relatives>
+  <mastersk id="syp2001-mast-game">
+    <name>Сетевая игра под Linux</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_11">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-game" />
+  </org-relatives>
+  <mastersk id="syp2001-mast-delphi">
+    <name>Изучение Delphi</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_12">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-delphi" />
+  </org-relatives>
+  <mastersk id="syp2001-mast-3d">
+    <name>Построение пространственных фигур</name>
+    <from-date>
+      2001
+    </from-date>
+  </mastersk>
+  <org-relatives id="or2001_13">
+    <org-parent ref="syp2001school" />
+    <org-child ref="syp2001-mast-3d" />
+  </org-relatives>
+</db>

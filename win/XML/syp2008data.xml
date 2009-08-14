@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db prefix="syp2008_" count="1259">
+  <org-sys id="syp2008">
+    <name>ЛШЮП-2008 (Созвездие Юниор) </name>
+    <from-date>2008-07-19</from-date>
+    <to-date>2008-08-02</to-date>
+  </org-sys>
+  <mastersk id="socialnetwork08">
+    <name>Социальные сети</name>
+  </mastersk>
+  <org-relatives id="org-08-001">
+    <org-parent ref="syp2008" />
+    <org-child ref="socialnetwork08" />
+  </org-relatives>
+  <person id="syp2008_1020">
+    <name>Гочакова Анна</name>
+    <from-date>1992-03-06</from-date>
+  </person>
+  <uchastie id="uch08-1021">
+    <uchastnik ref="syp2008_1020" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1022">
+    <uchastnik ref="syp2008_1020" />
+    <in-org ref="socialnetwork08" />
+  </uchastie>
+  <uchastie id="uch08-1023">
+    <uchastnik ref="saizev_v" />
+    <in-org ref="socialnetwork08" />
+  </uchastie>
+  <uchastie id="uch08-777">
+    <uchastnik ref="saizev_v" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1024">
+    <uchastnik ref="person11" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1025">
+    <uchastnik ref="person11" />
+    <in-org ref="socialnetwork08" />
+  </uchastie>
+  <mastersk id="Pascal08">
+    <name>Паскаль</name>
+  </mastersk>
+  <org-relatives id="org-08-002">
+    <org-parent ref="syp2008" />
+    <org-child ref="Pascal08" />
+  </org-relatives>
+  <mastersk id="LogoCraft08">
+    <name>LogoCraft</name>
+  </mastersk>
+  <org-relatives id="org-08-003">
+    <org-parent ref="syp2008" />
+    <org-child ref="LogoCraft08" />
+  </org-relatives>
+  <mastersk id="APE08">
+    <name>APE</name>
+  </mastersk>
+  <org-relatives id="org-08-004">
+    <org-parent ref="syp2008" />
+    <org-child ref="APE08" />
+  </org-relatives>
+  <mastersk id="GraphLibrary08">
+    <name>Графическая Библиотека</name>
+  </mastersk>
+  <org-relatives id="org-08-005">
+    <org-parent ref="syp2008" />
+    <org-child ref="GraphLibrary08" />
+  </org-relatives>
+  <mastersk id="VideoCards08">
+    <name>Видеокарты</name>
+  </mastersk>
+  <org-relatives id="org-08-006">
+    <org-parent ref="syp2008" />
+    <org-child ref="VideoCards08" />
+  </org-relatives>
+  <mastersk id="FunctionGr08">
+    <name>Графики Функций</name>
+  </mastersk>
+  <org-relatives id="org-08-007">
+    <org-parent ref="syp2008" />
+    <org-child ref="FunctionGr08" />
+  </org-relatives>
+  <mastersk id="Logo08">
+    <name>Лого+Пресс-Центр</name>
+  </mastersk>
+  <org-relatives id="org-08-008">
+    <org-parent ref="syp2008" />
+    <org-child ref="Logo08" />
+  </org-relatives>
+  <mastersk id="Globus08">
+    <name>Назад к Глобусу</name>
+  </mastersk>
+  <org-relatives id="org-08-009">
+    <org-parent ref="syp2008" />
+    <org-child ref="Globus08" />
+  </org-relatives>
+  <mastersk id="OS08">
+    <name>Операционные Системы</name>
+  </mastersk>
+  <org-relatives id="org-08-010">
+    <org-parent ref="syp2008" />
+    <org-child ref="OS08" />
+  </org-relatives>
+  <mastersk id="ST08">
+    <name>Сетевые Технологии</name>
+  </mastersk>
+  <org-relatives id="org-08-011">
+    <org-parent ref="syp2008" />
+    <org-child ref="ST08" />
+  </org-relatives>
+  <mastersk id="SuperCode08">
+    <name>СуперКод</name>
+  </mastersk>
+  <org-relatives id="org-08-012">
+    <org-parent ref="syp2008" />
+    <org-child ref="SuperCode08" />
+  </org-relatives>
+  <mastersk id="TOA08">
+    <name>Теория Алгоритмов</name>
+  </mastersk>
+  <org-relatives id="org-08-013">
+    <org-parent ref="syp2008" />
+    <org-child ref="TOA08" />
+  </org-relatives>
+  <mastersk id="TG08">
+    <name>Типографика</name>
+  </mastersk>
+  <org-relatives id="org-08-014">
+    <org-parent ref="syp2008" />
+    <org-child ref="TG08" />
+  </org-relatives>
+  <mastersk id="Flash08">
+    <name>Учебник по Флеш</name>
+  </mastersk>
+  <org-relatives id="org-08-015">
+    <org-parent ref="syp2008" />
+    <org-child ref="Flash08" />
+  </org-relatives>
+  <mastersk id="Physics08">
+    <name>Физические Процессы</name>
+  </mastersk>
+  <org-relatives id="org-08-016">
+    <org-parent ref="syp2008" />
+    <org-child ref="Physics08" />
+  </org-relatives>
+  <mastersk id="Photo08">
+    <name>Фотоальбом</name>
+  </mastersk>
+  <org-relatives id="org-08-017">
+    <org-parent ref="syp2008" />
+    <org-child ref="Photo08" />
+  </org-relatives>
+  <mastersk id="Java08">
+    <name>Ява</name>
+  </mastersk>
+  <org-relatives id="org-08-018">
+    <org-parent ref="syp2008" />
+    <org-child ref="Java08" />
+  </org-relatives>
+  <uchastie id="uch08-1026">
+    <uchastnik ref="person17" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1027">
+    <uchastnik ref="person17" />
+    <in-org ref="Pascal08" />
+  </uchastie>
+  <person id="syp2008_1030">
+    <name>Лучкина Александра</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1031">
+    <uchastnik ref="syp2008_1030" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1032">
+    <uchastnik ref="syp2008_1030" />
+    <in-org ref="Pascal08" />
+  </uchastie>
+  <uchastie id="uch08-1033">
+    <uchastnik ref="person15" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1034">
+    <uchastnik ref="person15" />
+    <in-org ref="Pascal08" />
+  </uchastie>
+  <uchastie id="uch08-1035">
+    <uchastnik ref="smirnov_p" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1036">
+    <uchastnik ref="smirnov_p" />
+    <in-org ref="Pascal08" />
+  </uchastie>
+  <uchastie id="uch08-1037">
+    <uchastnik ref="p25" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1038">
+    <uchastnik ref="p25" />
+    <in-org ref="Pascal08" />
+  </uchastie>
+  <uchastie id="uch08-1039">
+    <uchastnik ref="person60" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1040">
+    <uchastnik ref="person60" />
+    <in-org ref="Pascal08" />
+  </uchastie>
+  <uchastie id="uch08-1041">
+    <uchastnik ref="ahmetzyanov_d" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1042">
+    <uchastnik ref="ahmetzyanov_d" />
+    <in-org ref="LogoCraft08" />
+  </uchastie>
+  <uchastie id="uch08-1043">
+    <uchastnik ref="luchkina_a" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1044">
+    <uchastnik ref="luchkina_a" />
+    <in-org ref="LogoCraft08" />
+  </uchastie>
+  <uchastie id="uch08-1045">
+    <uchastnik ref="person16" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1046">
+    <uchastnik ref="person16" />
+    <in-org ref="LogoCraft08" />
+  </uchastie>
+  <uchastie id="uch08-1047">
+    <uchastnik ref="tytov_d" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1048">
+    <uchastnik ref="tytov_d" />
+    <in-org ref="LogoCraft08" />
+  </uchastie>
+  <uchastie id="uch08-1049">
+    <uchastnik ref="person65" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1050">
+    <uchastnik ref="person65" />
+    <in-org ref="LogoCraft08" />
+  </uchastie>
+  <person id="syp2008_1051">
+    <name>Патрин Виктор Викторович</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1052">
+    <uchastnik ref="syp2008_1051" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1053">
+    <uchastnik ref="syp2008_1051" />
+    <in-org ref="LogoCraft08" />
+  </uchastie>
+  <uchastie id="uch08-1054">
+    <uchastnik ref="syp2001-p-marchuk_a" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1055">
+    <uchastnik ref="syp2001-p-marchuk_a" />
+    <in-org ref="socialnetwork08" />
+  </uchastie>
+  <uchastie id="uch08-1057">
+    <uchastnik ref="syp2001-p-nasibulov" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1058">
+    <uchastnik ref="syp2001-p-nasibulov" />
+    <in-org ref="Pascal08" />
+  </uchastie>
+  <uchastie id="uch08-1059">
+    <uchastnik ref="sakerin_a" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1060">
+    <uchastnik ref="sakerin_a" />
+    <in-org ref="LogoCraft08" />
+  </uchastie>
+  <uchastie id="uch08-1061">
+    <uchastnik ref="salmin_a" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1062">
+    <uchastnik ref="salmin_a" />
+    <in-org ref="APE08" />
+  </uchastie>
+  <uchastie id="uch08-1063">
+    <uchastnik ref="klimov_n" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1064">
+    <uchastnik ref="klimov_n" />
+    <in-org ref="APE08" />
+  </uchastie>
+  <uchastie id="uch08-1065">
+    <uchastnik ref="syp2004-p-1" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1066">
+    <uchastnik ref="syp2004-p-1" />
+    <in-org ref="APE08" />
+  </uchastie>
+  <uchastie id="uch08-1067">
+    <uchastnik ref="nemov_s" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1068">
+    <uchastnik ref="nemov_s" />
+    <in-org ref="APE08" />
+  </uchastie>
+  <uchastie id="uch08-1069">
+    <uchastnik ref="p38" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1070">
+    <uchastnik ref="p38" />
+    <in-org ref="APE08" />
+  </uchastie>
+  <uchastie id="uch08-1071">
+    <uchastnik ref="person_1" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1072">
+    <uchastnik ref="person_1" />
+    <in-org ref="GraphLibrary08" />
+  </uchastie>
+  <uchastie id="uch08-1074">
+    <uchastnik ref="p3" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1075">
+    <uchastnik ref="p3" />
+    <in-org ref="GraphLibrary08" />
+  </uchastie>
+  <person id="syp2008_1076">
+    <name>Голубев Давид</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1077">
+    <uchastnik ref="syp2008_1076" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1078">
+    <uchastnik ref="syp2008_1076" />
+    <in-org ref="GraphLibrary08" />
+  </uchastie>
+  <uchastie id="uch08-1079">
+    <uchastnik ref="p21" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1080">
+    <uchastnik ref="p21" />
+    <in-org ref="GraphLibrary08" />
+  </uchastie>
+  <uchastie id="uch08-1081">
+    <uchastnik ref="p23" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1082">
+    <uchastnik ref="p23" />
+    <in-org ref="GraphLibrary08" />
+  </uchastie>
+  <uchastie id="uch08-1083">
+    <uchastnik ref="sagynbaeff_a" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1084">
+    <uchastnik ref="sagynbaeff_a" />
+    <in-org ref="GraphLibrary08" />
+  </uchastie>
+  <uchastie id="uch08-1086">
+    <uchastnik ref="syp2002-p-25" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1087">
+    <uchastnik ref="syp2002-p-25" />
+    <in-org ref="VideoCards08" />
+  </uchastie>
+  <person id="syp2008_1088">
+    <name>Анциферов Виталий</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1089">
+    <uchastnik ref="syp2008_1088" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1090">
+    <uchastnik ref="syp2008_1088" />
+    <in-org ref="VideoCards08" />
+  </uchastie>
+  <person id="syp2008_1091">
+    <name>Семенов Константин</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1092">
+    <uchastnik ref="syp2008_1091" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1093">
+    <uchastnik ref="syp2008_1091" />
+    <in-org ref="VideoCards08" />
+  </uchastie>
+  <uchastie id="uch08-1094">
+    <uchastnik ref="syp2004-p-5" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1095">
+    <uchastnik ref="syp2004-p-5" />
+    <in-org ref="VideoCards08" />
+  </uchastie>
+  <person id="syp2008_1096">
+    <name>Жаринов Сергей Олегович</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1097">
+    <uchastnik ref="syp2008_1096" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1098">
+    <uchastnik ref="syp2008_1096" />
+    <in-org ref="FunctionGr08" />
+  </uchastie>
+  <uchastie id="uch08-1099">
+    <uchastnik ref="bauer_v" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1100">
+    <uchastnik ref="bauer_v" />
+    <in-org ref="FunctionGr08" />
+  </uchastie>
+  <uchastie id="uch08-1101">
+    <uchastnik ref="kucherov_a" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1102">
+    <uchastnik ref="kucherov_a" />
+    <in-org ref="FunctionGr08" />
+  </uchastie>
+  <person id="syp2008_1103">
+    <name>Тараненко Анна</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1104">
+    <uchastnik ref="syp2008_1103" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1105">
+    <uchastnik ref="syp2008_1103" />
+    <in-org ref="FunctionGr08" />
+  </uchastie>
+  <person id="syp2008_1106">
+    <name>Уваров Вадим Евгеньевич</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1107">
+    <uchastnik ref="syp2008_1106" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1108">
+    <uchastnik ref="syp2008_1106" />
+    <in-org ref="FunctionGr08" />
+  </uchastie>
+  <uchastie id="uch08-1110">
+    <uchastnik ref="syp2001-p-sosedkina" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1111">
+    <uchastnik ref="syp2001-p-sosedkina" />
+    <in-org ref="Logo08" />
+  </uchastie>
+  <person id="syp2008_1112">
+    <name>Батырев Илья Владимирович</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1113">
+    <uchastnik ref="syp2008_1112" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1114">
+    <uchastnik ref="syp2008_1112" />
+    <in-org ref="Logo08" />
+  </uchastie>
+  <person id="syp2008_1115">
+    <name>Скок Кирилл</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1116">
+    <uchastnik ref="syp2008_1115" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1117">
+    <uchastnik ref="syp2008_1115" />
+    <in-org ref="Logo08" />
+  </uchastie>
+  <person id="syp2008_1118">
+    <name>Шилов Иван Николаевич</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1119">
+    <uchastnik ref="syp2008_1118" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1120">
+    <uchastnik ref="syp2008_1118" />
+    <in-org ref="Logo08" />
+  </uchastie>
+  <uchastie id="uch08-1122">
+    <uchastnik ref="sakerin_v" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1123">
+    <uchastnik ref="sakerin_v" />
+    <in-org ref="Globus08" />
+  </uchastie>
+  <uchastie id="uch08-1124">
+    <uchastnik ref="zyulyaev_n" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1125">
+    <uchastnik ref="zyulyaev_n" />
+    <in-org ref="Globus08" />
+  </uchastie>
+  <uchastie id="uch08-1126">
+    <uchastnik ref="kovalioff_d" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1127">
+    <uchastnik ref="kovalioff_d" />
+    <in-org ref="Globus08" />
+  </uchastie>
+  <uchastie id="uch08-1128">
+    <uchastnik ref="kolmikov_s" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1129">
+    <uchastnik ref="kolmikov_s" />
+    <in-org ref="Globus08" />
+  </uchastie>
+  <person id="syp2008_1130">
+    <name>Минеев Глеб Владимирович</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1131">
+    <uchastnik ref="syp2008_1130" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1132">
+    <uchastnik ref="syp2008_1130" />
+    <in-org ref="Globus08" />
+  </uchastie>
+  <person id="syp2008_1133">
+    <name>Шишватов Владислав Андреевич</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1134">
+    <uchastnik ref="syp2008_1133" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1135">
+    <uchastnik ref="syp2008_1133" />
+    <in-org ref="Globus08" />
+  </uchastie>
+  <person id="syp2008_1136">
+    <name>Судос Иван (мастер)</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1137">
+    <uchastnik ref="syp2008_1136" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1138">
+    <uchastnik ref="syp2008_1136" />
+    <in-org ref="OS08" />
+  </uchastie>
+  <uchastie id="uch08-1139">
+    <uchastnik ref="yakovlev_v" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1140">
+    <uchastnik ref="yakovlev_v" />
+    <in-org ref="OS08" />
+  </uchastie>
+  <uchastie id="uch08-1141">
+    <uchastnik ref="bauer_v" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1142">
+    <uchastnik ref="bauer_v" />
+    <in-org ref="ST08" />
+  </uchastie>
+  <uchastie id="uch08-1144">
+    <uchastnik ref="jirov_a" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1145">
+    <uchastnik ref="jirov_a" />
+    <in-org ref="ST08" />
+  </uchastie>
+  <uchastie id="uch08-1147">
+    <uchastnik ref="p34" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1148">
+    <uchastnik ref="p34" />
+    <in-org ref="ST08" />
+  </uchastie>
+  <uchastie id="uch08-1149">
+    <uchastnik ref="p24" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1150">
+    <uchastnik ref="p24" />
+    <in-org ref="ST08" />
+  </uchastie>
+  <uchastie id="uch08-1151">
+    <uchastnik ref="person13_" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1152">
+    <uchastnik ref="person13_" />
+    <in-org ref="SuperCode08" />
+  </uchastie>
+  <uchastie id="uch08-1153">
+    <uchastnik ref="gornostalev_d" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1154">
+    <uchastnik ref="gornostalev_d" />
+    <in-org ref="SuperCode08" />
+  </uchastie>
+  <uchastie id="uch08-1155">
+    <uchastnik ref="syp2008_1030" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1156">
+    <uchastnik ref="syp2008_1030" />
+    <in-org ref="SuperCode08" />
+  </uchastie>
+  <person id="syp2008_1157">
+    <name>Оношко Даниил Эдуардович</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1158">
+    <uchastnik ref="syp2008_1157" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1159">
+    <uchastnik ref="syp2008_1157" />
+    <in-org ref="SuperCode08" />
+  </uchastie>
+  <uchastie id="uch08-1160">
+    <uchastnik ref="koval_d" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1161">
+    <uchastnik ref="koval_d" />
+    <in-org ref="SuperCode08" />
+  </uchastie>
+  <uchastie id="uch08-1164">
+    <uchastnik ref="solovyev_v" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1165">
+    <uchastnik ref="solovyev_v" />
+    <in-org ref="TOA08" />
+  </uchastie>
+  <uchastie id="uch08-1166">
+    <uchastnik ref="koshkarev_a" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1167">
+    <uchastnik ref="koshkarev_a" />
+    <in-org ref="TOA08" />
+  </uchastie>
+  <uchastie id="uch08-1169">
+    <uchastnik ref="syp2001-p-kolodin" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1170">
+    <uchastnik ref="syp2001-p-kolodin" />
+    <in-org ref="TG08" />
+  </uchastie>
+  <person id="syp2008_1171">
+    <name>Бабенко Роман</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1172">
+    <uchastnik ref="syp2008_1171" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1173">
+    <uchastnik ref="syp2008_1171" />
+    <in-org ref="TG08" />
+  </uchastie>
+  <person id="syp2008_1174">
+    <name>Кузаев Александр</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1175">
+    <uchastnik ref="syp2008_1174" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1176">
+    <uchastnik ref="syp2008_1174" />
+    <in-org ref="TG08" />
+  </uchastie>
+  <uchastie id="uch08-1177">
+    <uchastnik ref="person20" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1178">
+    <uchastnik ref="person20" />
+    <in-org ref="TG08" />
+  </uchastie>
+  <person id="syp2008_1179">
+    <name>Набока Людмила</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1180">
+    <uchastnik ref="syp2008_1179" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1181">
+    <uchastnik ref="syp2008_1179" />
+    <in-org ref="TG08" />
+  </uchastie>
+  <person id="syp2008_1182">
+    <name>Дмитриева Екатерина Анатольевна</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1183">
+    <uchastnik ref="syp2008_1182" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1184">
+    <uchastnik ref="syp2008_1182" />
+    <in-org ref="Flash08" />
+  </uchastie>
+  <person id="syp2008_1185">
+    <name>Колобов Василий Иванович</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1186">
+    <uchastnik ref="syp2008_1185" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1187">
+    <uchastnik ref="syp2008_1185" />
+    <in-org ref="Flash08" />
+  </uchastie>
+  <uchastie id="uch08-1188">
+    <uchastnik ref="kuzkokov_s" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1189">
+    <uchastnik ref="kuzkokov_s" />
+    <in-org ref="Flash08" />
+  </uchastie>
+  <uchastie id="uch08-1190">
+    <uchastnik ref="pichuev_a" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1191">
+    <uchastnik ref="pichuev_a" />
+    <in-org ref="Flash08" />
+  </uchastie>
+  <uchastie id="uch08-1192">
+    <uchastnik ref="person21" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1193">
+    <uchastnik ref="person21" />
+    <in-org ref="Flash08" />
+  </uchastie>
+  <person id="syp2008_1194">
+    <name>Хмелевский Трофим</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1195">
+    <uchastnik ref="syp2008_1194" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1196">
+    <uchastnik ref="syp2008_1194" />
+    <in-org ref="Flash08" />
+  </uchastie>
+  <uchastie id="uch08-1197">
+    <uchastnik ref="p60" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1198">
+    <uchastnik ref="p60" />
+    <in-org ref="Physics08" />
+  </uchastie>
+  <person id="syp2008_1199">
+    <name>Близнюк Арсений</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1200">
+    <uchastnik ref="syp2008_1199" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1201">
+    <uchastnik ref="syp2008_1199" />
+    <in-org ref="Physics08" />
+  </uchastie>
+  <uchastie id="uch08-1202">
+    <uchastnik ref="glaznev_n" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1203">
+    <uchastnik ref="glaznev_n" />
+    <in-org ref="Physics08" />
+  </uchastie>
+  <person id="syp2008_1204">
+    <name>Малыгин Сергей</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1205">
+    <uchastnik ref="syp2008_1204" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1206">
+    <uchastnik ref="syp2008_1204" />
+    <in-org ref="Physics08" />
+  </uchastie>
+  <uchastie id="uch08-1207">
+    <uchastnik ref="person42" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1208">
+    <uchastnik ref="person42" />
+    <in-org ref="Physics08" />
+  </uchastie>
+  <uchastie id="uch08-1209">
+    <uchastnik ref="morozov_a" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1210">
+    <uchastnik ref="morozov_a" />
+    <in-org ref="Physics08" />
+  </uchastie>
+  <uchastie id="uch08-1211">
+    <uchastnik ref="solovyev_i" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1212">
+    <uchastnik ref="solovyev_i" />
+    <in-org ref="Physics08" />
+  </uchastie>
+  <uchastie id="uch08-1214">
+    <uchastnik ref="syp2004-p-18" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1215">
+    <uchastnik ref="syp2004-p-18" />
+    <in-org ref="Photo08" />
+  </uchastie>
+  <person id="syp2008_1216">
+    <name>Атласова Анна</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1217">
+    <uchastnik ref="syp2008_1216" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1218">
+    <uchastnik ref="syp2008_1216" />
+    <in-org ref="Photo08" />
+  </uchastie>
+  <uchastie id="uch08-1220">
+    <uchastnik ref="novokreshenoff_l" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1221">
+    <uchastnik ref="novokreshenoff_l" />
+    <in-org ref="Photo08" />
+  </uchastie>
+  <person id="syp2008_1225">
+    <name>Соковиков Иван</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1226">
+    <uchastnik ref="syp2008_1225" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1227">
+    <uchastnik ref="syp2008_1225" />
+    <in-org ref="Photo08" />
+  </uchastie>
+  <uchastie id="uch08-1231">
+    <uchastnik ref="sologub_d" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1232">
+    <uchastnik ref="sologub_d" />
+    <in-org ref="Photo08" />
+  </uchastie>
+  <person id="syp2008_1233">
+    <name>Фаршатов Андрей</name>
+    <from-date></from-date>
+  </person>
+  <uchastie id="uch08-1234">
+    <uchastnik ref="syp2008_1233" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1235">
+    <uchastnik ref="syp2008_1233" />
+    <in-org ref="Photo08" />
+  </uchastie>
+  <uchastie id="uch08-1239">
+    <uchastnik ref="syp2001-p-sosedkin" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1240">
+    <uchastnik ref="syp2001-p-sosedkin" />
+    <in-org ref="Java08" />
+  </uchastie>
+  <uchastie id="uch08-1241">
+    <uchastnik ref="arykov_n" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1242">
+    <uchastnik ref="arykov_n" />
+    <in-org ref="Java08" />
+  </uchastie>
+  <uchastie id="uch08-1243">
+    <uchastnik ref="belyaev_d" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1244">
+    <uchastnik ref="belyaev_d" />
+    <in-org ref="Java08" />
+  </uchastie>
+  <uchastie id="uch08-1245">
+    <uchastnik ref="p87" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1246">
+    <uchastnik ref="p87" />
+    <in-org ref="Java08" />
+  </uchastie>
+  <uchastie id="uch08-1247">
+    <uchastnik ref="p37" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1248">
+    <uchastnik ref="p37" />
+    <in-org ref="Java08" />
+  </uchastie>
+  <uchastie id="uch08-1249">
+    <uchastnik ref="zaporojzev_s" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1250">
+    <uchastnik ref="zaporojzev_s" />
+    <in-org ref="Java08" />
+  </uchastie>
+  <uchastie id="uch08-1252">
+    <uchastnik ref="p36" />
+    <in-org ref="syp2008" />
+  </uchastie>
+  <uchastie id="uch08-1253">
+    <uchastnik ref="p36" />
+    <in-org ref="socialnetwork08" />
+  </uchastie>
+  <person id="syp2008_1257">
+    <name>Лучкин Вадим</name>
+  </person>
+</db>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db>
+	<style id="blue">
+		<path>./templates/blue.css</path>
+	</style>
+	<style id="gray">
+		<path>./templates/gray.css</path>
+	</style>
+  <style id="emo">
+    <path>./templates/emo.css</path>
+  </style>
+  <style id="small">
+    <path>./templates/small.css</path>
+  </style>
+  <style id="normal">
+    <path>./templates/normal.css</path>
+  </style>
+  <style id="big">
+    <path>./templates/big.css</path>
+  </style>
+</db>

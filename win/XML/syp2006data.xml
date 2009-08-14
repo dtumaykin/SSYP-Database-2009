@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db docid="syp2006-data.xml">
+  <city id="city1">
+    <name>Ангарск</name>
+  </city>
+  <city id="city3">
+    <name>Бердск</name>
+  </city>
+  <city id="city6">
+    <name>Железногорск</name>
+  </city>
+  <city id="city13">
+    <name>Кемерово</name>
+  </city>
+  <city id="city15">
+    <name>Кольцово</name>
+  </city>
+  <city id="city16">
+    <name>Миасс</name>
+  </city>
+  <city id="city86">
+    <name>Новосибирск</name>
+  </city>
+  <city id="city87">
+    <name>Норвегия</name>
+  </city>
+  <city id="city90">
+    <name>Омск</name>
+  </city>
+  <city id="city91">
+    <name>Санкт-Петербург</name>
+  </city>
+  <city id="city92">
+    <name>США</name>
+  </city>
+  <city id="city93">
+    <name>Турочак</name>
+  </city>
+  <org-sys id="school1">
+    <name>школа ?</name>
+  </org-sys>
+  <org-sys id="school7">
+    <name>школа 1</name>
+  </org-sys>
+  <org-sys id="school8">
+    <name>школа 10</name>
+  </org-sys>
+  <org-sys id="school10">
+    <name>школа 102</name>
+  </org-sys>
+  <org-sys id="school18">
+    <name>школа 130</name>
+  </org-sys>
+  <org-sys id="school19">
+    <name>школа 178</name>
+  </org-sys>
+  <org-sys id="school20">
+    <name>школа 5</name>
+  </org-sys>
+  <org-sys id="school21">
+    <name>школа 88</name>
+  </org-sys>
+  <org-sys id="school25">
+    <name>Высший коледж информатики (ВКИ)</name>
+  </org-sys>
+  <org-sys id="school31">
+    <name>гимназия 1</name>
+  </org-sys>
+  <org-sys id="school34">
+    <name>гимназия 10</name>
+  </org-sys>
+  <org-sys id="school37">
+    <name>гимназия 13</name>
+  </org-sys>
+  <org-sys id="school38">
+    <name>гимназия 21</name>
+  </org-sys>
+  <org-sys id="school48">
+    <name>гимназия 3</name>
+  </org-sys>
+  <org-sys id="school51">
+    <name>гимназия 6</name>
+  </org-sys>
+  <org-sys id="school52">
+    <name>гимназия 9</name>
+  </org-sys>
+  <org-sys id="school59">
+    <name>ГКЛ</name>
+  </org-sys>
+  <org-sys id="school60">
+    <name>лицей 2</name>
+  </org-sys>
+  <org-sys id="school68">
+    <name>лицей информационных технологий (ЛИТ)</name>
+  </org-sys>
+  <person id="person_1">
+    <name>Братусь Михаил Витальевич</name>
+  </person>
+  <person id="person_2">
+    <name>Гудзева Ирина Валентиновна</name>
+  </person>
+  <person id="person4_">
+    <name>Докучаев Алексей Николаевич</name>
+  </person>
+  <person id="person5_">
+    <name>Дунаев Александр Александрович</name>
+  </person>
+  <person id="person6_">
+    <name>Дунаева Ксения Александровна</name>
+  </person>
+  <person id="person7_">
+    <name>Дымшиц Григорий Моисеевич</name>
+  </person>
+  <person id="person13_">
+    <name>Коваль Светлана Николаевна</name>
+  </person>
+  <person id="person17_">
+    <name>Монид Светлана Евгеньевна</name>
+  </person>
+  <person id="person18_">
+    <name>Нечаев Сергей Петрович</name>
+  </person>
+  <person id="person19_">
+    <name>Нечаева Ольга Игоревна</name>
+  </person>
+  <person id="person20_">
+    <name>Пиастро Михаил Давыдович</name>
+  </person>
+  <mastersk id="mastersk1">
+    <name>Семантические сети</name>
+    <numb>1</numb>
+  </mastersk>
+  <mastersk id="mastersk2">
+    <name>Программирование на языке C</name>
+    <numb>2</numb>
+  </mastersk>
+  <mastersk id="mastersk3">
+    <name>Вычислительные устройства</name>
+    <numb>3</numb>
+  </mastersk>
+  <mastersk id="mastersk4">
+    <name>Работа со звуком</name>
+    <numb>4</numb>
+  </mastersk>
+  <mastersk id="mastersk5">
+    <name>Программирование на низком уровне</name>
+    <numb>5</numb>
+  </mastersk>
+  <mastersk id="mastersk6">
+    <name>Лого + Пресс-центр</name>
+    <numb>6</numb>
+  </mastersk>
+  <mastersk id="mastersk7">
+    <name>Параллельные исполнители</name>
+    <numb>7</numb>
+  </mastersk>
+  <mastersk id="mastersk8">
+    <name>IRC: сервер и клиент</name>
+    <numb>8</numb>
+  </mastersk>
+  <mastersk id="mastersk9">
+    <name>Логические игры</name>
+    <numb>9</numb>
+  </mastersk>
+  <mastersk id="mastersk10">
+    <name>Виртуальная книга</name>
+    <numb>10</numb>
+  </mastersk>
+  <mastersk id="mastersk11">
+    <name>Flash</name>
+    <numb>11</numb>
+  </mastersk>
+  <mastersk id="mastersk12">
+    <name>Параллельное программирование</name>
+    <numb>12</numb>
+  </mastersk>
+  <mastersk id="mastersk13">
+    <name>Моделирование генной сети</name>
+    <numb>13</numb>
+  </mastersk>
+  <mastersk id="mastersk14">
+    <name>Мультимедиа-лаборатория</name>
+    <numb>14</numb>
+  </mastersk>
+  <mastersk id="mastersk15">
+    <name>Мастерская не определена</name>
+    <numb>?</numb>
+  </mastersk>
+  <org-sys id="syp2006">
+    <name>ЛШЮП-2006 (Белый Камень, Алтай)</name>
+    <from-date>2006</from-date>
+  </org-sys>
+  <org-relatives id="or2006_1">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk1" />
+  </org-relatives>
+  <org-relatives id="or2006_2">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk2" />
+  </org-relatives>
+  <org-relatives id="or2006_3">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk3" />
+  </org-relatives>
+  <org-relatives id="or2006_4">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk4" />
+  </org-relatives>
+  <org-relatives id="or2006_5">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk5" />
+  </org-relatives>
+  <org-relatives id="or2006_6">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk6" />
+  </org-relatives>
+  <org-relatives id="or2006_7">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk7" />
+  </org-relatives>
+  <org-relatives id="or2006_8">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk8" />
+  </org-relatives>
+  <org-relatives id="or2006_9">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk9" />
+  </org-relatives>
+  <org-relatives id="or2006_10">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk10" />
+  </org-relatives>
+  <org-relatives id="or2006_11">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk11" />
+  </org-relatives>
+  <org-relatives id="or2006_12">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk12" />
+  </org-relatives>
+  <org-relatives id="or2006_13">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk13" />
+  </org-relatives>
+  <org-relatives id="or2006_14">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk14" />
+  </org-relatives>
+  <org-relatives id="or2006_15">
+    <org-parent ref="syp2006" />
+    <org-child ref="mastersk15" />
+  </org-relatives>
+  <person id="person3">
+    <name>Еловский Валентин</name>
+    <birth>06.06.1990</birth>
+  </person>
+  <person id="person4">
+    <name>Потёмкин Дмитрий</name>
+    <birth>23.04.1989</birth>
+  </person>
+  <person id="person5">
+    <name>Кошкарёв Антон</name>
+    <birth>27.11.1990</birth>
+  </person>
+  <person id="person6">
+    <name>Соловьёв Илья</name>
+    <birth>20.05.1992</birth>
+  </person>
+  <person id="person11">
+    <name>Шушаков Антон Вячеславович</name>
+    <birth>16.07.1994</birth>
+  </person>
+  <person id="person12">
+    <name>Шоба Сергей</name>
+    <birth>18.06.1990</birth>
+  </person>
+  <person id="person14">
+    <name>Тупоногов Илья</name>
+    <birth>15.12.1989</birth>
+  </person>
+  <person id="person15">
+    <name>Оренчук Александр Александрович</name>
+    <birth>27.05.1995</birth>
+  </person>
+  <person id="person16">
+    <name>Позднышев Максим</name>
+    <birth>25.04.1994</birth>
+  </person>
+  <person id="person17">
+    <name>Викторов Николай Алексеевич</name>
+    <birth>07.07.1996</birth>
+  </person>
+  <person id="person18">
+    <name>Вишневский Роман</name>
+    <birth>23.05.1996</birth>
+  </person>
+  <person id="person19">
+    <name>Смиренко Кирилл Петрович</name>
+    <birth>12.08.1996</birth>
+  </person>
+  <person id="person20">
+    <name>Насибулов Илья Андреевич</name>
+    <birth>13.04.1996</birth>
+  </person>
+  <person id="person21">
+    <name>Юрьев Семён Юрьевич</name>
+    <birth>13.07.1995</birth>
+  </person>
+  <person id="novokreshenoff_l">
+    <name>Новокрещенов Лев</name>
+    <birth>17.05.1993</birth>
+  </person>
+  <person id="person25">
+    <name>Балахонов Денис</name>
+    <birth>31.08.1993</birth>
+  </person>
+  <person id="person31">
+    <name>Брагин Никита</name>
+    <birth>20.02.1993</birth>
+  </person>
+  <person id="person37">
+    <name>Жилич Роман</name>
+    <birth>03.05.1990</birth>
+  </person>
+  <person id="person38">
+    <name>Сердюк Константин</name>
+  </person>
+  <person id="person39">
+    <name>Зеленчук Андрей</name>
+    <birth>15.10.1990</birth>
+  </person>
+  <person id="person42">
+    <name>Лебедев Даниил</name>
+    <birth>01.04.1993</birth>
+  </person>
+  <person id="person45">
+    <name>Римская Анастасия</name>
+    <birth>29.11.1991</birth>
+  </person>
+  <person id="person51">
+    <name>Лузганов Станислав</name>
+  </person>
+  <person id="person52">
+    <name>Новиков Юрий</name>
+  </person>
+  <person id="person57">
+    <name>Курочкин Евгений</name>
+    <birth>1993</birth>
+  </person>
+  <person id="person60">
+    <name>Шумаков Алексей Николаевич</name>
+  </person>
+  <person id="person61">
+    <name>Юшковский Михаил</name>
+  </person>
+  <person id="person63">
+    <name>Федюнин Дмитрий</name>
+  </person>
+  <person id="person65">
+    <name>Холодов Антон Геннадьевич</name>
+    <birth>1993</birth>
+  </person>
+  <person id="person67">
+    <name>Мулер Всеволод</name>
+  </person>
+  <living id="living1">
+    <resident ref="syp2001-p-nasibulov" />
+    <place ref="city86" />
+  </living>
+  <living id="living2">
+    <resident ref="syp2004-p-16" />
+    <place ref="city15" />
+  </living>
+  <living id="living3">
+    <resident ref="person3" />
+    <place ref="city86" />
+  </living>
+  <living id="living4">
+    <resident ref="person4" />
+    <place ref="city86" />
+  </living>
+  <living id="living5">
+    <resident ref="person5" />
+    <place ref="city86" />
+  </living>
+  <living id="living6">
+    <resident ref="person6" />
+    <place ref="city86" />
+  </living>
+  <living id="living7">
+    <resident ref="p23" />
+    <place ref="city86" />
+  </living>
+  <living id="living8">
+    <resident ref="p21" />
+    <place ref="city86" />
+  </living>
+  <living id="living9">
+    <resident ref="syp2004-p-13" />
+    <place ref="city86" />
+  </living>
+  <living id="living10">
+    <resident ref="syp2004-p-5" />
+    <place ref="city3" />
+  </living>
+  <living id="living11">
+    <resident ref="person11" />
+    <place ref="city15" />
+  </living>
+  <living id="living12">
+    <resident ref="person12" />
+    <place ref="city86" />
+  </living>
+  <living id="living13">
+    <resident ref="syp2001-p-sosedkin" />
+    <place ref="city86" />
+  </living>
+  <living id="living14">
+    <resident ref="person14" />
+    <place ref="city90" />
+  </living>
+  <living id="living15">
+    <resident ref="person15" />
+    <place ref="city86" />
+  </living>
+  <living id="living16">
+    <resident ref="person16" />
+    <place ref="city86" />
+  </living>
+  <living id="living17">
+    <resident ref="person17" />
+    <place ref="city86" />
+  </living>
+  <living id="living18">
+    <resident ref="person18" />
+    <place ref="city86" />
+  </living>
+  <living id="living19">
+    <resident ref="person19" />
+    <place ref="city86" />
+  </living>
+  <living id="living20">
+    <resident ref="person20" />
+    <place ref="city86" />
+  </living>
+  <living id="living21">
+    <resident ref="person21" />
+    <place ref="city86" />
+  </living>
+  <living id="living22">
+    <resident ref="p80" />
+    <place ref="city3" />
+  </living>
+  <living id="living23">
+    <resident ref="novokreshenoff_l" />
+    <place ref="city86" />
+  </living>
+  <living id="living24">
+    <resident ref="p25" />
+    <place ref="city86" />
+  </living>
+  <living id="living25">
+    <resident ref="person25" />
+    <place ref="city86" />
+  </living>
+  <living id="living26">
+    <resident ref="p76" />
+    <place ref="city86" />
+  </living>
+  <living id="living27">
+    <resident ref="chernov_k" />
+    <place ref="city86" />
+  </living>
+  <living id="living28">
+    <resident ref="syp2004-p-2" />
+    <place ref="city86" />
+  </living>
+  <living id="living29">
+    <resident ref="p3" />
+    <place ref="city86" />
+  </living>
+  <living id="living30">
+    <resident ref="syp2004-p-4" />
+    <place ref="city3" />
+  </living>
+  <living id="living31">
+    <resident ref="person31" />
+    <place ref="city86" />
+  </living>
+  <living id="living32">
+    <resident ref="p36" />
+    <place ref="city86" />
+  </living>
+  <living id="living33">
+    <resident ref="p38" />
+    <place ref="city86" />
+  </living>
+  <living id="living34">
+    <resident ref="p87" />
+    <place ref="city86" />
+  </living>
+  <living id="living35">
+    <resident ref="salmin_a" />
+    <place ref="city86" />
+  </living>
+  <living id="living36">
+    <resident ref="syp2004-p-18" />
+    <place ref="city1" />
+  </living>
+  <living id="living37">
+    <resident ref="person37" />
+    <place ref="city86" />
+  </living>
+  <living id="living38">
+    <resident ref="person38" />
+    <place ref="city86" />
+  </living>
+  <living id="living39">
+    <resident ref="person39" />
+    <place ref="city86" />
+  </living>
+  <living id="living40">
+    <resident ref="p32" />
+    <place ref="city86" />
+  </living>
+  <living id="living41">
+    <resident ref="syp2004-p-1" />
+    <place ref="city86" />
+  </living>
+  <living id="living42">
+    <resident ref="person42" />
+    <place ref="city86" />
+  </living>
+  <living id="living43">
+    <resident ref="p22" />
+    <place ref="city86" />
+  </living>
+  <living id="living44">
+    <resident ref="p37" />
+    <place ref="city86" />
+  </living>
+  <living id="living45">
+    <resident ref="person45" />
+    <place ref="city86" />
+  </living>
+  <living id="living46">
+    <resident ref="p31" />
+    <place ref="city86" />
+  </living>
+  <living id="living47">
+    <resident ref="p6" />
+    <place ref="city86" />
+  </living>
+  <living id="living48">
+    <resident ref="p45" />
+    <place ref="city86" />
+  </living>
+  <living id="living49">
+    <resident ref="p57" />
+    <place ref="city13" />
+  </living>
+  <living id="living50">
+    <resident ref="p56" />
+    <place ref="city13" />
+  </living>
+  <living id="living51">
+    <resident ref="person51" />
+    <place ref="city13" />
+  </living>
+  <living id="living52">
+    <resident ref="person52" />
+    <place ref="city13" />
+  </living>
+  <living id="living53">
+    <resident ref="p55" />
+    <place ref="city13" />
+  </living>
+  <living id="living54">
+    <resident ref="p59" />
+    <place ref="city13" />
+  </living>
+  <living id="living55">
+    <resident ref="tchursin_n" />
+    <place ref="city13" />
+  </living>
+  <living id="living56">
+    <resident ref="syp2004-p-15" />
+    <place ref="city86" />
+  </living>
+  <living id="living57">
+    <resident ref="person57" />
+    <place ref="city86" />
+  </living>
+  <living id="living58">
+    <resident ref="syp2004-p-6" />
+    <place ref="city87" />
+  </living>
+  <living id="living59">
+    <resident ref="syp2004-p-9" />
+    <place ref="city87" />
+  </living>
+  <living id="living60">
+    <resident ref="person60" />
+    <place ref="city6" />
+  </living>
+  <living id="living61">
+    <resident ref="person61" />
+    <place ref="city1" />
+  </living>
+  <living id="living62">
+    <resident ref="syp2004-p-32" />
+    <place ref="city86" />
+  </living>
+  <living id="living63">
+    <resident ref="person63" />
+    <place ref="city86" />
+  </living>
+  <living id="living64">
+    <resident ref="p34" />
+    <place ref="city93" />
+  </living>
+  <living id="living65">
+    <resident ref="person65" />
+    <place ref="city86" />
+  </living>
+  <living id="living66">
+    <resident ref="syp2004-p-33" />
+    <place ref="city86" />
+  </living>
+  <living id="living67">
+    <resident ref="person67" />
+    <place ref="city92" />
+  </living>
+  <living id="living68">
+    <resident ref="p60" />
+    <place ref="city86" />
+  </living>
+  <uchastie id="uchastie1">
+    <uchastnik ref="syp2001-p-nasibulov" />
+    <in-org ref="school18" />
+  </uchastie>
+  <uchastie id="uchastie2">
+    <uchastnik ref="syp2004-p-16" />
+    <in-org ref="school20" />
+  </uchastie>
+  <uchastie id="uchastie3">
+    <uchastnik ref="person3" />
+    <in-org ref="school68" />
+  </uchastie>
+  <uchastie id="uchastie4">
+    <uchastnik ref="person4" />
+    <in-org ref="school31" />
+  </uchastie>
+  <uchastie id="uchastie5">
+    <uchastnik ref="person5" />
+    <in-org ref="school51" />
+  </uchastie>
+  <uchastie id="uchastie6">
+    <uchastnik ref="person6" />
+    <in-org ref="school48" />
+  </uchastie>
+  <uchastie id="uchastie7">
+    <uchastnik ref="p23" />
+    <in-org ref="school68" />
+  </uchastie>
+  <uchastie id="uchastie8">
+    <uchastnik ref="p21" />
+    <in-org ref="school68" />
+  </uchastie>
+  <uchastie id="uchastie9">
+    <uchastnik ref="syp2004-p-13" />
+    <in-org ref="school25" />
+  </uchastie>
+  <uchastie id="uchastie10">
+    <uchastnik ref="syp2004-p-5" />
+    <in-org ref="school48" />
+  </uchastie>
+  <uchastie id="uchastie11">
+    <uchastnik ref="person11" />
+    <in-org ref="school38" />
+  </uchastie>
+  <uchastie id="uchastie12">
+    <uchastnik ref="person12" />
+    <in-org ref="school37" />
+  </uchastie>
+  <uchastie id="uchastie13">
+    <uchastnik ref="syp2001-p-sosedkin" />
+    <in-org ref="school48" />
+  </uchastie>
+  <uchastie id="uchastie14">
+    <uchastnik ref="person14" />
+    <in-org ref="school21" />
+  </uchastie>
+  <uchastie id="uchastie15">
+    <uchastnik ref="person15" />
+    <in-org ref="school48" />
+  </uchastie>
+  <uchastie id="uchastie16">
+    <uchastnik ref="person16" />
+    <in-org ref="school68" />
+  </uchastie>
+  <uchastie id="uchastie17">
+    <uchastnik ref="person17" />
+    <in-org ref="school48" />
+  </uchastie>
+  <uchastie id="uchastie18">
+    <uchastnik ref="person18" />
+    <in-org ref="school68" />
+  </uchastie>
+  <uchastie id="uchastie19">
+    <uchastnik ref="person19" />
+    <in-org ref="school68" />
+  </uchastie>
+  <uchastie id="uchastie20">
+    <uchastnik ref="person20" />
+    <in-org ref="school48" />
+  </uchastie>
+  <uchastie id="uchastie21">
+    <uchastnik ref="person21" />
+    <in-org ref="school18" />
+  </uchastie>
+  <uchastie id="uchastie22">
+    <uchastnik ref="p80" />
+    <in-org ref="school8" />
+  </uchastie>
+  <uchastie id="uchastie23">
+    <uchastnik ref="novokreshenoff_l" />
+    <in-org ref="school31" />
+  </uchastie>
+  <uchastie id="uchastie24">
+    <uchastnik ref="p25" />
+    <in-org ref="school18" />
+  </uchastie>
+  <uchastie id="uchastie25">
+    <uchastnik ref="person25" />
+    <in-org ref="school34" />
+  </uchastie>
+  <uchastie id="uchastie26">
+    <uchastnik ref="p76" />
+    <in-org ref="school48" />
+  </uchastie>
+  <uchastie id="uchastie27">
+    <uchastnik ref="chernov_k" />
+    <in-org ref="school68" />
+  </uchastie>
+  <uchastie id="uchastie28">
+    <uchastnik ref="syp2004-p-2" />
+    <in-org ref="school48" />
+  </uchastie>
+  <uchastie id="uchastie29">
+    <uchastnik ref="p3" />
+    <in-org ref="school34" />
+  </uchastie>
+  <uchastie id="uchastie30">
+    <uchastnik ref="syp2004-p-4" />
+    <in-org ref="school7" />
+  </uchastie>
+  <uchastie id="uchastie31">
+    <uchastnik ref="person31" />
+    <in-org ref="school34" />
+  </uchastie>
+  <uchastie id="uchastie32">
+    <uchastnik ref="p36" />
+    <in-org ref="school51" />
+  </uchastie>
+  <uchastie id="uchastie33">
+    <uchastnik ref="p38" />
+    <in-org ref="school18" />
+  </uchastie>
+  <uchastie id="uchastie34">
+    <uchastnik ref="p87" />
+    <in-org ref="school48" />
+  </uchastie>
+  <uchastie id="uchastie35">
+    <uchastnik ref="salmin_a" />
+    <in-org ref="school31" />
+  </uchastie>
+  <uchastie id="uchastie36">
+    <uchastnik ref="syp2004-p-18" />
+    <in-org ref="school8" />
+  </uchastie>
+  <uchastie id="uchastie37">
+    <uchastnik ref="person37" />
+    <in-org ref="school25" />
+  </uchastie>
+  <uchastie id="uchastie38">
+    <uchastnik ref="person38" />
+    <in-org ref="school37" />
+  </uchastie>
+  <uchastie id="uchastie39">
+    <uchastnik ref="person39" />
+    <in-org ref="school37" />
+  </uchastie>
+  <uchastie id="uchastie40">
+    <uchastnik ref="p32" />
+    <in-org ref="school31" />
+  </uchastie>
+  <uchastie id="uchastie41">
+    <uchastnik ref="syp2004-p-1" />
+    <in-org ref="school68" />
+  </uchastie>
+  <uchastie id="uchastie42">
+    <uchastnik ref="person42" />
+    <in-org ref="school18" />
+  </uchastie>
+  <uchastie id="uchastie43">
+    <uchastnik ref="p22" />
+    <in-org ref="school48" />
+  </uchastie>
+  <uchastie id="uchastie44">
+    <uchastnik ref="p37" />
+    <in-org ref="school18" />
+  </uchastie>
+  <uchastie id="uchastie45">
+    <uchastnik ref="person45" />
+    <in-org ref="school18" />
+  </uchastie>
+  <uchastie id="uchastie46">
+    <uchastnik ref="p31" />
+    <in-org ref="school31" />
+  </uchastie>
+  <uchastie id="uchastie47">
+    <uchastnik ref="p6" />
+    <in-org ref="school31" />
+  </uchastie>
+  <uchastie id="uchastie48">
+    <uchastnik ref="p45" />
+    <in-org ref="school52" />
+  </uchastie>
+  <uchastie id="uchastie49">
+    <uchastnik ref="p57" />
+    <in-org ref="school59" />
+  </uchastie>
+  <uchastie id="uchastie50">
+    <uchastnik ref="p56" />
+    <in-org ref="school59" />
+  </uchastie>
+  <uchastie id="uchastie51">
+    <uchastnik ref="person51" />
+    <in-org ref="school59" />
+  </uchastie>
+  <uchastie id="uchastie52">
+    <uchastnik ref="person52" />
+    <in-org ref="school59" />
+  </uchastie>
+  <uchastie id="uchastie53">
+    <uchastnik ref="p55" />
+    <in-org ref="school59" />
+  </uchastie>
+  <uchastie id="uchastie54">
+    <uchastnik ref="p59" />
+    <in-org ref="school59" />
+  </uchastie>
+  <uchastie id="uchastie55">
+    <uchastnik ref="tchursin_n" />
+    <in-org ref="school59" />
+  </uchastie>
+  <uchastie id="uchastie56">
+    <uchastnik ref="syp2004-p-15" />
+    <in-org ref="school25" />
+  </uchastie>
+  <uchastie id="uchastie57">
+    <uchastnik ref="person57" />
+    <in-org ref="school51" />
+  </uchastie>
+  <uchastie id="uchastie58">
+    <uchastnik ref="syp2004-p-6" />
+    <in-org ref="school1" />
+  </uchastie>
+  <uchastie id="uchastie59">
+    <uchastnik ref="syp2004-p-9" />
+    <in-org ref="school1" />
+  </uchastie>
+  <uchastie id="uchastie60">
+    <uchastnik ref="person60" />
+    <in-org ref="school10" />
+  </uchastie>
+  <uchastie id="uchastie61">
+    <uchastnik ref="person61" />
+    <in-org ref="school60" />
+  </uchastie>
+  <uchastie id="uchastie62">
+    <uchastnik ref="syp2004-p-32" />
+    <in-org ref="school1" />
+  </uchastie>
+  <uchastie id="uchastie63">
+    <uchastnik ref="person63" />
+    <in-org ref="school19" />
+  </uchastie>
+  <uchastie id="uchastie64">
+    <uchastnik ref="p34" />
+    <in-org ref="school1" />
+  </uchastie>
+  <uchastie id="uchastie65">
+    <uchastnik ref="person65" />
+    <in-org ref="school10" />
+  </uchastie>
+  <uchastie id="uchastie66">
+    <uchastnik ref="syp2004-p-33" />
+    <in-org ref="school1" />
+  </uchastie>
+  <uchastie id="uchastie67">
+    <uchastnik ref="person67" />
+    <in-org ref="school1" />
+  </uchastie>
+  <uchastie id="uchastie68">
+    <uchastnik ref="p60" />
+    <in-org ref="school25" />
+  </uchastie>
+  <uchastie id="uchastie1">
+    <uchastnik ref="syp2001-p-nasibulov" />
+    <in-org ref="mastersk3" />
+  </uchastie>
+  <uchastie id="uchastie2">
+    <uchastnik ref="syp2004-p-16" />
+    <in-org ref="mastersk4" />
+  </uchastie>
+  <uchastie id="uchastie3">
+    <uchastnik ref="person3" />
+    <in-org ref="mastersk4" />
+  </uchastie>
+  <uchastie id="uchastie4">
+    <uchastnik ref="person4" />
+    <in-org ref="mastersk5" />
+  </uchastie>
+  <uchastie id="uchastie5">
+    <uchastnik ref="person5" />
+    <in-org ref="mastersk7" />
+  </uchastie>
+  <uchastie id="uchastie6">
+    <uchastnik ref="person6" />
+    <in-org ref="mastersk7" />
+  </uchastie>
+  <uchastie id="uchastie7">
+    <uchastnik ref="p23" />
+    <in-org ref="mastersk7" />
+  </uchastie>
+  <uchastie id="uchastie8">
+    <uchastnik ref="p21" />
+    <in-org ref="mastersk7" />
+  </uchastie>
+  <uchastie id="uchastie9">
+    <uchastnik ref="syp2004-p-13" />
+    <in-org ref="mastersk13" />
+  </uchastie>
+  <uchastie id="uchastie10">
+    <uchastnik ref="syp2004-p-5" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie11">
+    <uchastnik ref="person11" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie12">
+    <uchastnik ref="person12" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie13">
+    <uchastnik ref="syp2001-p-sosedkin" />
+    <in-org ref="mastersk2" />
+  </uchastie>
+  <uchastie id="uchastie14">
+    <uchastnik ref="person14" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie15">
+    <uchastnik ref="person15" />
+    <in-org ref="mastersk6" />
+  </uchastie>
+  <uchastie id="uchastie16">
+    <uchastnik ref="person16" />
+    <in-org ref="mastersk6" />
+  </uchastie>
+  <uchastie id="uchastie17">
+    <uchastnik ref="person17" />
+    <in-org ref="mastersk6" />
+  </uchastie>
+  <uchastie id="uchastie18">
+    <uchastnik ref="person18" />
+    <in-org ref="mastersk6" />
+  </uchastie>
+  <uchastie id="uchastie19">
+    <uchastnik ref="person19" />
+    <in-org ref="mastersk6" />
+  </uchastie>
+  <uchastie id="uchastie20">
+    <uchastnik ref="person20" />
+    <in-org ref="mastersk6" />
+  </uchastie>
+  <uchastie id="uchastie21">
+    <uchastnik ref="person21" />
+    <in-org ref="mastersk6" />
+  </uchastie>
+  <uchastie id="uchastie22">
+    <uchastnik ref="p80" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie23">
+    <uchastnik ref="novokreshenoff_l" />
+    <in-org ref="mastersk11" />
+  </uchastie>
+  <uchastie id="uchastie24">
+    <uchastnik ref="p25" />
+    <in-org ref="mastersk11" />
+  </uchastie>
+  <uchastie id="uchastie25">
+    <uchastnik ref="person25" />
+    <in-org ref="mastersk11" />
+  </uchastie>
+  <uchastie id="uchastie26">
+    <uchastnik ref="p76" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie27">
+    <uchastnik ref="chernov_k" />
+    <in-org ref="mastersk14" />
+  </uchastie>
+  <uchastie id="uchastie28">
+    <uchastnik ref="syp2004-p-2" />
+    <in-org ref="mastersk14" />
+  </uchastie>
+  <uchastie id="uchastie29">
+    <uchastnik ref="p3" />
+    <in-org ref="mastersk14" />
+  </uchastie>
+  <uchastie id="uchastie30">
+    <uchastnik ref="syp2004-p-4" />
+    <in-org ref="mastersk14" />
+  </uchastie>
+  <uchastie id="uchastie31">
+    <uchastnik ref="person31" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie32">
+    <uchastnik ref="p36" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie33">
+    <uchastnik ref="p38" />
+    <in-org ref="mastersk10" />
+  </uchastie>
+  <uchastie id="uchastie34">
+    <uchastnik ref="p87" />
+    <in-org ref="mastersk8" />
+  </uchastie>
+  <uchastie id="uchastie35">
+    <uchastnik ref="salmin_a" />
+    <in-org ref="mastersk8" />
+  </uchastie>
+  <uchastie id="uchastie36">
+    <uchastnik ref="syp2004-p-18" />
+    <in-org ref="mastersk8" />
+  </uchastie>
+  <uchastie id="uchastie37">
+    <uchastnik ref="person37" />
+    <in-org ref="mastersk8" />
+  </uchastie>
+  <uchastie id="uchastie38">
+    <uchastnik ref="person38" />
+    <in-org ref="mastersk3" />
+  </uchastie>
+  <uchastie id="uchastie39">
+    <uchastnik ref="person39" />
+    <in-org ref="mastersk3" />
+  </uchastie>
+  <uchastie id="uchastie40">
+    <uchastnik ref="p32" />
+    <in-org ref="mastersk3" />
+  </uchastie>
+  <uchastie id="uchastie41">
+    <uchastnik ref="syp2004-p-1" />
+    <in-org ref="mastersk1" />
+    <role>test-role</role>
+  </uchastie>
+  <uchastie id="uchastie42">
+    <uchastnik ref="person42" />
+    <in-org ref="mastersk9" />
+  </uchastie>
+  <uchastie id="uchastie43">
+    <uchastnik ref="p22" />
+    <in-org ref="mastersk9" />
+  </uchastie>
+  <uchastie id="uchastie44">
+    <uchastnik ref="p37" />
+    <in-org ref="mastersk10" />
+  </uchastie>
+  <uchastie id="uchastie45">
+    <uchastnik ref="person45" />
+    <in-org ref="mastersk10" />
+  </uchastie>
+  <uchastie id="uchastie46">
+    <uchastnik ref="p31" />
+    <in-org ref="mastersk5" />
+  </uchastie>
+  <uchastie id="uchastie47">
+    <uchastnik ref="p6" />
+    <in-org ref="mastersk5" />
+  </uchastie>
+  <uchastie id="uchastie48">
+    <uchastnik ref="p45" />
+    <in-org ref="mastersk5" />
+  </uchastie>
+  <uchastie id="uchastie49">
+    <uchastnik ref="p57" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie50">
+    <uchastnik ref="p56" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie51">
+    <uchastnik ref="person51" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie52">
+    <uchastnik ref="person52" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie53">
+    <uchastnik ref="p55" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie54">
+    <uchastnik ref="p59" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie55">
+    <uchastnik ref="tchursin_n" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie56">
+    <uchastnik ref="syp2004-p-15" />
+    <in-org ref="mastersk13" />
+  </uchastie>
+  <uchastie id="uchastie57">
+    <uchastnik ref="person57" />
+    <in-org ref="mastersk9" />
+  </uchastie>
+  <uchastie id="uchastie58">
+    <uchastnik ref="syp2004-p-6" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie59">
+    <uchastnik ref="syp2004-p-9" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie60">
+    <uchastnik ref="person60" />
+    <in-org ref="mastersk6" />
+  </uchastie>
+  <uchastie id="uchastie61">
+    <uchastnik ref="person61" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie62">
+    <uchastnik ref="syp2004-p-32" />
+    <in-org ref="mastersk12" />
+  </uchastie>
+  <uchastie id="uchastie63">
+    <uchastnik ref="person63" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie64">
+    <uchastnik ref="p34" />
+    <in-org ref="mastersk9" />
+  </uchastie>
+  <uchastie id="uchastie65">
+    <uchastnik ref="person65" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie66">
+    <uchastnik ref="syp2004-p-33" />
+    <in-org ref="mastersk6" />
+  </uchastie>
+  <uchastie id="uchastie67">
+    <uchastnik ref="person67" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+  <uchastie id="uchastie68">
+    <uchastnik ref="p60" />
+    <in-org ref="mastersk15" />
+  </uchastie>
+</db>

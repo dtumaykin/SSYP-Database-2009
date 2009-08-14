@@ -1,0 +1,4010 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db>
+  <!-- Сделано программой Ассоциатор.Набор_Фотографий_И_Коллекций -->
+  <collection id="syp2009_col_syp2009">
+    <name>ЛШЮП 2009</name>
+  </collection>
+  <collection id="syp2009_col_mastersk2009">
+    <name>Мастерские 2009</name>
+  </collection>
+  <collection-member id="syp2009_col_r_syp2009^mastersk2009">
+    <collection-item ref="syp2009_col_mastersk2009" />
+    <in-collection ref="syp2009_col_syp2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03348.JPG">
+    <name>DSC03348.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03348</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03348.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03348.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03349.JPG">
+    <name>DSC03349.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03349</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03349.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03349.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03369.JPG">
+    <name>DSC03369.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03369</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03369.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03369.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03400.JPG">
+    <name>DSC03400.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03400</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03400.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03400.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03411.JPG">
+    <name>DSC03411.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03411</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03411.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03411.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03418.JPG">
+    <name>DSC03418.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03418</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03418.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03418.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03427.JPG">
+    <name>DSC03427.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03427</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03427.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03427.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03446.JPG">
+    <name>DSC03446.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03446</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03446.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03446.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03562.JPG">
+    <name>DSC03562.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03562</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03562.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03562.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03571.JPG">
+    <name>DSC03571.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03571</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03571.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03571.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03574.JPG">
+    <name>DSC03574.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03574</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03574.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03574.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03578.JPG">
+    <name>DSC03578.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03578</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03578.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03578.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03580.JPG">
+    <name>DSC03580.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03580</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03580.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03580.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03594.JPG">
+    <name>DSC03594.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03594</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03594.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03594.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03595.JPG">
+    <name>DSC03595.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03595</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03595.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03595.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03596.JPG">
+    <name>DSC03596.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03596</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03596.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03596.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03606.JPG">
+    <name>DSC03606.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03606</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03606.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03606.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03608.JPG">
+    <name>DSC03608.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03608</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03608.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03608.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_mastersk2009_DSC03609.JPG">
+    <name>DSC03609.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/mastersk2009/DSC03609</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_mastersk2009^DSC03609.JPG">
+    <collection-item ref="syp2009_photodoc_mastersk2009_DSC03609.JPG" />
+    <in-collection ref="syp2009_col_mastersk2009" />
+  </collection-member>
+  <collection id="syp2009_col_other2009">
+    <name>2009 Остальное</name>
+  </collection>
+  <collection-member id="syp2009_col_r_syp2009^other2009">
+    <collection-item ref="syp2009_col_other2009" />
+    <in-collection ref="syp2009_col_syp2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03252.JPG">
+    <name>DSC03252.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03252</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03252.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03252.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03253.JPG">
+    <name>DSC03253.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03253</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03253.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03253.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03254.JPG">
+    <name>DSC03254.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03254</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03254.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03254.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03255.JPG">
+    <name>DSC03255.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03255</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03255.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03255.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03256.JPG">
+    <name>DSC03256.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03256</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03256.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03256.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03257.JPG">
+    <name>DSC03257.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03257</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03257.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03257.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03261.JPG">
+    <name>DSC03261.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03261</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03261.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03261.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03262.JPG">
+    <name>DSC03262.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03262</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03262.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03262.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03263.JPG">
+    <name>DSC03263.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03263</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03263.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03263.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03264.JPG">
+    <name>DSC03264.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03264</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03264.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03264.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03265.JPG">
+    <name>DSC03265.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03265</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03265.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03265.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03266.JPG">
+    <name>DSC03266.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03266</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03266.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03266.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03267.JPG">
+    <name>DSC03267.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03267</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03267.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03267.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03268.JPG">
+    <name>DSC03268.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03268</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03268.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03268.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03269.JPG">
+    <name>DSC03269.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03269</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03269.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03269.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03270.JPG">
+    <name>DSC03270.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03270</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03270.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03270.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03271.JPG">
+    <name>DSC03271.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03271</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03271.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03271.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03272.JPG">
+    <name>DSC03272.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03272</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03272.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03272.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03273.JPG">
+    <name>DSC03273.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03273</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03273.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03273.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03274.JPG">
+    <name>DSC03274.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03274</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03274.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03274.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03276.JPG">
+    <name>DSC03276.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03276</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03276.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03276.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03277.JPG">
+    <name>DSC03277.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03277</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03277.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03277.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03280.JPG">
+    <name>DSC03280.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03280</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03280.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03280.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03283.JPG">
+    <name>DSC03283.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03283</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03283.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03283.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03285.JPG">
+    <name>DSC03285.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03285</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03285.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03285.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03286.JPG">
+    <name>DSC03286.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03286</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03286.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03286.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03291.JPG">
+    <name>DSC03291.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03291</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03291.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03291.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03296.JPG">
+    <name>DSC03296.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03296</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03296.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03296.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03297.JPG">
+    <name>DSC03297.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03297</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03297.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03297.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03298.JPG">
+    <name>DSC03298.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03298</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03298.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03298.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03299.JPG">
+    <name>DSC03299.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03299</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03299.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03299.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03303.JPG">
+    <name>DSC03303.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03303</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03303.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03303.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03304.JPG">
+    <name>DSC03304.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03304</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03304.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03304.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03307.JPG">
+    <name>DSC03307.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03307</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03307.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03307.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03308.JPG">
+    <name>DSC03308.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03308</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03308.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03308.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03479.JPG">
+    <name>DSC03479.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03479</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03479.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03479.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03480.JPG">
+    <name>DSC03480.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03480</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03480.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03480.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03481.JPG">
+    <name>DSC03481.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03481</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03481.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03481.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03482.JPG">
+    <name>DSC03482.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03482</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03482.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03482.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03483.JPG">
+    <name>DSC03483.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03483</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03483.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03483.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03484.JPG">
+    <name>DSC03484.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03484</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03484.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03484.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03485.JPG">
+    <name>DSC03485.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03485</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03485.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03485.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03486.JPG">
+    <name>DSC03486.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03486</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03486.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03486.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03487.JPG">
+    <name>DSC03487.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03487</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03487.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03487.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03488.JPG">
+    <name>DSC03488.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03488</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03488.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03488.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03489.JPG">
+    <name>DSC03489.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03489</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03489.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03489.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03490.JPG">
+    <name>DSC03490.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03490</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03490.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03490.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03492.JPG">
+    <name>DSC03492.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03492</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03492.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03492.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03493.JPG">
+    <name>DSC03493.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03493</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03493.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03493.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03494.JPG">
+    <name>DSC03494.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03494</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03494.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03494.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03495.JPG">
+    <name>DSC03495.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03495</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03495.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03495.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03496.JPG">
+    <name>DSC03496.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03496</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03496.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03496.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03499.JPG">
+    <name>DSC03499.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03499</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03499.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03499.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03507.JPG">
+    <name>DSC03507.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03507</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03507.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03507.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03508.JPG">
+    <name>DSC03508.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03508</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03508.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03508.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03510.JPG">
+    <name>DSC03510.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03510</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03510.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03510.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03511.JPG">
+    <name>DSC03511.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03511</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03511.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03511.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03513.JPG">
+    <name>DSC03513.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03513</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03513.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03513.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03514.JPG">
+    <name>DSC03514.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03514</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03514.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03514.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03515.JPG">
+    <name>DSC03515.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03515</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03515.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03515.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03516.JPG">
+    <name>DSC03516.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03516</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03516.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03516.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03519.JPG">
+    <name>DSC03519.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03519</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03519.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03519.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03522.JPG">
+    <name>DSC03522.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03522</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03522.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03522.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03523.JPG">
+    <name>DSC03523.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03523</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03523.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03523.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03555.JPG">
+    <name>DSC03555.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03555</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03555.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03555.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03556.JPG">
+    <name>DSC03556.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03556</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03556.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03556.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03651.JPG">
+    <name>DSC03651.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03651</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03651.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03651.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03652.JPG">
+    <name>DSC03652.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03652</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03652.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03652.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03653.JPG">
+    <name>DSC03653.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03653</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03653.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03653.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03654.JPG">
+    <name>DSC03654.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03654</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03654.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03654.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03655.JPG">
+    <name>DSC03655.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03655</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03655.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03655.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03656.JPG">
+    <name>DSC03656.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03656</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03656.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03656.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03657.JPG">
+    <name>DSC03657.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03657</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03657.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03657.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03658.JPG">
+    <name>DSC03658.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03658</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03658.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03658.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03659.JPG">
+    <name>DSC03659.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03659</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03659.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03659.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03664.JPG">
+    <name>DSC03664.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03664</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03664.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03664.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03666.JPG">
+    <name>DSC03666.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03666</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03666.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03666.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03667.JPG">
+    <name>DSC03667.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03667</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03667.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03667.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03671.JPG">
+    <name>DSC03671.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03671</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03671.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03671.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03673.JPG">
+    <name>DSC03673.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03673</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03673.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03673.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03674.JPG">
+    <name>DSC03674.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03674</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03674.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03674.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03675.JPG">
+    <name>DSC03675.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03675</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03675.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03675.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03676.JPG">
+    <name>DSC03676.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03676</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03676.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03676.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03677.JPG">
+    <name>DSC03677.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03677</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03677.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03677.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03678.JPG">
+    <name>DSC03678.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03678</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03678.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03678.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03679.JPG">
+    <name>DSC03679.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03679</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03679.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03679.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03680.JPG">
+    <name>DSC03680.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03680</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03680.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03680.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_other2009_DSC03681.JPG">
+    <name>DSC03681.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/other2009/DSC03681</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_other2009^DSC03681.JPG">
+    <collection-item ref="syp2009_photodoc_other2009_DSC03681.JPG" />
+    <in-collection ref="syp2009_col_other2009" />
+  </collection-member>
+  <collection id="syp2009_col_portret2009">
+    <name>Портреты 2009</name>
+  </collection>
+  <collection-member id="syp2009_col_r_syp2009^portret2009">
+    <collection-item ref="syp2009_col_portret2009" />
+    <in-collection ref="syp2009_col_syp2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_CIMG4051.JPG">
+    <name>CIMG4051.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/CIMG4051</published>
+    <width>2304</width>
+    <height>3072</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^CIMG4051.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_CIMG4051.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03259.JPG">
+    <name>DSC03259.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03259</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03259.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03259.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03282.JPG">
+    <name>DSC03282.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03282</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03282.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03282.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03284.JPG">
+    <name>DSC03284.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03284</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03284.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03284.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03290.JPG">
+    <name>DSC03290.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03290</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03290.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03290.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03292.JPG">
+    <name>DSC03292.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03292</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03292.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03292.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03293.JPG">
+    <name>DSC03293.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03293</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03293.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03293.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03294.JPG">
+    <name>DSC03294.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03294</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03294.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03294.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03295.JPG">
+    <name>DSC03295.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03295</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03295.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03295.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03300.JPG">
+    <name>DSC03300.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03300</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03300.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03300.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03301.JPG">
+    <name>DSC03301.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03301</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03301.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03301.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03302.JPG">
+    <name>DSC03302.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03302</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03302.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03302.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03350.JPG">
+    <name>DSC03350.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03350</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03350.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03350.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03351.JPG">
+    <name>DSC03351.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03351</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03351.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03351.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03352.JPG">
+    <name>DSC03352.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03352</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03352.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03352.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03353.JPG">
+    <name>DSC03353.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03353</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03353.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03353.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03354.JPG">
+    <name>DSC03354.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03354</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03354.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03354.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03355.JPG">
+    <name>DSC03355.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03355</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03355.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03355.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03356.JPG">
+    <name>DSC03356.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03356</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03356.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03356.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03357.JPG">
+    <name>DSC03357.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03357</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03357.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03357.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03358.JPG">
+    <name>DSC03358.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03358</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03358.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03358.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03363.JPG">
+    <name>DSC03363.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03363</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03363.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03363.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03364.JPG">
+    <name>DSC03364.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03364</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03364.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03364.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03365.JPG">
+    <name>DSC03365.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03365</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03365.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03365.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03366.JPG">
+    <name>DSC03366.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03366</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03366.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03366.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03367.JPG">
+    <name>DSC03367.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03367</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03367.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03367.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03368.JPG">
+    <name>DSC03368.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03368</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03368.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03368.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03369.JPG">
+    <name>DSC03369.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03369</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03369.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03369.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03371.JPG">
+    <name>DSC03371.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03371</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03371.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03371.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03392.JPG">
+    <name>DSC03392.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03392</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03392.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03392.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03393.JPG">
+    <name>DSC03393.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03393</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03393.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03393.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03394.JPG">
+    <name>DSC03394.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03394</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03394.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03394.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03395.JPG">
+    <name>DSC03395.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03395</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03395.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03395.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03396.JPG">
+    <name>DSC03396.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03396</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03396.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03396.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03397.JPG">
+    <name>DSC03397.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03397</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03397.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03397.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03398.JPG">
+    <name>DSC03398.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03398</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03398.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03398.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03401.JPG">
+    <name>DSC03401.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03401</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03401.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03401.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03402.JPG">
+    <name>DSC03402.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03402</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03402.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03402.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03403.JPG">
+    <name>DSC03403.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03403</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03403.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03403.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03404.JPG">
+    <name>DSC03404.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03404</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03404.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03404.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03405.JPG">
+    <name>DSC03405.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03405</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03405.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03405.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03406.JPG">
+    <name>DSC03406.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03406</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03406.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03406.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03407.JPG">
+    <name>DSC03407.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03407</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03407.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03407.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03408.JPG">
+    <name>DSC03408.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03408</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03408.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03408.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03409.JPG">
+    <name>DSC03409.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03409</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03409.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03409.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03410.JPG">
+    <name>DSC03410.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03410</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03410.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03410.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03412.JPG">
+    <name>DSC03412.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03412</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03412.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03412.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03413.JPG">
+    <name>DSC03413.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03413</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03413.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03413.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03414.JPG">
+    <name>DSC03414.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03414</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03414.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03414.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03415.JPG">
+    <name>DSC03415.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03415</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03415.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03415.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03416.JPG">
+    <name>DSC03416.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03416</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03416.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03416.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03417.JPG">
+    <name>DSC03417.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03417</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03417.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03417.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03419.JPG">
+    <name>DSC03419.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03419</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03419.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03419.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03420.JPG">
+    <name>DSC03420.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03420</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03420.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03420.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03421.JPG">
+    <name>DSC03421.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03421</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03421.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03421.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03422.JPG">
+    <name>DSC03422.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03422</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03422.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03422.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03423.JPG">
+    <name>DSC03423.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03423</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03423.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03423.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03424.JPG">
+    <name>DSC03424.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03424</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03424.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03424.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03425.JPG">
+    <name>DSC03425.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03425</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03425.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03425.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03428.JPG">
+    <name>DSC03428.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03428</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03428.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03428.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03429.JPG">
+    <name>DSC03429.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03429</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03429.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03429.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03430.JPG">
+    <name>DSC03430.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03430</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03430.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03430.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03431.JPG">
+    <name>DSC03431.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03431</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03431.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03431.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03432.JPG">
+    <name>DSC03432.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03432</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03432.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03432.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03433.JPG">
+    <name>DSC03433.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03433</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03433.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03433.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03439.JPG">
+    <name>DSC03439.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03439</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03439.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03439.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03440.JPG">
+    <name>DSC03440.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03440</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03440.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03440.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03441.JPG">
+    <name>DSC03441.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03441</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03441.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03441.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03442.JPG">
+    <name>DSC03442.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03442</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03442.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03442.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03443.JPG">
+    <name>DSC03443.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03443</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03443.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03443.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03444.JPG">
+    <name>DSC03444.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03444</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03444.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03444.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03445.JPG">
+    <name>DSC03445.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03445</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03445.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03445.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03447.JPG">
+    <name>DSC03447.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03447</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03447.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03447.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03448.JPG">
+    <name>DSC03448.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03448</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03448.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03448.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03449.JPG">
+    <name>DSC03449.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03449</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03449.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03449.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03509.JPG">
+    <name>DSC03509.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03509</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03509.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03509.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03512.JPG">
+    <name>DSC03512.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03512</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03512.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03512.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03517.JPG">
+    <name>DSC03517.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03517</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03517.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03517.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03518.JPG">
+    <name>DSC03518.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03518</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03518.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03518.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03520.JPG">
+    <name>DSC03520.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03520</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03520.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03520.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03563.JPG">
+    <name>DSC03563.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03563</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03563.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03563.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03564.JPG">
+    <name>DSC03564.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03564</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03564.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03564.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03565.JPG">
+    <name>DSC03565.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03565</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03565.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03565.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03566.JPG">
+    <name>DSC03566.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03566</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03566.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03566.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03567.JPG">
+    <name>DSC03567.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03567</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03567.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03567.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03568.JPG">
+    <name>DSC03568.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03568</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03568.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03568.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03569.JPG">
+    <name>DSC03569.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03569</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03569.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03569.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03570.JPG">
+    <name>DSC03570.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03570</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03570.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03570.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03575.JPG">
+    <name>DSC03575.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03575</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03575.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03575.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03576.JPG">
+    <name>DSC03576.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03576</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03576.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03576.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03577.JPG">
+    <name>DSC03577.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03577</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03577.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03577.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03581.JPG">
+    <name>DSC03581.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03581</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03581.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03581.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03582.JPG">
+    <name>DSC03582.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03582</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03582.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03582.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03583.JPG">
+    <name>DSC03583.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03583</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03583.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03583.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03584.JPG">
+    <name>DSC03584.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03584</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03584.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03584.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03585.JPG">
+    <name>DSC03585.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03585</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03585.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03585.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03586.JPG">
+    <name>DSC03586.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03586</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03586.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03586.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03587.JPG">
+    <name>DSC03587.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03587</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03587.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03587.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03588.JPG">
+    <name>DSC03588.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03588</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03588.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03588.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03589.JPG">
+    <name>DSC03589.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03589</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03589.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03589.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03590.JPG">
+    <name>DSC03590.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03590</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03590.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03590.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03591.JPG">
+    <name>DSC03591.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03591</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03591.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03591.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03592.JPG">
+    <name>DSC03592.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03592</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03592.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03592.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03593.JPG">
+    <name>DSC03593.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03593</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03593.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03593.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03597.JPG">
+    <name>DSC03597.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03597</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03597.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03597.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03598.JPG">
+    <name>DSC03598.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03598</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03598.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03598.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03599.JPG">
+    <name>DSC03599.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03599</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03599.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03599.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03600.JPG">
+    <name>DSC03600.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03600</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03600.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03600.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03601.JPG">
+    <name>DSC03601.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03601</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03601.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03601.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03602.JPG">
+    <name>DSC03602.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03602</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03602.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03602.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03603.JPG">
+    <name>DSC03603.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03603</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03603.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03603.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03604.JPG">
+    <name>DSC03604.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03604</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03604.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03604.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03605.JPG">
+    <name>DSC03605.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03605</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03605.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03605.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03610.JPG">
+    <name>DSC03610.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03610</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03610.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03610.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03611.JPG">
+    <name>DSC03611.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03611</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03611.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03611.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03612.JPG">
+    <name>DSC03612.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03612</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03612.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03612.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03613.JPG">
+    <name>DSC03613.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03613</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03613.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03613.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03614.JPG">
+    <name>DSC03614.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03614</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03614.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03614.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03615.JPG">
+    <name>DSC03615.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03615</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03615.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03615.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03616.JPG">
+    <name>DSC03616.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03616</published>
+    <width>2592</width>
+    <height>3456</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03616.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03616.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03665.JPG">
+    <name>DSC03665.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03665</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03665.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03665.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03668.JPG">
+    <name>DSC03668.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03668</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03668.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03668.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03669.JPG">
+    <name>DSC03669.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03669</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03669.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03669.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03672.JPG">
+    <name>DSC03672.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03672</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03672.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03672.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03682.JPG">
+    <name>DSC03682.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03682</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03682.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03682.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_DSC03683.JPG">
+    <name>DSC03683.JPG</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/DSC03683</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^DSC03683.JPG">
+    <collection-item ref="syp2009_photodoc_portret2009_DSC03683.JPG" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <photo-doc id="syp2009_photodoc_portret2009_sosedkin.jpg">
+    <name>sosedkin.jpg</name>
+    <from-date>2009</from-date>
+    <published>photos/syp2009/portret2009/sosedkin</published>
+    <width>1428</width>
+    <height>1890</height>
+  </photo-doc>
+  <collection-member id="syp2009_col_r_portret2009^sosedkin.jpg">
+    <collection-item ref="syp2009_photodoc_portret2009_sosedkin.jpg" />
+    <in-collection ref="syp2009_col_portret2009" />
+  </collection-member>
+  <reflection id="syp2009_ref1">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03348.JPG" />
+    <reflected ref="syp2009_p10" />
+  </reflection>
+  <reflection id="syp2009_ref2">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03348.JPG" />
+    <reflected ref="syp2008_1182" />
+  </reflection>
+  <reflection id="syp2009_ref3">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03348.JPG" />
+    <reflected ref="syp2009_p11" />
+  </reflection>
+  <reflection id="syp2009_ref4">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03348.JPG" />
+    <reflected ref="syp2009_p13" />
+  </reflection>
+  <reflection id="syp2009_ref6">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03348.JPG" />
+    <reflected ref="syp2008_1118" />
+  </reflection>
+  <reflection id="syp2009_ref8">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03348.JPG" />
+    <reflected ref="flash-2009" />
+  </reflection>
+  <reflection id="syp2009_ref11">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03349.JPG" />
+    <reflected ref="syp2009_p10" />
+  </reflection>
+  <reflection id="syp2009_ref12">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03349.JPG" />
+    <reflected ref="syp2008_1182" />
+  </reflection>
+  <reflection id="syp2009_ref13">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03349.JPG" />
+    <reflected ref="syp2009_p11" />
+  </reflection>
+  <reflection id="syp2009_ref14">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03349.JPG" />
+    <reflected ref="syp2009_p13" />
+  </reflection>
+  <reflection id="syp2009_ref16">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03349.JPG" />
+    <reflected ref="syp2008_1118" />
+  </reflection>
+  <reflection id="syp2009_ref17">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03349.JPG" />
+    <reflected ref="flash-2009" />
+  </reflection>
+  <reflection id="syp2009_ref19">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03369.JPG" />
+    <reflected ref="syp2009_p32" />
+  </reflection>
+  <reflection id="syp2009_ref20">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03369.JPG" />
+    <reflected ref="syp2009_p33" />
+  </reflection>
+  <reflection id="syp2009_ref21">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03369.JPG" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="syp2009_ref22">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03369.JPG" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="syp2009_ref23">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03369.JPG" />
+    <reflected ref="syp2009_p35" />
+  </reflection>
+  <reflection id="syp2009_ref24">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03369.JPG" />
+    <reflected ref="syp2009_p36" />
+  </reflection>
+  <reflection id="syp2009_ref25">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03369.JPG" />
+    <reflected ref="scratch-2009" />
+  </reflection>
+  <reflection id="syp2009_ref26">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03411.JPG" />
+    <reflected ref="syp2009_p22" />
+  </reflection>
+  <reflection id="syp2009_ref27">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03411.JPG" />
+    <reflected ref="luchkina_a" />
+  </reflection>
+  <reflection id="syp2009_ref28">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03411.JPG" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="syp2009_ref29">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03411.JPG" />
+    <reflected ref="syp2008_1051" />
+  </reflection>
+  <reflection id="syp2009_ref30">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03411.JPG" />
+    <reflected ref="syp2008_1106" />
+  </reflection>
+  <reflection id="syp2009_ref31">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03411.JPG" />
+    <reflected ref="delphi-net" />
+  </reflection>
+  <reflection id="syp2009_ref32">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03418.JPG" />
+    <reflected ref="syp2009_p54" />
+  </reflection>
+  <reflection id="syp2009_ref33">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03418.JPG" />
+    <reflected ref="syp2008_1185" />
+  </reflection>
+  <reflection id="syp2009_ref34">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03418.JPG" />
+    <reflected ref="kuzkokov_s" />
+  </reflection>
+  <reflection id="syp2009_ref35">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03418.JPG" />
+    <reflected ref="syp2008_1157" />
+  </reflection>
+  <reflection id="syp2009_ref36">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03418.JPG" />
+    <reflected ref="sakerin_v" />
+  </reflection>
+  <reflection id="syp2009_ref37">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03418.JPG" />
+    <reflected ref="city_control" />
+  </reflection>
+  <reflection id="syp2009_ref38">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03427.JPG" />
+    <reflected ref="p60" />
+  </reflection>
+  <reflection id="syp2009_ref39">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03427.JPG" />
+    <reflected ref="syp2004-p-1" />
+  </reflection>
+  <reflection id="syp2009_ref40">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03427.JPG" />
+    <reflected ref="p23" />
+  </reflection>
+  <reflection id="syp2009_ref41">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03427.JPG" />
+    <reflected ref="syp2008_1130" />
+  </reflection>
+  <reflection id="syp2009_ref42">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03427.JPG" />
+    <reflected ref="syp2008_1133" />
+  </reflection>
+  <reflection id="syp2009_ref43">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03427.JPG" />
+    <reflected ref="syp2009_p49" />
+  </reflection>
+  <reflection id="syp2009_ref44">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03427.JPG" />
+    <reflected ref="proc_textures" />
+  </reflection>
+  <reflection id="syp2009_ref45">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03446.JPG" />
+    <reflected ref="person15" />
+  </reflection>
+  <reflection id="syp2009_ref46">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03446.JPG" />
+    <reflected ref="syp2009_p94" />
+  </reflection>
+  <reflection id="syp2009_ref47">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03446.JPG" />
+    <reflected ref="sherbina_s" />
+  </reflection>
+  <reflection id="syp2009_ref48">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03446.JPG" />
+    <reflected ref="web-2009" />
+  </reflection>
+  <reflection id="syp2009_ref49">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03562.JPG" />
+    <reflected ref="klimov_n" />
+  </reflection>
+  <reflection id="syp2009_ref52">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03562.JPG" />
+    <reflected ref="syp2009_p64" />
+  </reflection>
+  <reflection id="syp2009_ref53">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03562.JPG" />
+    <reflected ref="fuse" />
+  </reflection>
+  <reflection id="syp2009_ref55">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03571.JPG" />
+    <reflected ref="ahmetzyanov_d" />
+  </reflection>
+  <reflection id="syp2009_ref56">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03571.JPG" />
+    <reflected ref="syp2002-p-17" />
+  </reflection>
+  <reflection id="syp2009_ref58">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03571.JPG" />
+    <reflected ref="syp2009_p28" />
+  </reflection>
+  <reflection id="syp2009_ref59">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03571.JPG" />
+    <reflected ref="syp2009_p29" />
+  </reflection>
+  <reflection id="syp2009_ref60">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03571.JPG" />
+    <reflected ref="wpf_silverlight" />
+  </reflection>
+  <reflection id="syp2009_ref61">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03578.JPG" />
+    <reflected ref="kazanceva_a" />
+  </reflection>
+  <reflection id="syp2009_ref62">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03578.JPG" />
+    <reflected ref="kazanceva_n" />
+  </reflection>
+  <reflection id="syp2009_ref63">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03578.JPG" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="syp2009_ref64">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03578.JPG" />
+    <reflected ref="rusakova_n" />
+  </reflection>
+  <reflection id="syp2009_ref65">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03578.JPG" />
+    <reflected ref="syp2009_p82" />
+  </reflection>
+  <reflection id="syp2009_ref66">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03578.JPG" />
+    <reflected ref="syp2009_p83" />
+  </reflection>
+  <reflection id="syp2009_ref67">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03578.JPG" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="syp2009_ref68">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03578.JPG" />
+    <reflected ref="fraktal_2009" />
+  </reflection>
+  <reflection id="syp2009_ref69">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03580.JPG" />
+    <reflected ref="kazanceva_a" />
+  </reflection>
+  <reflection id="syp2009_ref70">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03580.JPG" />
+    <reflected ref="kazanceva_n" />
+  </reflection>
+  <reflection id="syp2009_ref71">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03580.JPG" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="syp2009_ref72">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03580.JPG" />
+    <reflected ref="rusakova_n" />
+  </reflection>
+  <reflection id="syp2009_ref73">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03580.JPG" />
+    <reflected ref="syp2009_p82" />
+  </reflection>
+  <reflection id="syp2009_ref74">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03580.JPG" />
+    <reflected ref="syp2009_p83" />
+  </reflection>
+  <reflection id="syp2009_ref75">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03580.JPG" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="syp2009_ref76">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03580.JPG" />
+    <reflected ref="fraktal_2009" />
+  </reflection>
+  <reflection id="syp2009_ref77">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03594.JPG" />
+    <reflected ref="syp2009_p56" />
+  </reflection>
+  <reflection id="syp2009_ref80">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03594.JPG" />
+    <reflected ref="ekonom_emul" />
+  </reflection>
+  <reflection id="syp2009_ref82">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03594.JPG" />
+    <reflected ref="syp2009_p58" />
+  </reflection>
+  <reflection id="syp2009_ref83">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03594.JPG" />
+    <reflected ref="person21" />
+  </reflection>
+  <reflection id="syp2009_ref84">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03594.JPG" />
+    <reflected ref="sakerin_a" />
+  </reflection>
+  <reflection id="syp2009_ref85">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03594.JPG" />
+    <reflected ref="syp2009_p57" />
+  </reflection>
+  <reflection id="syp2009_ref86">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03595.JPG" />
+    <reflected ref="zyulyaev_n" />
+  </reflection>
+  <reflection id="syp2009_ref87">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03595.JPG" />
+    <reflected ref="syp2009_p87" />
+  </reflection>
+  <reflection id="syp2009_ref88">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03595.JPG" />
+    <reflected ref="morozov_a" />
+  </reflection>
+  <reflection id="syp2009_ref89">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03595.JPG" />
+    <reflected ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2009_ref90">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03595.JPG" />
+    <reflected ref="phys_robot" />
+  </reflection>
+  <reflection id="syp2009_ref91">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03596.JPG" />
+    <reflected ref="zyulyaev_n" />
+  </reflection>
+  <reflection id="syp2009_ref92">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03596.JPG" />
+    <reflected ref="syp2009_p87" />
+  </reflection>
+  <reflection id="syp2009_ref93">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03596.JPG" />
+    <reflected ref="morozov_a" />
+  </reflection>
+  <reflection id="syp2009_ref94">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03596.JPG" />
+    <reflected ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2009_ref95">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03596.JPG" />
+    <reflected ref="phys_robot" />
+  </reflection>
+  <reflection id="syp2009_ref96">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03606.JPG" />
+    <reflected ref="syp2009_p16" />
+  </reflection>
+  <reflection id="syp2009_ref97">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03606.JPG" />
+    <reflected ref="person20" />
+  </reflection>
+  <reflection id="syp2009_ref98">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03606.JPG" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="syp2009_ref99">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03606.JPG" />
+    <reflected ref="smirnov_p" />
+  </reflection>
+  <reflection id="syp2009_ref100">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03606.JPG" />
+    <reflected ref="ekoles" />
+  </reflection>
+  <reflection id="syp2009_ref101">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03606.JPG" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="syp2009_ref102">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03353.JPG" />
+    <reflected ref="syp2009_p10" />
+  </reflection>
+  <reflection id="syp2009_ref103">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03366.JPG" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="syp2009_ref104">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03369.JPG" />
+    <reflected ref="syp2008_1112" />
+  </reflection>
+  <reflection id="syp2009_ref105">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03369.JPG" />
+    <reflected ref="syp2009_p32" />
+  </reflection>
+  <reflection id="syp2009_ref106">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03369.JPG" />
+    <reflected ref="syp2009_p33" />
+  </reflection>
+  <reflection id="syp2009_ref107">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03369.JPG" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="syp2009_ref108">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03369.JPG" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="syp2009_ref109">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03369.JPG" />
+    <reflected ref="syp2009_p35" />
+  </reflection>
+  <reflection id="syp2009_ref110">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03369.JPG" />
+    <reflected ref="syp2009_p36" />
+  </reflection>
+  <reflection id="syp2009_ref111">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03369.JPG" />
+    <reflected ref="scratch-2009" />
+  </reflection>
+  <reflection id="syp2009_ref114">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03574.JPG" />
+    <reflected ref="syp2009_p76" />
+  </reflection>
+  <reflection id="syp2009_ref115">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03574.JPG" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="syp2009_ref116">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03574.JPG" />
+    <reflected ref="syp2009_p77" />
+  </reflection>
+  <reflection id="syp2009_ref117">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03574.JPG" />
+    <reflected ref="faz_portraits" />
+  </reflection>
+  <reflection id="syp2009_ref118">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03562.JPG" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2009_ref119">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03562.JPG" />
+    <reflected ref="syp2009_p63" />
+  </reflection>
+  <reflection id="syp2009_ref120">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03562.JPG" />
+    <reflected ref="syp2009_p62" />
+  </reflection>
+  <reflection id="syp2009_ref121">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03400.JPG" />
+    <reflected ref="syp2009_p90" />
+  </reflection>
+  <reflection id="syp2009_ref122">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03400.JPG" />
+    <reflected ref="syp2009_p91" />
+  </reflection>
+  <reflection id="syp2009_ref123">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03400.JPG" />
+    <reflected ref="syp2009_p89" />
+  </reflection>
+  <reflection id="syp2009_ref124">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03400.JPG" />
+    <reflected ref="person11" />
+  </reflection>
+  <reflection id="syp2009_ref125">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03400.JPG" />
+    <reflected ref="archivator" />
+  </reflection>
+  <reflection id="syp2009_ref126">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03605.JPG" />
+    <reflected ref="syp2009_p16" />
+  </reflection>
+  <reflection id="syp2009_ref127">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03604.JPG" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="syp2009_ref128">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03599.JPG" />
+    <reflected ref="syp2009_p87" />
+  </reflection>
+  <reflection id="syp2009_ref129">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03600.JPG" />
+    <reflected ref="zyulyaev_n" />
+  </reflection>
+  <reflection id="syp2009_ref130">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03602.JPG" />
+    <reflected ref="person20" />
+  </reflection>
+  <reflection id="syp2009_ref131">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03603.JPG" />
+    <reflected ref="smirnov_p" />
+  </reflection>
+  <reflection id="syp2009_ref132">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03598.JPG" />
+    <reflected ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2009_ref133">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03597.JPG" />
+    <reflected ref="morozov_a" />
+  </reflection>
+  <reflection id="syp2009_ref134">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03591.JPG" />
+    <reflected ref="syp2009_p58" />
+  </reflection>
+  <reflection id="syp2009_ref135">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03592.JPG" />
+    <reflected ref="syp2009_p58" />
+  </reflection>
+  <reflection id="syp2009_ref136">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03590.JPG" />
+    <reflected ref="person21" />
+  </reflection>
+  <reflection id="syp2009_ref137">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03589.JPG" />
+    <reflected ref="syp2009_p56" />
+  </reflection>
+  <reflection id="syp2009_ref138">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03588.JPG" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="syp2009_ref139">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03587.JPG" />
+    <reflected ref="syp2009_p1" />
+  </reflection>
+  <reflection id="syp2009_ref140">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03586.JPG" />
+    <reflected ref="syp2009_p7" />
+  </reflection>
+  <reflection id="syp2009_ref141">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03585.JPG" />
+    <reflected ref="person60" />
+  </reflection>
+  <reflection id="syp2009_ref142">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03584.JPG" />
+    <reflected ref="syp2009_p5" />
+  </reflection>
+  <reflection id="syp2009_ref143">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03583.JPG" />
+    <reflected ref="person65" />
+  </reflection>
+  <reflection id="syp2009_ref144">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03582.JPG" />
+    <reflected ref="syp2009_p83" />
+  </reflection>
+  <reflection id="syp2009_ref145">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03601.JPG" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="syp2009_ref146">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03593.JPG" />
+    <reflected ref="syp2009_p57" />
+  </reflection>
+  <reflection id="syp2009_ref147">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03581.JPG" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="syp2009_ref148">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03569.JPG" />
+    <reflected ref="p22" />
+  </reflection>
+  <reflection id="syp2009_ref149">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03568.JPG" />
+    <reflected ref="p87" />
+  </reflection>
+  <reflection id="syp2009_ref150">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03567.JPG" />
+    <reflected ref="klimov_n" />
+  </reflection>
+  <reflection id="syp2009_ref151">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03576.JPG" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="syp2009_ref152">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03575.JPG" />
+    <reflected ref="syp2009_p76" />
+  </reflection>
+  <reflection id="syp2009_ref153">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03570.JPG" />
+    <reflected ref="syp2004-p-5" />
+  </reflection>
+  <reflection id="syp2009_ref154">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03565.JPG" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2009_ref155">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03563.JPG" />
+    <reflected ref="syp2009_p62" />
+  </reflection>
+  <reflection id="syp2009_ref156">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03449.JPG" />
+    <reflected ref="sherbina_s" />
+  </reflection>
+  <reflection id="syp2009_ref157">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03447.JPG" />
+    <reflected ref="syp2009_p94" />
+  </reflection>
+  <reflection id="syp2009_ref158">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03448.JPG" />
+    <reflected ref="person15" />
+  </reflection>
+  <reflection id="syp2009_ref159">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03441.JPG" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="syp2009_ref160">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03440.JPG" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="syp2009_ref161">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03439.JPG" />
+    <reflected ref="syp2009_p83" />
+  </reflection>
+  <reflection id="syp2009_ref162">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03433.JPG" />
+    <reflected ref="syp2008_1133" />
+  </reflection>
+  <reflection id="syp2009_ref163">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03432.JPG" />
+    <reflected ref="syp2009_p49" />
+  </reflection>
+  <reflection id="syp2009_ref164">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03431.JPG" />
+    <reflected ref="syp2008_1130" />
+  </reflection>
+  <reflection id="syp2009_ref165">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03430.JPG" />
+    <reflected ref="syp2004-p-1" />
+  </reflection>
+  <reflection id="syp2009_ref166">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03429.JPG" />
+    <reflected ref="p60" />
+  </reflection>
+  <reflection id="syp2009_ref167">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03428.JPG" />
+    <reflected ref="p23" />
+  </reflection>
+  <reflection id="syp2009_ref168">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03425.JPG" />
+    <reflected ref="syp2009_p29" />
+  </reflection>
+  <reflection id="syp2009_ref169">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03442.JPG" />
+    <reflected ref="rusakova_n" />
+  </reflection>
+  <reflection id="syp2009_ref170">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03443.JPG" />
+    <reflected ref="syp2009_p82" />
+  </reflection>
+  <reflection id="syp2009_ref171">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03424.JPG" />
+    <reflected ref="sakerin_v" />
+  </reflection>
+  <reflection id="syp2009_ref172">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03413.JPG" />
+    <reflected ref="sologub_d" />
+  </reflection>
+  <reflection id="syp2009_ref174">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03417.JPG" />
+    <reflected ref="syp2008_1096" />
+  </reflection>
+  <reflection id="syp2009_ref175">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03419.JPG" />
+    <reflected ref="kuzkokov_s" />
+  </reflection>
+  <reflection id="syp2009_ref176">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03414.JPG" />
+    <reflected ref="syp2009_p40" />
+  </reflection>
+  <reflection id="syp2009_ref177">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03412.JPG" />
+    <reflected ref="tytov_d" />
+  </reflection>
+  <reflection id="syp2009_ref178">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03410.JPG" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="syp2009_ref179">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03408.JPG" />
+    <reflected ref="syp2008_1051" />
+  </reflection>
+  <reflection id="syp2009_ref180">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03407.JPG" />
+    <reflected ref="syp2008_1106" />
+  </reflection>
+  <reflection id="syp2009_ref181">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03406.JPG" />
+    <reflected ref="luchkina_a" />
+  </reflection>
+  <reflection id="syp2009_ref182">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03405.JPG" />
+    <reflected ref="syp2009_p89" />
+  </reflection>
+  <reflection id="syp2009_ref183">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03401.JPG" />
+    <reflected ref="person11" />
+  </reflection>
+  <reflection id="syp2009_ref184">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03398.JPG" />
+    <reflected ref="syp2002-p-17" />
+  </reflection>
+  <reflection id="syp2009_ref185">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03398.JPG" />
+    <reflected ref="luchkina_a" />
+  </reflection>
+  <reflection id="syp2009_ref186">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03397.JPG" />
+    <reflected ref="syp2002-p-17" />
+  </reflection>
+  <reflection id="syp2009_ref187">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03396.JPG" />
+    <reflected ref="syp2002-p-17" />
+  </reflection>
+  <reflection id="syp2009_ref188">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03395.JPG" />
+    <reflected ref="ahmetzyanov_d" />
+  </reflection>
+  <reflection id="syp2009_ref189">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03394.JPG" />
+    <reflected ref="syp2009_p28" />
+  </reflection>
+  <reflection id="syp2009_ref190">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03371.JPG" />
+    <reflected ref="syp2008_1112" />
+  </reflection>
+  <reflection id="syp2009_ref191">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03371.JPG" />
+    <reflected ref="syp2009_p32" />
+  </reflection>
+  <reflection id="syp2009_ref192">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03371.JPG" />
+    <reflected ref="syp2009_p33" />
+  </reflection>
+  <reflection id="syp2009_ref193">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03371.JPG" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="syp2009_ref194">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03371.JPG" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="syp2009_ref195">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03371.JPG" />
+    <reflected ref="scratch-2009" />
+  </reflection>
+  <reflection id="syp2009_ref196">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03371.JPG" />
+    <reflected ref="syp2009_p35" />
+  </reflection>
+  <reflection id="syp2009_ref197">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03371.JPG" />
+    <reflected ref="syp2009_p36" />
+  </reflection>
+  <reflection id="syp2009_ref198">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03564.JPG" />
+    <reflected ref="syp2009_p63" />
+  </reflection>
+  <reflection id="syp2009_ref199">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03365.JPG" />
+    <reflected ref="syp2008_1112" />
+  </reflection>
+  <reflection id="syp2009_ref200">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03364.JPG" />
+    <reflected ref="syp2009_p32" />
+  </reflection>
+  <reflection id="syp2009_ref201">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03363.JPG" />
+    <reflected ref="syp2009_p33" />
+  </reflection>
+  <reflection id="syp2009_ref202">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03358.JPG" />
+    <reflected ref="syp2008_1182" />
+  </reflection>
+  <reflection id="syp2009_ref203">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03357.JPG" />
+    <reflected ref="syp2008_1182" />
+  </reflection>
+  <reflection id="syp2009_ref204">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03356.JPG" />
+    <reflected ref="syp2008_1182" />
+  </reflection>
+  <reflection id="syp2009_ref205">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03351.JPG" />
+    <reflected ref="syp2008_1118" />
+  </reflection>
+  <reflection id="syp2009_ref208">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03368.JPG" />
+    <reflected ref="syp2009_p35" />
+  </reflection>
+  <reflection id="syp2009_ref209">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03350.JPG" />
+    <reflected ref="syp2009_p11" />
+  </reflection>
+  <reflection id="syp2009_ref210">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03445.JPG" />
+    <reflected ref="kazanceva_a" />
+  </reflection>
+  <reflection id="syp2009_ref211">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03444.JPG" />
+    <reflected ref="kazanceva_n" />
+  </reflection>
+  <reflection id="syp2009_ref212">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03577.JPG" />
+    <reflected ref="syp2009_p77" />
+  </reflection>
+  <reflection id="syp2009_ref213">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03566.JPG" />
+    <reflected ref="syp2009_p64" />
+  </reflection>
+  <reflection id="syp2009_ref214">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03409.JPG" />
+    <reflected ref="syp2009_p22" />
+  </reflection>
+  <reflection id="syp2009_ref215">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03352.JPG" />
+    <reflected ref="syp2009_p14" />
+  </reflection>
+  <reflection id="syp2009_ref216">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03355.JPG" />
+    <reflected ref="syp2009_p13" />
+  </reflection>
+  <reflection id="syp2009_ref217">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03354.JPG" />
+    <reflected ref="syp2009_p13" />
+  </reflection>
+  <reflection id="syp2009_ref218">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03357.JPG" />
+    <reflected ref="syp2009_p14" />
+  </reflection>
+  <reflection id="syp2009_ref219">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03358.JPG" />
+    <reflected ref="syp2009_p14" />
+  </reflection>
+  <reflection id="syp2009_ref220">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03356.JPG" />
+    <reflected ref="syp2009_p14" />
+  </reflection>
+  <reflection id="syp2009_ref221">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03415.JPG" />
+    <reflected ref="syp2009_p43" />
+  </reflection>
+  <reflection id="syp2009_ref222">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03416.JPG" />
+    <reflected ref="p86" />
+  </reflection>
+  <reflection id="syp2009_ref223">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03420.JPG" />
+    <reflected ref="syp2008_1185" />
+  </reflection>
+  <reflection id="syp2009_ref224">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03421.JPG" />
+    <reflected ref="syp2008_1185" />
+  </reflection>
+  <reflection id="syp2009_ref225">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03422.JPG" />
+    <reflected ref="syp2008_1157" />
+  </reflection>
+  <reflection id="syp2009_ref226">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03423.JPG" />
+    <reflected ref="syp2009_p54" />
+  </reflection>
+  <reflection id="syp2009_ref227">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03367.JPG" />
+    <reflected ref="syp2009_p36" />
+  </reflection>
+  <reflection id="syp2009_ref228">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03402.JPG" />
+    <reflected ref="syp2009_p91" />
+  </reflection>
+  <reflection id="syp2009_ref229">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03403.JPG" />
+    <reflected ref="syp2009_p90" />
+  </reflection>
+  <reflection id="syp2009_ref230">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03404.JPG" />
+    <reflected ref="syp2009_p90" />
+  </reflection>
+  <reflection id="syp2009_ref231">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03608.JPG" />
+    <reflected ref="p34" />
+  </reflection>
+  <reflection id="syp2009_ref232">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03608.JPG" />
+    <reflected ref="syp2009_p67" />
+  </reflection>
+  <reflection id="syp2009_ref233">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03608.JPG" />
+    <reflected ref="syp2009_p68" />
+  </reflection>
+  <reflection id="syp2009_ref234">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03608.JPG" />
+    <reflected ref="syp2009_p69" />
+  </reflection>
+  <reflection id="syp2009_ref235">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03608.JPG" />
+    <reflected ref="sozdateli-2009" />
+  </reflection>
+  <reflection id="syp2009_ref236">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03608.JPG" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="syp2009_ref237">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03609.JPG" />
+    <reflected ref="p34" />
+  </reflection>
+  <reflection id="syp2009_ref238">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03609.JPG" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="syp2009_ref239">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03609.JPG" />
+    <reflected ref="syp2009_p67" />
+  </reflection>
+  <reflection id="syp2009_ref240">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03609.JPG" />
+    <reflected ref="syp2009_p68" />
+  </reflection>
+  <reflection id="syp2009_ref241">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03609.JPG" />
+    <reflected ref="syp2009_p69" />
+  </reflection>
+  <reflection id="syp2009_ref242">
+    <in-doc ref="syp2009_photodoc_mastersk2009_DSC03609.JPG" />
+    <reflected ref="sozdateli-2009" />
+  </reflection>
+  <reflection id="syp2009_ref243">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03610.JPG" />
+    <reflected ref="syp2009_p69" />
+  </reflection>
+  <reflection id="syp2009_ref244">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03611.JPG" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="syp2009_ref245">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03612.JPG" />
+    <reflected ref="p34" />
+  </reflection>
+  <reflection id="syp2009_ref246">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03613.JPG" />
+    <reflected ref="syp2009_p67" />
+  </reflection>
+  <reflection id="syp2009_ref247">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03613.JPG" />
+    <reflected ref="syp2009_p68" />
+  </reflection>
+  <reflection id="syp2009_ref248">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03614.JPG" />
+    <reflected ref="syp2009_p67" />
+  </reflection>
+  <reflection id="syp2009_ref249">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03615.JPG" />
+    <reflected ref="syp2009_p68" />
+  </reflection>
+  <reflection id="syp2009_ref250">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03616.JPG" />
+    <reflected ref="syp2009_p69" />
+  </reflection>
+  <reflection id="syp2009_ref251">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03291.JPG" />
+    <reflected ref="p34" />
+  </reflection>
+  <reflection id="syp2009_ref252">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03304.JPG" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2009_ref253">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03664.JPG" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="syp2009_ref254">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03259.JPG" />
+    <reflected ref="syp2001-p-smolyak" />
+  </reflection>
+  <reflection id="syp2009_ref255">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03282.JPG" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="syp2009_ref256">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03284.JPG" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="syp2009_ref257">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03290.JPG" />
+    <reflected ref="p34" />
+  </reflection>
+  <reflection id="syp2009_ref258">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03292.JPG" />
+    <reflected ref="syp2009_p67" />
+  </reflection>
+  <reflection id="syp2009_ref259">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03293.JPG" />
+    <reflected ref="syp2009_p68" />
+  </reflection>
+  <reflection id="syp2009_ref260">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03294.JPG" />
+    <reflected ref="syp2009_p69" />
+  </reflection>
+  <reflection id="syp2009_ref261">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03295.JPG" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="syp2009_ref262">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03300.JPG" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="syp2009_ref263">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03301.JPG" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="syp2009_ref264">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03302.JPG" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="syp2009_ref265">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03509.JPG" />
+    <reflected ref="luchkina_a" />
+  </reflection>
+  <reflection id="syp2009_ref266">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03518.JPG" />
+    <reflected ref="syp2009_p69" />
+  </reflection>
+  <reflection id="syp2009_ref267">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03517.JPG" />
+    <reflected ref="syp2008_1112" />
+  </reflection>
+  <reflection id="syp2009_ref269">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03520.JPG" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="syp2009_ref270">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03665.JPG" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="syp2009_ref271">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03668.JPG" />
+    <reflected ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2009_ref272">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03669.JPG" />
+    <reflected ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2009_ref273">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03672.JPG" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="syp2009_ref274">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03682.JPG" />
+    <reflected ref="syp2001-p-zanina" />
+  </reflection>
+  <reflection id="syp2009_ref275">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03683.JPG" />
+    <reflected ref="syp2001-p-zanina" />
+  </reflection>
+  <reflection id="syp2009_ref276">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03393.JPG" />
+    <reflected ref="syp2009_p27" />
+  </reflection>
+  <reflection id="syp2009_ref277">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03392.JPG" />
+    <reflected ref="syp2009_p27" />
+  </reflection>
+  <reflection id="syp2009_ref278">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03523.JPG" />
+    <reflected ref="p34" />
+  </reflection>
+  <reflection id="syp2009_ref279">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03523.JPG" />
+    <reflected ref="syp2009_p62" />
+  </reflection>
+  <reflection id="syp2009_ref280">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03523.JPG" />
+    <reflected ref="luchkina_a" />
+  </reflection>
+  <reflection id="syp2009_ref281">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03523.JPG" />
+    <reflected ref="p23" />
+  </reflection>
+  <reflection id="syp2009_ref282">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03555.JPG" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="syp2009_ref283">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03555.JPG" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="syp2009_ref284">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03555.JPG" />
+    <reflected ref="syp2009_p27" />
+  </reflection>
+  <reflection id="syp2009_ref285">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03556.JPG" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="syp2009_ref286">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03556.JPG" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="syp2009_ref287">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03556.JPG" />
+    <reflected ref="syp2009_p27" />
+  </reflection>
+  <reflection id="syp2009_ref288">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03522.JPG" />
+    <reflected ref="syp2002-p-17" />
+  </reflection>
+  <reflection id="syp2009_ref289">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03522.JPG" />
+    <reflected ref="syp2004-p-18" />
+  </reflection>
+  <reflection id="syp2009_ref290">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03522.JPG" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="syp2009_ref291">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03522.JPG" />
+    <reflected ref="syp2009_p1" />
+  </reflection>
+  <reflection id="syp2009_ref292">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03514.JPG" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="syp2009_ref293">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03514.JPG" />
+    <reflected ref="syp2009_p94" />
+  </reflection>
+  <reflection id="syp2009_ref294">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03514.JPG" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="syp2009_ref295">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03514.JPG" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="syp2009_ref296">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03514.JPG" />
+    <reflected ref="sherbina_s" />
+  </reflection>
+  <reflection id="syp2009_ref297">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03511.JPG" />
+    <reflected ref="p60" />
+  </reflection>
+  <reflection id="syp2009_ref298">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03511.JPG" />
+    <reflected ref="syp2002-p-17" />
+  </reflection>
+  <reflection id="syp2009_ref299">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03511.JPG" />
+    <reflected ref="syp2004-p-18" />
+  </reflection>
+  <reflection id="syp2009_ref300">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03511.JPG" />
+    <reflected ref="syp2009_p1" />
+  </reflection>
+  <reflection id="syp2009_ref301">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03510.JPG" />
+    <reflected ref="syp2009_p62" />
+  </reflection>
+  <reflection id="syp2009_ref302">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03510.JPG" />
+    <reflected ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2009_ref303">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03508.JPG" />
+    <reflected ref="syp2009_p32" />
+  </reflection>
+  <reflection id="syp2009_ref304">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03508.JPG" />
+    <reflected ref="p34" />
+  </reflection>
+  <reflection id="syp2009_ref305">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03507.JPG" />
+    <reflected ref="luchkina_a" />
+  </reflection>
+  <reflection id="syp2009_ref306">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03507.JPG" />
+    <reflected ref="p23" />
+  </reflection>
+  <reflection id="syp2009_ref307">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03485.JPG" />
+    <reflected ref="syp2009_p67" />
+  </reflection>
+  <reflection id="syp2009_ref308">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03485.JPG" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="syp2009_ref309">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03485.JPG" />
+    <reflected ref="syp2009_p68" />
+  </reflection>
+  <reflection id="syp2009_ref310">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03484.JPG" />
+    <reflected ref="syp2009_p67" />
+  </reflection>
+  <reflection id="syp2009_ref311">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03484.JPG" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="syp2009_ref312">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03484.JPG" />
+    <reflected ref="syp2009_p68" />
+  </reflection>
+  <reflection id="syp2009_ref313">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03483.JPG" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="syp2009_ref314">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03483.JPG" />
+    <reflected ref="syp2009_p68" />
+  </reflection>
+  <reflection id="syp2009_ref315">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03299.JPG" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="syp2009_ref316">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03286.JPG" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="syp2009_ref317">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03286.JPG" />
+    <reflected ref="syp2008_1096" />
+  </reflection>
+  <reflection id="syp2009_ref318">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03286.JPG" />
+    <reflected ref="syp2004-p-18" />
+  </reflection>
+  <reflection id="syp2009_ref319">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03286.JPG" />
+    <reflected ref="syp2009_p1" />
+  </reflection>
+  <reflection id="syp2009_ref320">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03286.JPG" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="syp2009_ref321">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03276.JPG" />
+    <reflected ref="syp2001-p-zanina" />
+  </reflection>
+  <reflection id="syp2009_ref322">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03276.JPG" />
+    <reflected ref="luchkina_a" />
+  </reflection>
+  <reflection id="syp2009_ref323">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03272.JPG" />
+    <reflected ref="syp2001-p-zanina" />
+  </reflection>
+  <reflection id="syp2009_ref324">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03272.JPG" />
+    <reflected ref="luchkina_a" />
+  </reflection>
+  <reflection id="syp2009_ref325">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03267.JPG" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="syp2009_ref326">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03261.JPG" />
+    <reflected ref="syp2004-p-5" />
+  </reflection>
+  <reflection id="syp2009_ref327">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03261.JPG" />
+    <reflected ref="syp2009_p68" />
+  </reflection>
+  <reflection id="syp2009_ref328">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03261.JPG" />
+    <reflected ref="syp2009_p49" />
+  </reflection>
+  <reflection id="syp2009_ref329">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03256.JPG" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="syp2009_ref330">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03256.JPG" />
+    <reflected ref="person21" />
+  </reflection>
+  <reflection id="syp2009_ref331">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03255.JPG" />
+    <reflected ref="syp2008_1182" />
+  </reflection>
+  <reflection id="syp2009_ref332">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03255.JPG" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="syp2009_ref333">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03255.JPG" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="syp2009_ref334">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03255.JPG" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2009_ref335">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03253.JPG" />
+    <reflected ref="jirov_a" />
+  </reflection>
+  <reflection id="syp2009_ref336">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03253.JPG" />
+    <reflected ref="syp2009_p89" />
+  </reflection>
+  <reflection id="syp2009_ref337">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03253.JPG" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="syp2009_ref338">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03253.JPG" />
+    <reflected ref="syp2009_p1" />
+  </reflection>
+  <reflection id="syp2009_ref339">
+    <in-doc ref="syp2009_photodoc_portret2009_DSC03512.JPG" />
+    <reflected ref="syp2009_p13" />
+  </reflection>
+  <reflection id="syp2009_ref340">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03673.JPG" />
+    <reflected ref="p60" />
+  </reflection>
+  <reflection id="syp2009_ref341">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03673.JPG" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="syp2009_ref342">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03673.JPG" />
+    <reflected ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2009_ref343">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03673.JPG" />
+    <reflected ref="sherbina_s" />
+  </reflection>
+  <reflection id="syp2009_ref344">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03516.JPG" />
+    <reflected ref="syp2008_1118" />
+  </reflection>
+  <reflection id="syp2009_ref345">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03516.JPG" />
+    <reflected ref="syp2009_p7" />
+  </reflection>
+  <reflection id="syp2009_ref346">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03515.JPG" />
+    <reflected ref="syp2009_p10" />
+  </reflection>
+  <reflection id="syp2009_ref347">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03515.JPG" />
+    <reflected ref="kazanceva_a" />
+  </reflection>
+  <reflection id="syp2009_ref348">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03679.JPG" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2009_ref349">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03671.JPG" />
+    <reflected ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2009_ref350">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03308.JPG" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2009_ref351">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03308.JPG" />
+    <reflected ref="syp2009_p1" />
+  </reflection>
+  <reflection id="syp2009_ref352">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03308.JPG" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="syp2009_ref353">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03307.JPG" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2009_ref354">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03307.JPG" />
+    <reflected ref="syp2009_p1" />
+  </reflection>
+  <reflection id="syp2009_ref355">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03307.JPG" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="syp2009_ref356">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03303.JPG" />
+    <reflected ref="klimov_n" />
+  </reflection>
+  <reflection id="syp2009_ref357">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03277.JPG" />
+    <reflected ref="klimov_n" />
+  </reflection>
+  <reflection id="syp2009_ref358">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03277.JPG" />
+    <reflected ref="syp2009_p62" />
+  </reflection>
+  <reflection id="syp2009_ref359">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03277.JPG" />
+    <reflected ref="rusakova_n" />
+  </reflection>
+  <reflection id="syp2009_ref360">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03277.JPG" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2009_ref361">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03277.JPG" />
+    <reflected ref="syp2009_p77" />
+  </reflection>
+  <reflection id="syp2009_ref362">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03271.JPG" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="syp2009_ref363">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03266.JPG" />
+    <reflected ref="syp2009_p36" />
+  </reflection>
+  <reflection id="syp2009_ref364">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03266.JPG" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="syp2009_ref365">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03262.JPG" />
+    <reflected ref="syp2009_p5" />
+  </reflection>
+  <reflection id="syp2009_ref366">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03262.JPG" />
+    <reflected ref="syp2009_p77" />
+  </reflection>
+  <reflection id="syp2009_ref367">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03262.JPG" />
+    <reflected ref="syp2008_1106" />
+  </reflection>
+  <reflection id="syp2009_ref368">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03262.JPG" />
+    <reflected ref="syp2009_p83" />
+  </reflection>
+  <reflection id="syp2009_ref369">
+    <in-doc ref="syp2009_photodoc_other2009_DSC03262.JPG" />
+    <reflected ref="syp2008_1133" />
+  </reflection>
+  <reflection id="syp2009_ref370">
+    <in-doc ref="syp2009_photodoc_portret2009_sosedkin.jpg" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="syp2009_ref371">
+    <in-doc ref="syp2009_photodoc_portret2009_CIMG4051.JPG" />
+    <reflection ref="syp2009_p49" />
+  </reflection>
+</db>

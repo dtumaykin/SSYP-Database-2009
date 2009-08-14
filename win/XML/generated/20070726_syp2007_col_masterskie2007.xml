@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db>
+  <collection id="20070726_syp2007_col_masterskie2007">
+    <name>Мастерские 2007</name>
+  </collection>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_001">
+    <name>syp2007/masterskie2007/IMGP3328.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_001</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_001">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_001" />
+  </collection-member>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_002">
+    <name>syp2007/masterskie2007/IMGP3353.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_002</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_002">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_002" />
+  </collection-member>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_003">
+    <name>syp2007/masterskie2007/IMGP3358.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_003</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_003">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_003" />
+  </collection-member>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_004">
+    <name>syp2007/masterskie2007/IMGP3379.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_004</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_004">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_004" />
+  </collection-member>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_005">
+    <name>syp2007/masterskie2007/IMGP3384.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_005</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_005">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_005" />
+  </collection-member>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_006">
+    <name>syp2007/masterskie2007/IMGP3393.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_006</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_006">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_006" />
+  </collection-member>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_007">
+    <name>syp2007/masterskie2007/IMGP3419.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_007</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_007">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_007" />
+  </collection-member>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_008">
+    <name>syp2007/masterskie2007/IMGP3438.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_008</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_008">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_008" />
+  </collection-member>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_009">
+    <name>syp2007/masterskie2007/IMGP3444.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_009</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_009">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_009" />
+  </collection-member>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_010">
+    <name>syp2007/masterskie2007/IMGP3477.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_010</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_010">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_010" />
+  </collection-member>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_011">
+    <name>syp2007/masterskie2007/P1020349.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_011</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_011">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_011" />
+  </collection-member>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_012">
+    <name>syp2007/masterskie2007/P1020359.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_012</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_012">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_012" />
+  </collection-member>
+  <photo-doc id="20070726_syp2007_col_masterskie2007_pd_013">
+    <name>syp2007/masterskie2007/P1020542.JPG</name>
+    <from-date>2007</from-date>
+    <published>photos/syp2007/masterskie2007/20070726_syp2007_col_masterskie2007_pd_013</published>
+  </photo-doc>
+  <collection-member id="20070726_syp2007_col_masterskie2007_cm_013">
+    <in-collection ref="20070726_syp2007_col_masterskie2007" />
+    <collection-item ref="20070726_syp2007_col_masterskie2007_pd_013" />
+  </collection-member>
+</db>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db prefix="syp2008usr_5_" count="52">
+  <collection id="syp2008usr_5_0">
+    <name>ЛШЮП-2008 от Марчука А.Г.</name>
+    <from-date>2008-07</from-date>
+  </collection>
+  <private id="syp2008usr_5_1">
+    <from ref="syp2008usr_5" />
+    <to ref="syp2008usr_1" />
+    <text>Вадим, я устранил ту ошибку, которая нас мучала на сервере. см. стилевой файл photo.xsl, в районе строки ASDFGH </text>
+    <read>no</read>
+    <title>проверка связи</title>
+    <date>31.07.2008 0:23:51</date>
+  </private>
+  <photo-doc id="syp2008usr_5_2">
+    <name>DSC00090.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image2</published>
+    <original>C:/home/syp2008photo-originals/DSC00090.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_3">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_2" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_4">
+    <name>DSC00096.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image4</published>
+    <original>C:/home/syp2008photo-originals/DSC00096.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_5">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_4" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_6">
+    <name>DSC00111.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image6</published>
+    <original>C:/home/syp2008photo-originals/DSC00111.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_7">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_6" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_8">
+    <name>DSC00114.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image8</published>
+    <original>C:/home/syp2008photo-originals/DSC00114.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_9">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_8" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_10">
+    <name>DSC00118.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image10</published>
+    <original>C:/home/syp2008photo-originals/DSC00118.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_11">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_10" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_12">
+    <name>DSC00119.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image12</published>
+    <original>C:/home/syp2008photo-originals/DSC00119.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_13">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_12" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_14">
+    <name>DSC00134.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image14</published>
+    <original>C:/home/syp2008photo-originals/DSC00134.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_15">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_14" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_16">
+    <name>DSC00166.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image16</published>
+    <original>C:/home/syp2008photo-originals/DSC00166.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_17">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_16" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_18">
+    <name>DSC00203.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image18</published>
+    <original>C:/home/syp2008photo-originals/DSC00203.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_19">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_18" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_20">
+    <name>DSC00208.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image20</published>
+    <original>C:/home/syp2008photo-originals/DSC00208.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_21">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_20" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_22">
+    <name>DSC00209.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image22</published>
+    <original>C:/home/syp2008photo-originals/DSC00209.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_23">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_22" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_24">
+    <name>DSC00214.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image24</published>
+    <original>C:/home/syp2008photo-originals/DSC00214.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_25">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_24" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_26">
+    <name>DSC00216.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image26</published>
+    <original>C:/home/syp2008photo-originals/DSC00216.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_27">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_26" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_28">
+    <name>DSC00245.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image28</published>
+    <original>C:/home/syp2008photo-originals/DSC00245.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_29">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_28" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_30">
+    <name>DSC00255.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image30</published>
+    <original>C:/home/syp2008photo-originals/DSC00255.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_31">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_30" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_32">
+    <name>DSC00267.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image32</published>
+    <original>C:/home/syp2008photo-originals/DSC00267.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_33">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_32" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_34">
+    <name>DSC00029.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image34</published>
+    <original>C:/home/syp2008photo-originals/DSC00029.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_35">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_34" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_36">
+    <name>DSC00039.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image36</published>
+    <original>C:/home/syp2008photo-originals/DSC00039.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_37">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_36" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_38">
+    <name>DSC00048.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image38</published>
+    <original>C:/home/syp2008photo-originals/DSC00048.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_39">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_38" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_40">
+    <name>DSC00064.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image40</published>
+    <original>C:/home/syp2008photo-originals/DSC00064.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_41">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_40" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_42">
+    <name>DSC00067.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image42</published>
+    <original>C:/home/syp2008photo-originals/DSC00067.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_43">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_42" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_44">
+    <name>DSC00073.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image44</published>
+    <original>C:/home/syp2008photo-originals/DSC00073.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_45">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_44" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_46">
+    <name>DSC00079.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image46</published>
+    <original>C:/home/syp2008photo-originals/DSC00079.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_47">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_46" />
+  </collection-member>
+  <photo-doc id="syp2008usr_5_48">
+    <name>DSC00089.JPG</name>
+    <from-date>2008</from-date>
+    <published>photos/syp2009/syp2008_photods/image48</published>
+    <original>C:/home/syp2008photo-originals/DSC00089.JPG</original>
+  </photo-doc>
+  <collection-member id="syp2008usr_5_49">
+    <in-collection ref="syp2008usr_5_0" />
+    <collection-item ref="syp2008usr_5_48" />
+  </collection-member>
+  <comment id="syp2008usr_5_50">
+    <from ref="syp2008usr_5" />
+    <text>Это сценка из выступления на КВН</text>
+    <photo-doc ref="20070726_syp2007_col_otdyh2007_pd_094" />
+  </comment>
+  <reflection id="syp2008usr_5_51">
+    <reflected ref="syp2001-p-marchuk_a" />
+    <in-doc ref="syp2008usr_2_112" />
+  </reflection>
+</db>

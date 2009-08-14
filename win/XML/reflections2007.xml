@@ -1,0 +1,4271 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db prefix="ref" count="2082">
+  <reflection id="ref1002">
+    <in-doc ref="kovph1" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="ref1004">
+    <in-doc ref="lebph" />
+    <reflected ref="lebedeff_d" />
+  </reflection>
+  <reflection id="ref1005">
+    <in-doc ref="panph" />
+    <reflected ref="p38" />
+  </reflection>
+  <reflection id="ref1006">
+    <in-doc ref="nonamedph1" />
+    <reflected ref="belyaev_d" />
+  </reflection>
+  <reflection id="ref1007">
+    <in-doc ref="cherph" />
+    <reflected ref="p82" />
+  </reflection>
+  <reflection id="ref1009">
+    <in-doc ref="nasph1" />
+    <reflected ref="person20" />
+  </reflection>
+  <reflection id="ref1010">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_003" />
+    <reflected ref="syp2004-p-18" />
+  </reflection>
+  <reflection id="ref1011">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_004" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1012">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_005" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1013">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_005" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1014">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_006" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1015">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_007" />
+    <reflected ref="syp2001-p-marchuk_p" />
+  </reflection>
+  <reflection id="ref1016">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_008" />
+    <reflected ref="person7_" />
+  </reflection>
+  <reflection id="ref1017">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_009" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1018">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_010" />
+    <reflected ref="person7_" />
+  </reflection>
+  <reflection id="ref1019">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_012" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1020">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_013" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1021">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_014" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1022">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_015" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1023">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_016" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1024">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_017" />
+    <reflected ref="syp2001-p-zanina" />
+  </reflection>
+  <reflection id="ref1025">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_023" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1026">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_024" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1027">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_025" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1028">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_030" />
+    <reflected ref="dobronravova_l" />
+  </reflection>
+  <reflection id="ref1029">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_033" />
+    <reflected ref="dymshiz_g" />
+  </reflection>
+  <reflection id="ref1030">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_036" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1031">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_038" />
+    <reflected ref="koshkarev_a" />
+  </reflection>
+  <reflection id="ref1032">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_046" />
+    <reflected ref="p24" />
+  </reflection>
+  <reflection id="ref1033">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_047" />
+    <reflected ref="p24" />
+  </reflection>
+  <reflection id="ref1034">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_050" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1035">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_051" />
+    <reflected ref="solovyev_i" />
+  </reflection>
+  <reflection id="ref1036">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_058" />
+    <reflected ref="p59" />
+  </reflection>
+  <reflection id="ref1037">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_061" />
+    <reflected ref="syp2004-p-1" />
+  </reflection>
+  <reflection id="ref1038">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_062" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1039">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_063" />
+    <reflected ref="chernov_k" />
+  </reflection>
+  <reflection id="ref1040">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_065" />
+    <reflected ref="nemov_s" />
+  </reflection>
+  <reflection id="ref1041">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_064" />
+    <reflected ref="luchkina_a" />
+  </reflection>
+  <reflection id="ref1042">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_067" />
+    <reflected ref="nemov_s" />
+  </reflection>
+  <reflection id="ref1043">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_070" />
+    <reflected ref="p80" />
+  </reflection>
+  <reflection id="ref1044">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_073" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="ref1045">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_074" />
+    <reflected ref="pichuev_a" />
+  </reflection>
+  <reflection id="ref1046">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_075" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref1047">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_077" />
+    <reflected ref="syp2004-p-5" />
+  </reflection>
+  <reflection id="ref1048">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_080" />
+    <reflected ref="ahmetzyanov_d" />
+  </reflection>
+  <reflection id="ref1049">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_082" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="ref1050">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_083" />
+    <reflected ref="person20" />
+  </reflection>
+  <reflection id="ref1051">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_084" />
+    <reflected ref="morozov_a" />
+  </reflection>
+  <reflection id="ref1052">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_087" />
+    <reflected ref="p87" />
+  </reflection>
+  <reflection id="ref1053">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_088" />
+    <reflected ref="p38" />
+  </reflection>
+  <reflection id="ref1054">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_089" />
+    <reflected ref="syp2004-p-9" />
+  </reflection>
+  <reflection id="ref1055">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_090" />
+    <reflected ref="person15" />
+  </reflection>
+  <reflection id="ref1056">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_091" />
+    <reflected ref="syp2004-p-1" />
+  </reflection>
+  <reflection id="ref1057">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_092" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1058">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_094" />
+    <reflected ref="p80" />
+  </reflection>
+  <reflection id="ref1059">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_097" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="ref1060">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_098" />
+    <reflected ref="syp2004-p-18" />
+  </reflection>
+  <reflection id="ref1061">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_099" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1062">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_100" />
+    <reflected ref="syp2004-p-18" />
+  </reflection>
+  <reflection id="ref1063">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_100" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1064">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_101" />
+    <reflected ref="syp2004-p-18" />
+  </reflection>
+  <reflection id="ref1065">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_101" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1066">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_104" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1067">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_106" />
+    <reflected ref="sagynbaeff_a" />
+  </reflection>
+  <reflection id="ref1068">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_110" />
+    <reflected ref="samerzeva_l" />
+  </reflection>
+  <reflection id="ref1069">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_111" />
+    <reflected ref="syp2004-p-9" />
+  </reflection>
+  <reflection id="ref1070">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_112" />
+    <reflected ref="p80" />
+  </reflection>
+  <reflection id="ref1071">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_018" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1072">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_019" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1073">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_020" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1074">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_021" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1075">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_040" />
+    <reflected ref="sakerin_a" />
+  </reflection>
+  <reflection id="ref1076">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_057" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="ref1077">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_022" />
+    <reflected ref="sakerin_a" />
+  </reflection>
+  <reflection id="ref1078">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_028" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1079">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_029" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1080">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_027" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1081">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_026" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1082">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_031" />
+    <reflected ref="p21" />
+  </reflection>
+  <reflection id="ref1083">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_071" />
+    <reflected ref="p37" />
+  </reflection>
+  <reflection id="ref1084">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_078" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="ref1085">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_076" />
+    <reflected ref="solovyev_v" />
+  </reflection>
+  <reflection id="ref1087">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_086" />
+    <reflected ref="syp2004-p-17" />
+  </reflection>
+  <reflection id="ref1088">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_011" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1089">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_011" />
+    <reflected ref="person7_" />
+  </reflection>
+  <reflection id="ref1090">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_043" />
+    <reflected ref="kazanceva_a" />
+  </reflection>
+  <reflection id="ref1091">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_043" />
+    <reflected ref="kazanceva_n" />
+  </reflection>
+  <reflection id="ref1092">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_044" />
+    <reflected ref="kazanceva_a" />
+  </reflection>
+  <reflection id="ref1093">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_044" />
+    <reflected ref="kazanceva_n" />
+  </reflection>
+  <reflection id="ref1094">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_034" />
+    <reflected ref="syp2001-p-zanina" />
+  </reflection>
+  <reflection id="ref1095">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_034" />
+    <reflected ref="syp2001-p-smolyak" />
+  </reflection>
+  <reflection id="ref1096">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_095" />
+    <reflected ref="syp2001-p-smolyak" />
+  </reflection>
+  <reflection id="ref1097">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_096" />
+    <reflected ref="syp2001-p-smolyak" />
+  </reflection>
+  <reflection id="ref1098">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_049" />
+    <reflected ref="solovyev_v" />
+  </reflection>
+  <reflection id="ref1099">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_001" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="ref1100">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_001" />
+    <reflected ref="syp2004-p-13" />
+  </reflection>
+  <reflection id="ref1101">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_001" />
+    <reflected ref="sologub_d" />
+  </reflection>
+  <reflection id="ref1102">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_004" />
+    <reflected ref="p38" />
+  </reflection>
+  <reflection id="ref1103">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_008" />
+    <reflected ref="syp2004-p-4" />
+  </reflection>
+  <reflection id="ref1104">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_010" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1105">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_012" />
+    <reflected ref="yakovlev_v" />
+  </reflection>
+  <reflection id="ref1106">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_013" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1107">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_014" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1108">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_001" />
+    <reflected ref="person20" />
+  </reflection>
+  <reflection id="ref1109">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_003" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1110">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_004" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="ref1111">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_006" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1112">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_007" />
+    <reflected ref="kuzkokov_s" />
+  </reflection>
+  <reflection id="ref1113">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_008" />
+    <reflected ref="pichuev_a" />
+  </reflection>
+  <reflection id="ref1114">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_009" />
+    <reflected ref="p23" />
+  </reflection>
+  <reflection id="ref1115">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_012" />
+    <reflected ref="p56" />
+  </reflection>
+  <reflection id="ref1116">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_013" />
+    <reflected ref="person57" />
+  </reflection>
+  <reflection id="ref1117">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_017" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="ref1118">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_018" />
+    <reflected ref="syp2001-p-marchuk_p" />
+  </reflection>
+  <reflection id="ref1119">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_019" />
+    <reflected ref="syp2001-p-kalinina" />
+  </reflection>
+  <reflection id="ref1120">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_020" />
+    <reflected ref="person23" />
+  </reflection>
+  <reflection id="ref1121">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_023" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1122">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_024" />
+    <reflected ref="tchursin_n" />
+  </reflection>
+  <reflection id="ref1123">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_060" />
+    <reflected ref="p45" />
+  </reflection>
+  <reflection id="ref1124">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_054" />
+    <reflected ref="sherbina_s" />
+  </reflection>
+  <reflection id="ref1125">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_055" />
+    <reflected ref="popov_b" />
+  </reflection>
+  <reflection id="ref1126">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_059" />
+    <reflected ref="jirov_a" />
+  </reflection>
+  <reflection id="ref1127">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_021" />
+    <reflected ref="person15" />
+  </reflection>
+  <reflection id="ref1128">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_045" />
+    <reflected ref="p60" />
+  </reflection>
+  <reflection id="ref1129">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_056" />
+    <reflected ref="shabalin_t" />
+  </reflection>
+  <reflection id="ref1130">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_002" />
+    <reflected ref="person42" />
+  </reflection>
+  <reflection id="ref1131">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_003" />
+    <reflected ref="person42" />
+  </reflection>
+  <reflection id="ref1132">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_005" />
+    <reflected ref="p56" />
+  </reflection>
+  <reflection id="ref1133">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_006" />
+    <reflected ref="p82" />
+  </reflection>
+  <reflection id="ref1134">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_001" />
+    <reflected ref="kazanceva_a" />
+  </reflection>
+  <reflection id="ref1135">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_001" />
+    <reflected ref="kazanceva_n" />
+  </reflection>
+  <reflection id="ref1136">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_011" />
+    <reflected ref="yacko_i" />
+  </reflection>
+  <reflection id="ref1137">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_001" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1138">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_002" />
+    <reflected ref="syp2001-p-khalmansky" />
+  </reflection>
+  <reflection id="ref1139">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_002" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1140">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_010" />
+    <reflected ref="kucherov_a" />
+  </reflection>
+  <reflection id="ref1141">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_005" />
+    <reflected ref="saizev_v" />
+  </reflection>
+  <reflection id="ref1142">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_006" />
+    <reflected ref="gornostalev_d" />
+  </reflection>
+  <reflection id="ref1143">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_003" />
+    <reflected ref="p38" />
+  </reflection>
+  <reflection id="ref1144">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_003" />
+    <reflected ref="p56" />
+  </reflection>
+  <reflection id="ref1145">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_003" />
+    <reflected ref="person42" />
+  </reflection>
+  <reflection id="ref1146">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_003" />
+    <reflected ref="p82" />
+  </reflection>
+  <reflection id="ref1147">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_039" />
+    <reflected ref="p57" />
+  </reflection>
+  <reflection id="ref1148">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_048" />
+    <reflected ref="gornostalev_d" />
+  </reflection>
+  <reflection id="ref1149">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_003" />
+    <reflected ref="p60" />
+  </reflection>
+  <reflection id="ref1150">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_108" />
+    <reflected ref="p76" />
+  </reflection>
+  <reflection id="ref1151">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_004" />
+    <reflected ref="zyulyaev_n" />
+  </reflection>
+  <reflection id="ref1152">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_004" />
+    <reflected ref="kuzkokov_s" />
+  </reflection>
+  <reflection id="ref1153">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_087" />
+    <reflected ref="p76" />
+  </reflection>
+  <reflection id="ref1154">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_004" />
+    <reflected ref="person15" />
+  </reflection>
+  <reflection id="ref1155">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_005" />
+    <reflected ref="sakerin_v" />
+  </reflection>
+  <reflection id="ref1156">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_005" />
+    <reflected ref="kolmikov_s" />
+  </reflection>
+  <reflection id="ref1157">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_004" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1158">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_004" />
+    <reflected ref="sologub_d" />
+  </reflection>
+  <reflection id="ref1159">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_006" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1160">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_001" />
+    <reflected ref="Paskal1" />
+  </reflection>
+  <reflection id="ref1161">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_004" />
+    <reflected ref="pichuev_a" />
+  </reflection>
+  <reflection id="ref1162">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_006" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1164">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_013" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1165">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_006" />
+    <reflected ref="belyaev_d" />
+  </reflection>
+  <reflection id="ref1166">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_006" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1167">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_012" />
+    <reflected ref="morozov_a" />
+  </reflection>
+  <reflection id="ref1168">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_012" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="ref1169">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_006" />
+    <reflected ref="syp2004-p-4" />
+  </reflection>
+  <reflection id="ref1170">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_012" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="ref1171">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_012" />
+    <reflected ref="ahmetzyanov_d" />
+  </reflection>
+  <reflection id="ref1172">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_012" />
+    <reflected ref="syp2001-p-khalmansky" />
+  </reflection>
+  <reflection id="ref1174">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_012" />
+    <reflected ref="person20" />
+  </reflection>
+  <reflection id="ref1177">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_011" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="ref1178">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_011" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1179">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_011" />
+    <reflected ref="smirnov_p" />
+  </reflection>
+  <reflection id="ref1180">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_011" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1181">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_006" />
+    <reflected ref="yakovlev_v" />
+  </reflection>
+  <reflection id="ref1182">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_003" />
+    <reflected ref="solovyev_i" />
+  </reflection>
+  <reflection id="ref1184">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_010" />
+    <reflected ref="p22" />
+  </reflection>
+  <reflection id="ref1185">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_010" />
+    <reflected ref="p80" />
+  </reflection>
+  <reflection id="ref1186">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_010" />
+    <reflected ref="p37" />
+  </reflection>
+  <reflection id="ref1188">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_002" />
+    <reflected ref="gornostalev_d" />
+  </reflection>
+  <reflection id="ref1189">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_002" />
+    <reflected ref="smirnov_p" />
+  </reflection>
+  <reflection id="ref1191">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_002" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1192">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_009" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1193">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_002" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="ref1194">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_009" />
+    <reflected ref="syp2004-p-1" />
+  </reflection>
+  <reflection id="ref1195">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_002" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1196">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_007" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="ref1197">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_007" />
+    <reflected ref="p3" />
+  </reflection>
+  <reflection id="ref1198">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_008" />
+    <reflected ref="p59" />
+  </reflection>
+  <reflection id="ref1200">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_009" />
+    <reflected ref="chernov_k" />
+  </reflection>
+  <reflection id="ref1201">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_009" />
+    <reflected ref="luchkina_a" />
+  </reflection>
+  <reflection id="ref1202">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_009" />
+    <reflected ref="nemov_s" />
+  </reflection>
+  <reflection id="ref1203">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_010" />
+    <reflected ref="sakerin_a" />
+  </reflection>
+  <reflection id="ref1204">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_010" />
+    <reflected ref="person16" />
+  </reflection>
+  <reflection id="ref1205">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_013" />
+    <reflected ref="smirnov_p" />
+  </reflection>
+  <reflection id="ref1206">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_013" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1207">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_113" />
+    <reflected ref="person60" />
+  </reflection>
+  <reflection id="ref1208">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_107" />
+    <reflected ref="syp2004-p-2" />
+  </reflection>
+  <reflection id="ref1209">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_105" />
+    <reflected ref="solovyev_v" />
+  </reflection>
+  <reflection id="ref1210">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_007" />
+    <reflected ref="sakerin_v" />
+  </reflection>
+  <reflection id="ref1211">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_009" />
+    <reflected ref="belyaev_d" />
+  </reflection>
+  <reflection id="ref1212">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_008" />
+    <reflected ref="saizev_v" />
+  </reflection>
+  <reflection id="ref1213">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_005" />
+    <reflected ref="yacko_i" />
+  </reflection>
+  <reflection id="ref1214">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_014" />
+    <reflected ref="kolmikov_s" />
+  </reflection>
+  <reflection id="ref1215">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_004" />
+    <reflected ref="syp2001-p-kalinina" />
+  </reflection>
+  <reflection id="ref1216">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_053" />
+    <reflected ref="p3" />
+  </reflection>
+  <reflection id="ref1217">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_008" />
+    <reflected ref="jirov_a" />
+  </reflection>
+  <reflection id="ref1218">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_008" />
+    <reflected ref="p45" />
+  </reflection>
+  <reflection id="ref1219">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_007" />
+    <reflected ref="syp2004-p-25" />
+  </reflection>
+  <reflection id="ref1220">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_007" />
+    <reflected ref="sherbina_s" />
+  </reflection>
+  <reflection id="ref1221">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_001" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1222">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_003" />
+    <reflected ref="p80" />
+  </reflection>
+  <reflection id="ref1223">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_003" />
+    <reflected ref="sakerin_a" />
+  </reflection>
+  <reflection id="ref1224">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_102" />
+    <reflected ref="syp2001-p-marchuk_p" />
+  </reflection>
+  <reflection id="ref1225">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_007" />
+    <reflected ref="smirnov_p" />
+  </reflection>
+  <reflection id="ref1226">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_007" />
+    <reflected ref="koshkarev_a" />
+  </reflection>
+  <reflection id="ref1227">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_007" />
+    <reflected ref="person57" />
+  </reflection>
+  <reflection id="ref1228">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_007" />
+    <reflected ref="person65" />
+  </reflection>
+  <reflection id="ref1229">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_007" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1230">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_007" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1231">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_023" />
+    <reflected ref="smirnov_p" />
+  </reflection>
+  <reflection id="ref1232">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_024" />
+    <reflected ref="smirnov_p" />
+  </reflection>
+  <reflection id="ref1233">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_018" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1234">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_019" />
+    <reflected ref="kazanceva_a" />
+  </reflection>
+  <reflection id="ref1235">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_019" />
+    <reflected ref="kazanceva_n" />
+  </reflection>
+  <reflection id="ref1236">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_027" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1237">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_028" />
+    <reflected ref="network" />
+  </reflection>
+  <reflection id="ref1238">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_002" />
+    <reflected ref="logo" />
+  </reflection>
+  <reflection id="ref1239">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_003" />
+    <reflected ref="3d" />
+  </reflection>
+  <reflection id="ref1240">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_004" />
+    <reflected ref="pascal2" />
+  </reflection>
+  <reflection id="ref1241">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_005" />
+    <reflected ref="delphi" />
+  </reflection>
+  <reflection id="ref1242">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_006" />
+    <reflected ref="passwd" />
+  </reflection>
+  <reflection id="ref1243">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_007" />
+    <reflected ref="Lua" />
+  </reflection>
+  <reflection id="ref1244">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_008" />
+    <reflected ref="network" />
+  </reflection>
+  <reflection id="ref1245">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_009" />
+    <reflected ref="huffman" />
+  </reflection>
+  <reflection id="ref1246">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_010" />
+    <reflected ref="AI" />
+  </reflection>
+  <reflection id="ref1247">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_011" />
+    <reflected ref="logo" />
+  </reflection>
+  <reflection id="ref1248">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_012" />
+    <reflected ref="flash" />
+  </reflection>
+  <reflection id="ref1249">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_013" />
+    <reflected ref="logo" />
+  </reflection>
+  <reflection id="ref1250">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_031" />
+    <reflected ref="WebDB" />
+  </reflection>
+  <reflection id="ref1251">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_032" />
+    <reflected ref="WebDB" />
+  </reflection>
+  <reflection id="ref1252">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_033" />
+    <reflected ref="WebDB" />
+  </reflection>
+  <reflection id="ref1253">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_034" />
+    <reflected ref="WebDB" />
+  </reflection>
+  <reflection id="ref1254">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_039" />
+    <reflected ref="solovyev_v" />
+  </reflection>
+  <reflection id="ref1255">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_039" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="ref1256">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_035" />
+    <reflected ref="samerzeva_l" />
+  </reflection>
+  <reflection id="ref1257">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_039" />
+    <reflected ref="p80" />
+  </reflection>
+  <reflection id="ref1258">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_035" />
+    <reflected ref="person11" />
+  </reflection>
+  <reflection id="ref1259">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_035" />
+    <reflected ref="koshkarev_a" />
+  </reflection>
+  <reflection id="ref1260">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_042" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1261">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_042" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="ref1262">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_038" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1263">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_042" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1264">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_042" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1265">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_022" />
+    <reflected ref="kovalioff_d" />
+  </reflection>
+  <reflection id="ref1266">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_038" />
+    <reflected ref="syp2001-p-zanina" />
+  </reflection>
+  <reflection id="ref1267">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_038" />
+    <reflected ref="syp2001-p-smolyak" />
+  </reflection>
+  <reflection id="ref1268">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_038" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1269">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_039" />
+    <reflected ref="p82" />
+  </reflection>
+  <reflection id="ref1270">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_042" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="ref1271">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_042" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1272">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_043" />
+    <reflected ref="syp2004-p-37" />
+  </reflection>
+  <reflection id="ref1273">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_043" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="ref1274">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_043" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1275">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_043" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1276">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_043" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1277">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_043" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="ref1278">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_051" />
+    <reflected ref="syp2004-p-5" />
+  </reflection>
+  <reflection id="ref1279">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="kovalioff_d" />
+  </reflection>
+  <reflection id="ref1280">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="p80" />
+  </reflection>
+  <reflection id="ref1281">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1282">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="smirnov_p" />
+  </reflection>
+  <reflection id="ref1283">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="syp2004-p-5" />
+  </reflection>
+  <reflection id="ref1284">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="ref1285">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref1286">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="p3" />
+  </reflection>
+  <reflection id="ref1287">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="paramonova_e" />
+  </reflection>
+  <reflection id="ref1288">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="novokreshenoff_l" />
+  </reflection>
+  <reflection id="ref1289">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="p21" />
+  </reflection>
+  <reflection id="ref1290">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="ref1291">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="chernov_k" />
+  </reflection>
+  <reflection id="ref1292">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_053" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1293">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_054" />
+    <reflected ref="WebDB" />
+  </reflection>
+  <reflection id="ref1294">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_055" />
+    <reflected ref="p80" />
+  </reflection>
+  <reflection id="ref1295">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_056" />
+    <reflected ref="MathS" />
+  </reflection>
+  <reflection id="ref1296">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_056" />
+    <reflected ref="p76" />
+  </reflection>
+  <reflection id="ref1297">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_056" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref1298">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_056" />
+    <reflected ref="p87" />
+  </reflection>
+  <reflection id="ref1299">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_056" />
+    <reflected ref="paramonova_e" />
+  </reflection>
+  <reflection id="ref1300">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_056" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="ref1301">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_056" />
+    <reflected ref="solovyev_v" />
+  </reflection>
+  <reflection id="ref1302">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_057" />
+    <reflected ref="MathS" />
+  </reflection>
+  <reflection id="ref1303">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_057" />
+    <reflected ref="p76" />
+  </reflection>
+  <reflection id="ref1304">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_057" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref1305">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_057" />
+    <reflected ref="syp2004-p-5" />
+  </reflection>
+  <reflection id="ref1306">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_057" />
+    <reflected ref="p87" />
+  </reflection>
+  <reflection id="ref1307">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_057" />
+    <reflected ref="paramonova_e" />
+  </reflection>
+  <reflection id="ref1308">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_057" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="ref1309">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_058" />
+    <reflected ref="Paskal1" />
+  </reflection>
+  <reflection id="ref1310">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_058" />
+    <reflected ref="person60" />
+  </reflection>
+  <reflection id="ref1311">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_058" />
+    <reflected ref="kazanceva_a" />
+  </reflection>
+  <reflection id="ref1312">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_058" />
+    <reflected ref="kazanceva_n" />
+  </reflection>
+  <reflection id="ref1313">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_058" />
+    <reflected ref="person15" />
+  </reflection>
+  <reflection id="ref1314">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_058" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1315">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_059" />
+    <reflected ref="huffman" />
+  </reflection>
+  <reflection id="ref1317">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_059" />
+    <reflected ref="syp2004-p-1" />
+  </reflection>
+  <reflection id="ref1318">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_059" />
+    <reflected ref="nemov_s" />
+  </reflection>
+  <reflection id="ref1319">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_060" />
+    <reflected ref="huffman" />
+  </reflection>
+  <reflection id="ref1320">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_060" />
+    <reflected ref="chernov_k" />
+  </reflection>
+  <reflection id="ref1321">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_060" />
+    <reflected ref="nemov_s" />
+  </reflection>
+  <reflection id="ref1322">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_061" />
+    <reflected ref="passwd" />
+  </reflection>
+  <reflection id="ref1323">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_061" />
+    <reflected ref="syp2004-p-4" />
+  </reflection>
+  <reflection id="ref1324">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_061" />
+    <reflected ref="belyaev_d" />
+  </reflection>
+  <reflection id="ref1325">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_061" />
+    <reflected ref="yakovlev_v" />
+  </reflection>
+  <reflection id="ref1326">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_061" />
+    <reflected ref="glaznev_n" />
+  </reflection>
+  <reflection id="ref1327">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_061" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1328">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_062" />
+    <reflected ref="Lua" />
+  </reflection>
+  <reflection id="ref1329">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_062" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="ref1330">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_062" />
+    <reflected ref="sherbina_s" />
+  </reflection>
+  <reflection id="ref1331">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_062" />
+    <reflected ref="p3" />
+  </reflection>
+  <reflection id="ref1332">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_063" />
+    <reflected ref="mobile" />
+  </reflection>
+  <reflection id="ref1333">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_063" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="ref1334">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_063" />
+    <reflected ref="syp2004-p-13" />
+  </reflection>
+  <reflection id="ref1335">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_063" />
+    <reflected ref="sagynbaeff_a" />
+  </reflection>
+  <reflection id="ref1336">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_063" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="ref1337">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_063" />
+    <reflected ref="pozdnyak_a" />
+  </reflection>
+  <reflection id="ref1338">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_063" />
+    <reflected ref="novokreshenoff_l" />
+  </reflection>
+  <reflection id="ref1339">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_063" />
+    <reflected ref="kovalioff_d" />
+  </reflection>
+  <reflection id="ref1340">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_064" />
+    <reflected ref="3d" />
+  </reflection>
+  <reflection id="ref1341">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_064" />
+    <reflected ref="solovyev_i" />
+  </reflection>
+  <reflection id="ref1342">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_064" />
+    <reflected ref="blishkin_v" />
+  </reflection>
+  <reflection id="ref1343">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_065" />
+    <reflected ref="delphi" />
+  </reflection>
+  <reflection id="ref1344">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_065" />
+    <reflected ref="sakerin_v" />
+  </reflection>
+  <reflection id="ref1345">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_065" />
+    <reflected ref="kolmikov_s" />
+  </reflection>
+  <reflection id="ref1346">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_020" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1347">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_065" />
+    <reflected ref="kucherov_a" />
+  </reflection>
+  <reflection id="ref1348">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_065" />
+    <reflected ref="yacko_i" />
+  </reflection>
+  <reflection id="ref1349">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_005" />
+    <reflected ref="kucherov_a" />
+  </reflection>
+  <reflection id="ref1350">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_066" />
+    <reflected ref="flash" />
+  </reflection>
+  <reflection id="ref1351">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_066" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="ref1352">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_066" />
+    <reflected ref="person20" />
+  </reflection>
+  <reflection id="ref1353">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_067" />
+    <reflected ref="pascal2" />
+  </reflection>
+  <reflection id="ref1354">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_067" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1355">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_067" />
+    <reflected ref="kuzkokov_s" />
+  </reflection>
+  <reflection id="ref1356">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_067" />
+    <reflected ref="pichuev_a" />
+  </reflection>
+  <reflection id="ref1357">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_067" />
+    <reflected ref="sologub_d" />
+  </reflection>
+  <reflection id="ref1358">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_067" />
+    <reflected ref="syp2001-p-kalinina" />
+  </reflection>
+  <reflection id="ref1359">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_068" />
+    <reflected ref="logo" />
+  </reflection>
+  <reflection id="ref1360">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_068" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1361">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_068" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1362">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_068" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="ref1363">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_068" />
+    <reflected ref="smirnov_p" />
+  </reflection>
+  <reflection id="ref1364">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_068" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1365">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_068" />
+    <reflected ref="gornostalev_d" />
+  </reflection>
+  <reflection id="ref1366">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_069" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1367">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_070" />
+    <reflected ref="p80" />
+  </reflection>
+  <reflection id="ref1368">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_071" />
+    <reflected ref="MathS" />
+  </reflection>
+  <reflection id="ref1369">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_071" />
+    <reflected ref="p76" />
+  </reflection>
+  <reflection id="ref1370">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_071" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref1371">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_071" />
+    <reflected ref="p87" />
+  </reflection>
+  <reflection id="ref1372">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_071" />
+    <reflected ref="paramonova_e" />
+  </reflection>
+  <reflection id="ref1373">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_071" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="ref1374">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_071" />
+    <reflected ref="solovyev_v" />
+  </reflection>
+  <reflection id="ref1375">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_072" />
+    <reflected ref="MathS" />
+  </reflection>
+  <reflection id="ref1376">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_072" />
+    <reflected ref="p76" />
+  </reflection>
+  <reflection id="ref1377">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_072" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref1378">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_072" />
+    <reflected ref="syp2004-p-5" />
+  </reflection>
+  <reflection id="ref1379">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_072" />
+    <reflected ref="p87" />
+  </reflection>
+  <reflection id="ref1380">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_072" />
+    <reflected ref="paramonova_e" />
+  </reflection>
+  <reflection id="ref1381">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_072" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="ref1382">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_072" />
+    <reflected ref="solovyev_v" />
+  </reflection>
+  <reflection id="ref1383">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_073" />
+    <reflected ref="MathS" />
+  </reflection>
+  <reflection id="ref1384">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_073" />
+    <reflected ref="p76" />
+  </reflection>
+  <reflection id="ref1385">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_073" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref1386">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_073" />
+    <reflected ref="paramonova_e" />
+  </reflection>
+  <reflection id="ref1387">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_074" />
+    <reflected ref="Paskal1" />
+  </reflection>
+  <reflection id="ref1388">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_074" />
+    <reflected ref="person60" />
+  </reflection>
+  <reflection id="ref1389">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_074" />
+    <reflected ref="kazanceva_a" />
+  </reflection>
+  <reflection id="ref1390">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_074" />
+    <reflected ref="kazanceva_n" />
+  </reflection>
+  <reflection id="ref1391">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_058" />
+    <reflected ref="person21" />
+  </reflection>
+  <reflection id="ref1392">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_074" />
+    <reflected ref="person21" />
+  </reflection>
+  <reflection id="ref1393">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_074" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1394">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_075" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1395">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_076" />
+    <reflected ref="java" />
+  </reflection>
+  <reflection id="ref1396">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_077" />
+    <reflected ref="huffman" />
+  </reflection>
+  <reflection id="ref1397">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_077" />
+    <reflected ref="syp2004-p-1" />
+  </reflection>
+  <reflection id="ref1398">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_077" />
+    <reflected ref="nemov_s" />
+  </reflection>
+  <reflection id="ref1399">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_077" />
+    <reflected ref="luchkina_a" />
+  </reflection>
+  <reflection id="ref1400">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_078" />
+    <reflected ref="huffman" />
+  </reflection>
+  <reflection id="ref1401">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_078" />
+    <reflected ref="chernov_k" />
+  </reflection>
+  <reflection id="ref1402">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_078" />
+    <reflected ref="nemov_s" />
+  </reflection>
+  <reflection id="ref1403">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_081" />
+    <reflected ref="3d" />
+  </reflection>
+  <reflection id="ref1404">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_081" />
+    <reflected ref="p60" />
+  </reflection>
+  <reflection id="ref1405">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_081" />
+    <reflected ref="p82" />
+  </reflection>
+  <reflection id="ref1406">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_082" />
+    <reflected ref="delphi" />
+  </reflection>
+  <reflection id="ref1407">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_082" />
+    <reflected ref="sakerin_v" />
+  </reflection>
+  <reflection id="ref1408">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_082" />
+    <reflected ref="kolmikov_s" />
+  </reflection>
+  <reflection id="ref1409">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_082" />
+    <reflected ref="kucherov_a" />
+  </reflection>
+  <reflection id="ref1410">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_082" />
+    <reflected ref="yacko_i" />
+  </reflection>
+  <reflection id="ref1411">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_086" />
+    <reflected ref="sagynbaeff_a" />
+  </reflection>
+  <reflection id="ref1412">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_087" />
+    <reflected ref="saizev_v" />
+  </reflection>
+  <reflection id="ref1413">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_087" />
+    <reflected ref="koshkarev_a" />
+  </reflection>
+  <reflection id="ref1414">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_087" />
+    <reflected ref="syp2004-p-9" />
+  </reflection>
+  <reflection id="ref1415">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_088" />
+    <reflected ref="p87" />
+  </reflection>
+  <reflection id="ref1416">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_089" />
+    <reflected ref="syp2001-p-marchuk_p" />
+  </reflection>
+  <reflection id="ref1417">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_090" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1418">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_090" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1419">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_091" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1420">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_091" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1421">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_092" />
+    <reflected ref="sakerin_v" />
+  </reflection>
+  <reflection id="ref1422">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_092" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1423">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_092" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1424">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_093" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="ref1425">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_093" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1426">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_094" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1427">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_094" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1428">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_095" />
+    <reflected ref="sakerin_v" />
+  </reflection>
+  <reflection id="ref1429">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_095" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1430">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_095" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1431">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_095" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1432">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_095" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1433">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_095" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1434">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_095" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="ref1435">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_096" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1436">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_097" />
+    <reflected ref="saizev_v" />
+  </reflection>
+  <reflection id="ref1437">
+    <in-doc ref="20070726_syp2006_col_digest_pd_008" />
+    <reflected ref="p80" />
+  </reflection>
+  <reflection id="ref1438">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_098" />
+    <reflected ref="saizev_v" />
+  </reflection>
+  <reflection id="ref1439">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_098" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1440">
+    <in-doc ref="20070726_syp2006_col_digest_pd_011" />
+    <reflected ref="syp2004-p-9" />
+  </reflection>
+  <reflection id="ref1441">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_098" />
+    <reflected ref="blishkin_v" />
+  </reflection>
+  <reflection id="ref1442">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_099" />
+    <reflected ref="blishkin_v" />
+  </reflection>
+  <reflection id="ref1443">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_099" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1444">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_100" />
+    <reflected ref="kolmikov_s" />
+  </reflection>
+  <reflection id="ref1445">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_100" />
+    <reflected ref="blishkin_v" />
+  </reflection>
+  <reflection id="ref1446">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_100" />
+    <reflected ref="saizev_v" />
+  </reflection>
+  <reflection id="ref1447">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_100" />
+    <reflected ref="abramenkov_s" />
+  </reflection>
+  <reflection id="ref1448">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_100" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1449">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_101" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1450">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_101" />
+    <reflected ref="sakerin_v" />
+  </reflection>
+  <reflection id="ref1451">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_101" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1452">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_101" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="ref1453">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_101" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1454">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_101" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="ref1455">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_101" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1456">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_101" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1457">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_101" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1458">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_076" />
+    <reflected ref="arykov_n" />
+  </reflection>
+  <reflection id="ref1459">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_076" />
+    <reflected ref="p57" />
+  </reflection>
+  <reflection id="ref1460">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_076" />
+    <reflected ref="p24" />
+  </reflection>
+  <reflection id="ref1461">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_076" />
+    <reflected ref="syp2004-p-2" />
+  </reflection>
+  <reflection id="ref1462">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_103" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1463">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_103" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1464">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_103" />
+    <reflected ref="syp2001-p-smolyak" />
+  </reflection>
+  <reflection id="ref1465">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_104" />
+    <reflected ref="blishkin_v" />
+  </reflection>
+  <reflection id="ref1466">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_105" />
+    <reflected ref="blishkin_v" />
+  </reflection>
+  <reflection id="ref1467">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_106" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1468">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_107" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1469">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_108" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1470">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_109" />
+    <reflected ref="kolmikov_s" />
+  </reflection>
+  <reflection id="ref1471">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_109" />
+    <reflected ref="abramenkov_s" />
+  </reflection>
+  <reflection id="ref1472">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_109" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1473">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_109" />
+    <reflected ref="saizev_v" />
+  </reflection>
+  <reflection id="ref1474">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_109" />
+    <reflected ref="belyaev_d" />
+  </reflection>
+  <reflection id="ref1475">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_109" />
+    <reflected ref="blishkin_v" />
+  </reflection>
+  <reflection id="ref1476">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_110" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="ref1477">
+    <in-doc ref="20070726_syp2006_col_digest_pd_012" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1478">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_110" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1479">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_110" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1480">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_110" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1481">
+    <in-doc ref="20070726_syp2006_col_digest_pd_013" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="ref1482">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_110" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1483">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_110" />
+    <reflected ref="sakerin_v" />
+  </reflection>
+  <reflection id="ref1484">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_110" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1485">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_110" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1486">
+    <in-doc ref="20070726_syp2006_col_digest_pd_015" />
+    <reflected ref="p87" />
+  </reflection>
+  <reflection id="ref1487">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_110" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="ref1488">
+    <in-doc ref="20070726_syp2006_col_digest_pd_016" />
+    <reflected ref="person65" />
+  </reflection>
+  <reflection id="ref1489">
+    <in-doc ref="20070726_syp2006_col_digest_pd_017" />
+    <reflected ref="p76" />
+  </reflection>
+  <reflection id="ref1490">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_111" />
+    <reflected ref="saizev_v" />
+  </reflection>
+  <reflection id="ref1491">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_112" />
+    <reflected ref="Lua" />
+  </reflection>
+  <reflection id="ref1492">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_112" />
+    <reflected ref="syp2004-p-25" />
+  </reflection>
+  <reflection id="ref1493">
+    <in-doc ref="20070726_syp2006_col_digest_pd_020" />
+    <reflected ref="p34" />
+  </reflection>
+  <reflection id="ref1494">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_112" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="ref1495">
+    <in-doc ref="20070726_syp2006_col_digest_pd_021" />
+    <reflected ref="person21" />
+  </reflection>
+  <reflection id="ref1496">
+    <in-doc ref="20070726_syp2006_col_digest_pd_023" />
+    <reflected ref="p22" />
+  </reflection>
+  <reflection id="ref1497">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_113" />
+    <reflected ref="tchursin_n" />
+  </reflection>
+  <reflection id="ref1498">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_113" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1499">
+    <in-doc ref="20070726_syp2006_col_digest_pd_025" />
+    <reflected ref="koshkarev_a" />
+  </reflection>
+  <reflection id="ref1500">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_113" />
+    <reflected ref="arykov_n" />
+  </reflection>
+  <reflection id="ref1502">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_114" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1503">
+    <in-doc ref="20070726_syp2006_col_digest_pd_027" />
+    <reflected ref="syp2004-p-1" />
+  </reflection>
+  <reflection id="ref1504">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_114" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1505">
+    <in-doc ref="20070726_syp2006_col_digest_pd_028" />
+    <reflected ref="person42" />
+  </reflection>
+  <reflection id="ref1506">
+    <in-doc ref="20070726_syp2006_col_digest_pd_029" />
+    <reflected ref="p23" />
+  </reflection>
+  <reflection id="ref1507">
+    <in-doc ref="20070726_syp2006_col_digest_pd_030" />
+    <reflected ref="p32" />
+  </reflection>
+  <reflection id="ref1508">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_001" />
+    <reflected ref="AI" />
+  </reflection>
+  <reflection id="ref1509">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_001" />
+    <reflected ref="delphi" />
+  </reflection>
+  <reflection id="ref1510">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_001" />
+    <reflected ref="3d" />
+  </reflection>
+  <reflection id="ref1511">
+    <in-doc ref="20070726_syp2006_col_digest_pd_031" />
+    <reflected ref="person67" />
+  </reflection>
+  <reflection id="ref1512">
+    <in-doc ref="20070726_syp2006_col_digest_pd_032" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref1513">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_002" />
+    <reflected ref="WebDB" />
+  </reflection>
+  <reflection id="ref1514">
+    <in-doc ref="20070726_syp2006_col_digest_pd_033" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref1515">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_003" />
+    <reflected ref="WebDB" />
+  </reflection>
+  <reflection id="ref1516">
+    <in-doc ref="20070726_syp2006_col_digest_pd_034" />
+    <reflected ref="person20" />
+  </reflection>
+  <reflection id="ref1517">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_003" />
+    <reflected ref="koshkarev_a" />
+  </reflection>
+  <reflection id="ref1518">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_003" />
+    <reflected ref="syp2001-p-marchuk_p" />
+  </reflection>
+  <reflection id="ref1519">
+    <in-doc ref="20070726_syp2006_col_digest_pd_035" />
+    <reflected ref="person52" />
+  </reflection>
+  <reflection id="ref1520">
+    <in-doc ref="20070726_syp2006_col_digest_pd_036" />
+    <reflected ref="novokreshenoff_l" />
+  </reflection>
+  <reflection id="ref1521">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_004" />
+    <reflected ref="WebDB" />
+  </reflection>
+  <reflection id="ref1522">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_004" />
+    <reflected ref="koshkarev_a" />
+  </reflection>
+  <reflection id="ref1523">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_004" />
+    <reflected ref="syp2001-p-marchuk_p" />
+  </reflection>
+  <reflection id="ref1524">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_005" />
+    <reflected ref="java" />
+  </reflection>
+  <reflection id="ref1525">
+    <in-doc ref="20070726_syp2006_col_digest_pd_037" />
+    <reflected ref="person15" />
+  </reflection>
+  <reflection id="ref1526">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_006" />
+    <reflected ref="logo" />
+  </reflection>
+  <reflection id="ref1527">
+    <in-doc ref="20070726_syp2006_col_digest_pd_038" />
+    <reflected ref="p38" />
+  </reflection>
+  <reflection id="ref1528">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_008" />
+    <reflected ref="MathS" />
+  </reflection>
+  <reflection id="ref1529">
+    <in-doc ref="20070726_syp2006_col_digest_pd_046" />
+    <reflected ref="person60" />
+  </reflection>
+  <reflection id="ref1530">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_008" />
+    <reflected ref="passwd" />
+  </reflection>
+  <reflection id="ref1531">
+    <in-doc ref="20070726_syp2006_col_digest_pd_047" />
+    <reflected ref="person11" />
+  </reflection>
+  <reflection id="ref1532">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_009" />
+    <reflected ref="MathS" />
+  </reflection>
+  <reflection id="ref1533">
+    <in-doc ref="20070726_syp2006_col_digest_pd_048" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1534">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_009" />
+    <reflected ref="paramonova_e" />
+  </reflection>
+  <reflection id="ref1535">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_009" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="ref1536">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_010" />
+    <reflected ref="MathS" />
+  </reflection>
+  <reflection id="ref1537">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_010" />
+    <reflected ref="paramonova_e" />
+  </reflection>
+  <reflection id="ref1538">
+    <in-doc ref="20070726_syp2006_col_digest_pd_049" />
+    <reflected ref="syp2004-p-5" />
+  </reflection>
+  <reflection id="ref1539">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_010" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="ref1540">
+    <in-doc ref="20070726_syp2006_col_digest_pd_050" />
+    <reflected ref="syp2004-p-5" />
+  </reflection>
+  <reflection id="ref1541">
+    <in-doc ref="20070726_syp2006_col_digest_pd_051" />
+    <reflected ref="solovyev_i" />
+  </reflection>
+  <reflection id="ref1542">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_011" />
+    <reflected ref="passwd" />
+  </reflection>
+  <reflection id="ref1543">
+    <in-doc ref="20070726_syp2006_col_digest_pd_052" />
+    <reflected ref="solovyev_i" />
+  </reflection>
+  <reflection id="ref1544">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_011" />
+    <reflected ref="glaznev_n" />
+  </reflection>
+  <reflection id="ref1545">
+    <in-doc ref="20070726_syp2006_col_digest_pd_053" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="ref1546">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_011" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1547">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_011" />
+    <reflected ref="yakovlev_v" />
+  </reflection>
+  <reflection id="ref1548">
+    <in-doc ref="20070726_syp2006_col_digest_pd_054" />
+    <reflected ref="p3" />
+  </reflection>
+  <reflection id="ref1549">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_012" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="ref1550">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_013" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="ref1551">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_014" />
+    <reflected ref="MathS" />
+  </reflection>
+  <reflection id="ref1552">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_014" />
+    <reflected ref="passwd" />
+  </reflection>
+  <reflection id="ref1553">
+    <in-doc ref="20070726_syp2006_col_digest_pd_061" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1554">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_015" />
+    <reflected ref="MathS" />
+  </reflection>
+  <reflection id="ref1555">
+    <in-doc ref="20070726_syp2006_col_digest_pd_062" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1556">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_015" />
+    <reflected ref="passwd" />
+  </reflection>
+  <reflection id="ref1557">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_016" />
+    <reflected ref="WebDB" />
+  </reflection>
+  <reflection id="ref1558">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_016" />
+    <reflected ref="koshkarev_a" />
+  </reflection>
+  <reflection id="ref1559">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_016" />
+    <reflected ref="person65" />
+  </reflection>
+  <reflection id="ref1560">
+    <in-doc ref="20070726_syp2006_col_digest_pd_067" />
+    <reflected ref="person42" />
+  </reflection>
+  <reflection id="ref1561">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_017" />
+    <reflected ref="WebDB" />
+  </reflection>
+  <reflection id="ref1562">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_017" />
+    <reflected ref="koshkarev_a" />
+  </reflection>
+  <reflection id="ref1563">
+    <in-doc ref="20070726_syp2006_col_digest_pd_068" />
+    <reflected ref="syp2004-p-1" />
+  </reflection>
+  <reflection id="ref1564">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_017" />
+    <reflected ref="person65" />
+  </reflection>
+  <reflection id="ref1565">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_018" />
+    <reflected ref="koshkarev_a" />
+  </reflection>
+  <reflection id="ref1566">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_020" />
+    <reflected ref="network" />
+  </reflection>
+  <reflection id="ref1567">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_020" />
+    <reflected ref="3d" />
+  </reflection>
+  <reflection id="ref1568">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_021" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1569">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_021" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1570">
+    <in-doc ref="20070726_syp2006_col_digest_pd_070" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1571">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_021" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1572">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_021" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1573">
+    <in-doc ref="20070726_syp2006_col_digest_pd_072" />
+    <reflected ref="syp2004-p-4" />
+  </reflection>
+  <reflection id="ref1574">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_021" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1575">
+    <in-doc ref="20070726_syp2006_col_digest_pd_073" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref1576">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_021" />
+    <reflected ref="sakerin_a" />
+  </reflection>
+  <reflection id="ref1577">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_021" />
+    <reflected ref="sakerin_v" />
+  </reflection>
+  <reflection id="ref1578">
+    <in-doc ref="20070726_syp2006_col_digest_pd_074" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1579">
+    <in-doc ref="20070726_syp2006_col_digest_pd_075" />
+    <reflected ref="person52" />
+  </reflection>
+  <reflection id="ref1580">
+    <in-doc ref="20070726_syp2006_col_digest_pd_076" />
+    <reflected ref="p57" />
+  </reflection>
+  <reflection id="ref1581">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_025" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1582">
+    <in-doc ref="20070726_syp2006_col_digest_pd_079" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="ref1583">
+    <in-doc ref="20070726_syp2006_col_digest_pd_080" />
+    <reflected ref="person11" />
+  </reflection>
+  <reflection id="ref1584">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_026" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1585">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_027" />
+    <reflected ref="logo" />
+  </reflection>
+  <reflection id="ref1586">
+    <in-doc ref="20070726_syp2006_col_digest_pd_082" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1587">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_028" />
+    <reflected ref="logo" />
+  </reflection>
+  <reflection id="ref1588">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_029" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1589">
+    <in-doc ref="20070726_syp2006_col_digest_pd_083" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="ref1590">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_032" />
+    <reflected ref="syp2004-p-18" />
+  </reflection>
+  <reflection id="ref1591">
+    <in-doc ref="20070726_syp2006_col_digest_pd_085" />
+    <reflected ref="person57" />
+  </reflection>
+  <reflection id="ref1592">
+    <in-doc ref="20070726_syp2006_col_digest_pd_086" />
+    <reflected ref="person65" />
+  </reflection>
+  <reflection id="ref1593">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_033" />
+    <reflected ref="logo" />
+  </reflection>
+  <reflection id="ref1594">
+    <in-doc ref="20070726_syp2006_col_digest_pd_089" />
+    <reflected ref="syp2004-p-4" />
+  </reflection>
+  <reflection id="ref1595">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_034" />
+    <reflected ref="3d" />
+  </reflection>
+  <reflection id="ref1596">
+    <in-doc ref="20070726_syp2006_col_digest_pd_090" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1597">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_035" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1598">
+    <in-doc ref="20070726_syp2006_col_digest_pd_091" />
+    <reflected ref="syp2004-p-4" />
+  </reflection>
+  <reflection id="ref1599">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_036" />
+    <reflected ref="kazanceva_a" />
+  </reflection>
+  <reflection id="ref1600">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_036" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1601">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_037" />
+    <reflected ref="person21" />
+  </reflection>
+  <reflection id="ref1602">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_037" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1603">
+    <in-doc ref="20070726_syp2006_col_digest_pd_094" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1604">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_038" />
+    <reflected ref="person7_" />
+  </reflection>
+  <reflection id="ref1605">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_039" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="ref1606">
+    <in-doc ref="20070726_syp2006_col_digest_pd_098" />
+    <reflected ref="person42" />
+  </reflection>
+  <reflection id="ref1607">
+    <in-doc ref="20070726_syp2006_col_digest_pd_099" />
+    <reflected ref="person57" />
+  </reflection>
+  <reflection id="ref1608">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_040" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="ref1609">
+    <in-doc ref="20070726_syp2006_col_digest_pd_100" />
+    <reflected ref="person23" />
+  </reflection>
+  <reflection id="ref1610">
+    <in-doc ref="20070726_syp2006_col_digest_pd_101" />
+    <reflected ref="person42" />
+  </reflection>
+  <reflection id="ref1611">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_040" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1612">
+    <in-doc ref="20070726_syp2006_col_digest_pd_102" />
+    <reflected ref="p22" />
+  </reflection>
+  <reflection id="ref1613">
+    <in-doc ref="20070726_syp2006_col_digest_pd_103" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1614">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_041" />
+    <reflected ref="3d" />
+  </reflection>
+  <reflection id="ref1615">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_042" />
+    <reflected ref="3d" />
+  </reflection>
+  <reflection id="ref1616">
+    <in-doc ref="20070726_syp2006_col_digest_pd_113" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1617">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_043" />
+    <reflected ref="java" />
+  </reflection>
+  <reflection id="ref1618">
+    <in-doc ref="20070726_syp2006_col_digest_pd_114" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="ref1619">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_043" />
+    <reflected ref="syp2004-p-2" />
+  </reflection>
+  <reflection id="ref1620">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_043" />
+    <reflected ref="p24" />
+  </reflection>
+  <reflection id="ref1621">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_044" />
+    <reflected ref="belyaev_d" />
+  </reflection>
+  <reflection id="ref1622">
+    <in-doc ref="20070726_syp2006_col_digest_pd_115" />
+    <reflected ref="p3" />
+  </reflection>
+  <reflection id="ref1623">
+    <in-doc ref="20070726_syp2006_col_digest_pd_116" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="ref1624">
+    <in-doc ref="20070726_syp2006_col_digest_pd_117" />
+    <reflected ref="person57" />
+  </reflection>
+  <reflection id="ref1625">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_045" />
+    <reflected ref="MathS" />
+  </reflection>
+  <reflection id="ref1626">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_046" />
+    <reflected ref="logo" />
+  </reflection>
+  <reflection id="ref1627">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_040" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1628">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_047" />
+    <reflected ref="AI" />
+  </reflection>
+  <reflection id="ref1629">
+    <in-doc ref="20070726_syp2006_col_digest_pd_118" />
+    <reflected ref="p56" />
+  </reflection>
+  <reflection id="ref1630">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_048" />
+    <reflected ref="AI" />
+  </reflection>
+  <reflection id="ref1631">
+    <in-doc ref="20070726_syp2006_col_digest_pd_121" />
+    <reflected ref="person67" />
+  </reflection>
+  <reflection id="ref1632">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_001" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1633">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_001" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1634">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_002" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1635">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_006" />
+    <reflected ref="syp2004-p-5" />
+  </reflection>
+  <reflection id="ref1636">
+    <in-doc ref="20070726_syp2006_col_digest_pd_123" />
+    <reflected ref="tchursin_n" />
+  </reflection>
+  <reflection id="ref1637">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_007" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1638">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_007" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1639">
+    <in-doc ref="20070726_syp2006_col_digest_pd_129" />
+    <reflected ref="person60" />
+  </reflection>
+  <reflection id="ref1640">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_008" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1641">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_008" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1642">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_009" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1643">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_009" />
+    <reflected ref="p38" />
+  </reflection>
+  <reflection id="ref1644">
+    <in-doc ref="20070726_syp2006_col_digest_pd_130" />
+    <reflected ref="person11" />
+  </reflection>
+  <reflection id="ref1645">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_010" />
+    <reflected ref="syp2001-p-marchuk_p" />
+  </reflection>
+  <reflection id="ref1646">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_010" />
+    <reflected ref="zaporojzev_s" />
+  </reflection>
+  <reflection id="ref1647">
+    <in-doc ref="20070726_syp2006_col_digest_pd_131" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1648">
+    <in-doc ref="20070726_syp2006_col_digest_pd_133" />
+    <reflected ref="person67" />
+  </reflection>
+  <reflection id="ref1649">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_011" />
+    <reflected ref="glaznev_n" />
+  </reflection>
+  <reflection id="ref1650">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_012" />
+    <reflected ref="glaznev_n" />
+  </reflection>
+  <reflection id="ref1651">
+    <in-doc ref="20070726_syp2006_col_digest_pd_004" />
+    <reflected ref="syp2004-p-4" />
+  </reflection>
+  <reflection id="ref1652">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_013" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1653">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_014" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1654">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_015" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="ref1655">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_017" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1656">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_017" />
+    <reflected ref="novokreshenoff_l" />
+  </reflection>
+  <reflection id="ref1657">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_017" />
+    <reflected ref="syp2004-p-17" />
+  </reflection>
+  <reflection id="ref1658">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_019" />
+    <reflected ref="3d" />
+  </reflection>
+  <reflection id="ref1659">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_020" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1660">
+    <in-doc ref="20070726_syp2006_col_digest_pd_005" />
+    <reflected ref="syp2004-p-2" />
+  </reflection>
+  <reflection id="ref1661">
+    <in-doc ref="20070726_syp2006_col_digest_pd_007" />
+    <reflected ref="chernov_k" />
+  </reflection>
+  <reflection id="ref1662">
+    <in-doc ref="20070726_syp2006_col_digest_pd_009" />
+    <reflected ref="p21" />
+  </reflection>
+  <reflection id="ref1663">
+    <in-doc ref="20070726_syp2006_col_digest_pd_010" />
+    <reflected ref="p37" />
+  </reflection>
+  <reflection id="ref1664">
+    <in-doc ref="20070726_syp2006_col_digest_pd_019" />
+    <reflected ref="p34" />
+  </reflection>
+  <reflection id="ref1665">
+    <in-doc ref="20070726_syp2005_col_digest_pd_002" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1666">
+    <in-doc ref="20070726_syp2006_col_digest_pd_024" />
+    <reflected ref="syp2004-p-16" />
+  </reflection>
+  <reflection id="ref1667">
+    <in-doc ref="20070726_syp2005_col_digest_pd_003" />
+    <reflected ref="syp2004-p-4" />
+  </reflection>
+  <reflection id="ref1668">
+    <in-doc ref="20070726_syp2006_col_digest_pd_026" />
+    <reflected ref="p45" />
+  </reflection>
+  <reflection id="ref1669">
+    <in-doc ref="20070726_syp2005_col_digest_pd_004" />
+    <reflected ref="syp2004-p-2" />
+  </reflection>
+  <reflection id="ref1670">
+    <in-doc ref="20070726_syp2005_col_digest_pd_006" />
+    <reflected ref="p21" />
+  </reflection>
+  <reflection id="ref1671">
+    <in-doc ref="20070726_syp2005_col_digest_pd_009" />
+    <reflected ref="p37" />
+  </reflection>
+  <reflection id="ref1672">
+    <in-doc ref="20070726_syp2006_col_digest_pd_040" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="ref1673">
+    <in-doc ref="20070726_syp2006_col_digest_pd_041" />
+    <reflected ref="person16" />
+  </reflection>
+  <reflection id="ref1674">
+    <in-doc ref="20070726_syp2005_col_digest_pd_010" />
+    <reflected ref="person5_" />
+  </reflection>
+  <reflection id="ref1675">
+    <in-doc ref="20070726_syp2006_col_digest_pd_042" />
+    <reflected ref="person16" />
+  </reflection>
+  <reflection id="ref1676">
+    <in-doc ref="20070726_syp2005_col_digest_pd_011" />
+    <reflected ref="p56" />
+  </reflection>
+  <reflection id="ref1677">
+    <in-doc ref="20070726_syp2005_col_digest_pd_013" />
+    <reflected ref="syp2004-p-9" />
+  </reflection>
+  <reflection id="ref1678">
+    <in-doc ref="20070726_syp2006_col_digest_pd_043" />
+    <reflected ref="person45" />
+  </reflection>
+  <reflection id="ref1679">
+    <in-doc ref="20070726_syp2005_col_digest_pd_014" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1680">
+    <in-doc ref="20070726_syp2006_col_digest_pd_044" />
+    <reflected ref="person45" />
+  </reflection>
+  <reflection id="ref1681">
+    <in-doc ref="20070726_syp2005_col_digest_pd_015" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1682">
+    <in-doc ref="20070726_syp2005_col_digest_pd_016" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="ref1683">
+    <in-doc ref="20070726_syp2005_col_digest_pd_019" />
+    <reflected ref="syp2004-p-25" />
+  </reflection>
+  <reflection id="ref1684">
+    <in-doc ref="20070726_syp2006_col_digest_pd_045" />
+    <reflected ref="person38" />
+  </reflection>
+  <reflection id="ref1685">
+    <in-doc ref="20070726_syp2006_col_digest_pd_055" />
+    <reflected ref="syp2004-p-15" />
+  </reflection>
+  <reflection id="ref1686">
+    <in-doc ref="20070726_syp2006_col_digest_pd_056" />
+    <reflected ref="syp2004-p-15" />
+  </reflection>
+  <reflection id="ref1687">
+    <in-doc ref="20070726_syp2005_col_digest_pd_028" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1688">
+    <in-doc ref="20070726_syp2005_col_digest_pd_028" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1689">
+    <in-doc ref="20070726_syp2006_col_digest_pd_057" />
+    <reflected ref="syp2004-p-15" />
+  </reflection>
+  <reflection id="ref1690">
+    <in-doc ref="20070726_syp2006_col_digest_pd_058" />
+    <reflected ref="syp2004-p-15" />
+  </reflection>
+  <reflection id="ref1691">
+    <in-doc ref="20070726_syp2005_col_digest_pd_029" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1692">
+    <in-doc ref="20070726_syp2005_col_digest_pd_029" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1693">
+    <in-doc ref="20070726_syp2006_col_digest_pd_059" />
+    <reflected ref="person18" />
+  </reflection>
+  <reflection id="ref1694">
+    <in-doc ref="20070726_syp2005_col_digest_pd_030" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1695">
+    <in-doc ref="20070726_syp2005_col_digest_pd_030" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1696">
+    <in-doc ref="20070726_syp2006_col_digest_pd_060" />
+    <reflected ref="syp2004-p-36" />
+  </reflection>
+  <reflection id="ref1697">
+    <in-doc ref="20070726_syp2005_col_digest_pd_031" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1698">
+    <in-doc ref="20070726_syp2005_col_digest_pd_031" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1699">
+    <in-doc ref="20070726_syp2006_col_digest_pd_060" />
+    <reflected ref="p60" />
+  </reflection>
+  <reflection id="ref1700">
+    <in-doc ref="20070726_syp2006_col_digest_pd_064" />
+    <reflected ref="person39" />
+  </reflection>
+  <reflection id="ref1701">
+    <in-doc ref="20070726_syp2005_col_digest_pd_052" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1702">
+    <in-doc ref="20070726_syp2006_col_digest_pd_065" />
+    <reflected ref="person3" />
+  </reflection>
+  <reflection id="ref1703">
+    <in-doc ref="20070726_syp2005_col_digest_pd_052" />
+    <reflected ref="person35" />
+  </reflection>
+  <reflection id="ref1704">
+    <in-doc ref="20070726_syp2006_col_digest_pd_066" />
+    <reflected ref="person3" />
+  </reflection>
+  <reflection id="ref1705">
+    <in-doc ref="20070726_syp2005_col_digest_pd_053" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1706">
+    <in-doc ref="20070726_syp2005_col_digest_pd_053" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1707">
+    <in-doc ref="20070726_syp2006_col_digest_pd_069" />
+    <reflected ref="person21" />
+  </reflection>
+  <reflection id="ref1708">
+    <in-doc ref="20070726_syp2005_col_digest_pd_053" />
+    <reflected ref="p21" />
+  </reflection>
+  <reflection id="ref1709">
+    <in-doc ref="20070726_syp2005_col_digest_pd_053" />
+    <reflected ref="p22" />
+  </reflection>
+  <reflection id="ref1710">
+    <in-doc ref="20070726_syp2006_col_digest_pd_071" />
+    <reflected ref="person16" />
+  </reflection>
+  <reflection id="ref1711">
+    <in-doc ref="20070726_syp2005_col_digest_pd_054" />
+    <reflected ref="p56" />
+  </reflection>
+  <reflection id="ref1712">
+    <in-doc ref="20070726_syp2006_col_digest_pd_078" />
+    <reflected ref="p55" />
+  </reflection>
+  <reflection id="ref1713">
+    <in-doc ref="20070726_syp2006_col_digest_pd_081" />
+    <reflected ref="syp2004-p-2" />
+  </reflection>
+  <reflection id="ref1714">
+    <in-doc ref="20070726_syp2005_col_digest_pd_058" />
+    <reflected ref="syp2004-p-58" />
+  </reflection>
+  <reflection id="ref1715">
+    <in-doc ref="20070726_syp2005_col_digest_pd_058" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1716">
+    <in-doc ref="20070726_syp2006_col_digest_pd_092" />
+    <reflected ref="syp2004-p-2" />
+  </reflection>
+  <reflection id="ref1717">
+    <in-doc ref="20070726_syp2006_col_digest_pd_093" />
+    <reflected ref="syp2004-p-2" />
+  </reflection>
+  <reflection id="ref1718">
+    <in-doc ref="20070726_syp2005_col_digest_pd_061" />
+    <reflected ref="p34" />
+  </reflection>
+  <reflection id="ref1719">
+    <in-doc ref="20070726_syp2005_col_digest_pd_062" />
+    <reflected ref="p22" />
+  </reflection>
+  <reflection id="ref1720">
+    <in-doc ref="20070726_syp2005_col_digest_pd_063" />
+    <reflected ref="syp2004-p-62" />
+  </reflection>
+  <reflection id="ref1721">
+    <in-doc ref="20070726_syp2006_col_digest_pd_106" />
+    <reflected ref="p33" />
+  </reflection>
+  <reflection id="ref1722">
+    <in-doc ref="20070726_syp2005_col_digest_pd_064" />
+    <reflected ref="syp2004-p-16" />
+  </reflection>
+  <reflection id="ref1723">
+    <in-doc ref="20070726_syp2006_col_digest_pd_107" />
+    <reflected ref="p33" />
+  </reflection>
+  <reflection id="ref1724">
+    <in-doc ref="20070726_syp2005_col_digest_pd_065" />
+    <reflected ref="syp2004-p-79" />
+  </reflection>
+  <reflection id="ref1725">
+    <in-doc ref="20070726_syp2006_col_digest_pd_119" />
+    <reflected ref="p56" />
+  </reflection>
+  <reflection id="ref1726">
+    <in-doc ref="20070726_syp2005_col_digest_pd_068" />
+    <reflected ref="p53" />
+  </reflection>
+  <reflection id="ref1727">
+    <in-doc ref="20070726_syp2005_col_digest_pd_069" />
+    <reflected ref="syp2004-p-1" />
+  </reflection>
+  <reflection id="ref1728">
+    <in-doc ref="20070726_syp2006_col_digest_pd_125" />
+    <reflected ref="p55" />
+  </reflection>
+  <reflection id="ref1729">
+    <in-doc ref="20070726_syp2005_col_digest_pd_071" />
+    <reflected ref="syp2004-p-18" />
+  </reflection>
+  <reflection id="ref1730">
+    <in-doc ref="20070726_syp2005_col_digest_pd_072" />
+    <reflected ref="p20" />
+  </reflection>
+  <reflection id="ref1731">
+    <in-doc ref="20070726_syp2005_col_digest_pd_072" />
+    <reflected ref="p22" />
+  </reflection>
+  <reflection id="ref1732">
+    <in-doc ref="20070726_syp2005_col_digest_pd_072" />
+    <reflected ref="p21" />
+  </reflection>
+  <reflection id="ref1733">
+    <in-doc ref="20070726_syp2005_col_digest_pd_072" />
+    <reflected ref="p23" />
+  </reflection>
+  <reflection id="ref1734">
+    <in-doc ref="20070726_syp2006_col_digest_pd_127" />
+    <reflected ref="person61" />
+  </reflection>
+  <reflection id="ref1735">
+    <in-doc ref="20070726_syp2005_col_digest_pd_072" />
+    <reflected ref="p24" />
+  </reflection>
+  <reflection id="ref1736">
+    <in-doc ref="20070726_syp2005_col_digest_pd_072" />
+    <reflected ref="syp2004-p-2" />
+  </reflection>
+  <reflection id="ref1737">
+    <in-doc ref="20070726_syp2005_col_digest_pd_072" />
+    <reflected ref="p25" />
+  </reflection>
+  <reflection id="ref1738">
+    <in-doc ref="20070726_syp2005_col_digest_pd_072" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1739">
+    <in-doc ref="20070726_syp2005_col_digest_pd_074" />
+    <reflected ref="p23" />
+  </reflection>
+  <reflection id="ref1740">
+    <in-doc ref="20070726_syp2005_col_digest_pd_075" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1741">
+    <in-doc ref="20070726_syp2005_col_digest_pd_076" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1742">
+    <in-doc ref="20070726_syp2005_col_digest_pd_077" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="ref1743">
+    <in-doc ref="20070726_syp2005_col_digest_pd_078" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="ref1744">
+    <in-doc ref="20070726_syp2005_col_digest_pd_080" />
+    <reflected ref="syp2004-p-33" />
+  </reflection>
+  <reflection id="ref1745">
+    <in-doc ref="20070726_syp2005_col_digest_pd_081" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="ref1746">
+    <in-doc ref="20070726_syp2005_col_digest_pd_081" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1747">
+    <in-doc ref="20070726_syp2005_col_digest_pd_081" />
+    <reflected ref="syp2004-p-1" />
+  </reflection>
+  <reflection id="ref1748">
+    <in-doc ref="20070726_syp2005_col_digest_pd_081" />
+    <reflected ref="p3" />
+  </reflection>
+  <reflection id="ref1749">
+    <in-doc ref="20070726_syp2006_col_digest_pd_132" />
+    <reflected ref="person18" />
+  </reflection>
+  <reflection id="ref1750">
+    <in-doc ref="20070726_syp2005_col_digest_pd_082" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref1751">
+    <in-doc ref="20070726_syp2005_col_digest_pd_083" />
+    <reflected ref="p20" />
+  </reflection>
+  <reflection id="ref1752">
+    <in-doc ref="20070726_syp2005_col_digest_pd_086" />
+    <reflected ref="p38" />
+  </reflection>
+  <reflection id="ref1753">
+    <in-doc ref="20070726_syp2005_col_digest_pd_087" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="ref1754">
+    <in-doc ref="20070726_syp2005_col_digest_pd_089" />
+    <reflected ref="rusakova_n" />
+  </reflection>
+  <reflection id="ref1755">
+    <in-doc ref="20070726_syp2005_col_digest_pd_090" />
+    <reflected ref="p55" />
+  </reflection>
+  <reflection id="ref1756">
+    <in-doc ref="20070726_syp2005_col_digest_pd_091" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1757">
+    <in-doc ref="20070726_syp2005_col_digest_pd_092" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1758">
+    <in-doc ref="20070726_syp2005_col_digest_pd_093" />
+    <reflected ref="p44" />
+  </reflection>
+  <reflection id="ref1759">
+    <in-doc ref="20070726_syp2005_col_digest_pd_094" />
+    <reflected ref="p59" />
+  </reflection>
+  <reflection id="ref1760">
+    <in-doc ref="20070726_syp2005_col_digest_pd_100" />
+    <reflected ref="syp2004-p-5" />
+  </reflection>
+  <reflection id="ref1761">
+    <in-doc ref="20070726_syp2005_col_digest_pd_101" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="ref1762">
+    <in-doc ref="20070726_syp2005_col_digest_pd_102" />
+    <reflected ref="p58" />
+  </reflection>
+  <reflection id="ref1763">
+    <in-doc ref="20070726_syp2005_col_digest_pd_103" />
+    <reflected ref="p26" />
+  </reflection>
+  <reflection id="ref1764">
+    <in-doc ref="20070726_syp2005_col_digest_pd_104" />
+    <reflected ref="p45" />
+  </reflection>
+  <reflection id="ref1765">
+    <in-doc ref="20070726_syp2005_col_digest_pd_105" />
+    <reflected ref="syp2002-p-51" />
+  </reflection>
+  <reflection id="ref1766">
+    <in-doc ref="20070726_syp2005_col_digest_pd_106" />
+    <reflected ref="p24" />
+  </reflection>
+  <reflection id="ref1767">
+    <in-doc ref="20070726_syp2005_col_digest_pd_107" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1768">
+    <in-doc ref="20070726_syp2005_col_digest_pd_109" />
+    <reflected ref="syp2004-p-15" />
+  </reflection>
+  <reflection id="ref1769">
+    <in-doc ref="20070726_syp2005_col_digest_pd_110" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="ref1770">
+    <in-doc ref="20070726_syp2005_col_digest_pd_110" />
+    <reflected ref="p57" />
+  </reflection>
+  <reflection id="ref1771">
+    <in-doc ref="20070726_syp2005_col_digest_pd_112" />
+    <reflected ref="p57" />
+  </reflection>
+  <reflection id="ref1772">
+    <in-doc ref="20070726_syp2005_col_digest_pd_113" />
+    <reflected ref="p3" />
+  </reflection>
+  <reflection id="ref1773">
+    <in-doc ref="20070726_syp2006_col_digest_pd_001" />
+    <reflected ref="syp2004-p-13" />
+  </reflection>
+  <reflection id="ref1774">
+    <in-doc ref="20070726_syp2006_col_digest_pd_018" />
+    <reflected ref="person14" />
+  </reflection>
+  <reflection id="ref1775">
+    <in-doc ref="20070726_syp2006_col_digest_pd_022" />
+    <reflected ref="syp2004-p-61" />
+  </reflection>
+  <reflection id="ref1776">
+    <in-doc ref="20070726_syp2006_col_digest_pd_039" />
+    <reflected ref="person20_" />
+  </reflection>
+  <reflection id="ref1777">
+    <in-doc ref="20070726_syp2006_col_digest_pd_063" />
+    <reflected ref="syp2004-p-36" />
+  </reflection>
+  <reflection id="ref1778">
+    <in-doc ref="20070726_syp2006_col_digest_pd_063" />
+    <reflected ref="syp2004-p-16" />
+  </reflection>
+  <reflection id="ref1779">
+    <in-doc ref="20070726_syp2006_col_digest_pd_063" />
+    <reflected ref="person3" />
+  </reflection>
+  <reflection id="ref1780">
+    <in-doc ref="20070726_syp2006_col_digest_pd_077" />
+    <reflected ref="person51" />
+  </reflection>
+  <reflection id="ref1781">
+    <in-doc ref="20070726_syp2006_col_digest_pd_078" />
+    <reflected ref="person51" />
+  </reflection>
+  <reflection id="ref1782">
+    <in-doc ref="20070726_syp2006_col_digest_pd_112" />
+    <reflected ref="person51" />
+  </reflection>
+  <reflection id="ref1783">
+    <in-doc ref="20070726_syp2006_col_digest_pd_120" />
+    <reflected ref="person37" />
+  </reflection>
+  <reflection id="ref1784">
+    <in-doc ref="20070726_syp2006_col_digest_pd_122" />
+    <reflected ref="person5_" />
+  </reflection>
+  <reflection id="ref1785">
+    <in-doc ref="20070726_syp2006_col_digest_pd_122" />
+    <reflected ref="person37" />
+  </reflection>
+  <reflection id="ref1786">
+    <in-doc ref="20070726_syp2006_col_digest_pd_126" />
+    <reflected ref="p31" />
+  </reflection>
+  <reflection id="ref1787">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_009" />
+    <reflected ref="syp2004-p-17" />
+  </reflection>
+  <reflection id="ref1788">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_008" />
+    <reflected ref="bauer_v" />
+  </reflection>
+  <reflection id="ref1789">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_041" />
+    <reflected ref="bauer_v" />
+  </reflection>
+  <reflection id="ref1790">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_042" />
+    <reflected ref="bauer_v" />
+  </reflection>
+  <reflection id="ref1791">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_015" />
+    <reflected ref="blishkin_v" />
+  </reflection>
+  <reflection id="ref1792">
+    <in-doc ref="20070726_syp2007_col_portret12007_pd_016" />
+    <reflected ref="abramenkov_s" />
+  </reflection>
+  <reflection id="ref1793">
+    <in-doc ref="20070726_syp2007_col_portret22007_pd_011" />
+    <reflected ref="glaznev_n" />
+  </reflection>
+  <reflection id="ref1794">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_037" />
+    <reflected ref="murzin_f" />
+  </reflection>
+  <reflection id="ref1795">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_052" />
+    <reflected ref="syp2004-p-25" />
+  </reflection>
+  <reflection id="ref1796">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_066" />
+    <reflected ref="klimov_n" />
+  </reflection>
+  <reflection id="ref1797">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_069" />
+    <reflected ref="tytov_d" />
+  </reflection>
+  <reflection id="ref1798">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_035" />
+    <reflected ref="emelyanov_p" />
+  </reflection>
+  <reflection id="ref1799">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_068" />
+    <reflected ref="andrijanov_s" />
+  </reflection>
+  <reflection id="ref1800">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_072" />
+    <reflected ref="person16" />
+  </reflection>
+  <reflection id="ref1801">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_079" />
+    <reflected ref="syp2004-p-32" />
+  </reflection>
+  <reflection id="ref1802">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_081" />
+    <reflected ref="syp2001-p-khalmansky" />
+  </reflection>
+  <reflection id="ref1803">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_085" />
+    <reflected ref="sakerin_a" />
+  </reflection>
+  <reflection id="ref1804">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_002" />
+    <reflected ref="syp2004-p-17" />
+  </reflection>
+  <reflection id="ref1805">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_032" />
+    <reflected ref="syp2004-p-17" />
+  </reflection>
+  <reflection id="ref1806">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_093" />
+    <reflected ref="sakerin_v" />
+  </reflection>
+  <reflection id="ref1807">
+    <in-doc ref="20070726_syp2007_col_portret32007_pd_109" />
+    <reflected ref="syp2001-p-khalmansky" />
+  </reflection>
+  <reflection id="ref1808">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_001" />
+    <reflected ref="person60" />
+  </reflection>
+  <reflection id="ref1809">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_001" />
+    <reflected ref="person21" />
+  </reflection>
+  <reflection id="ref1810">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_003" />
+    <reflected ref="blishkin_v" />
+  </reflection>
+  <reflection id="ref1811">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_003" />
+    <reflected ref="abramenkov_s" />
+  </reflection>
+  <reflection id="ref1812">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_006" />
+    <reflected ref="glaznev_n" />
+  </reflection>
+  <reflection id="ref1813">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_007" />
+    <reflected ref="popov_b" />
+  </reflection>
+  <reflection id="ref1814">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_007" />
+    <reflected ref="p44" />
+  </reflection>
+  <reflection id="ref1815">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_009" />
+    <reflected ref="andrijanov_s" />
+  </reflection>
+  <reflection id="ref1816">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_009" />
+    <reflected ref="klimov_n" />
+  </reflection>
+  <reflection id="ref1817">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_010" />
+    <reflected ref="tytov_d" />
+  </reflection>
+  <reflection id="ref1818">
+    <in-doc ref="20070726_syp2007_col_masterskie2007_pd_013" />
+    <reflected ref="syp2004-p-33" />
+  </reflection>
+  <reflection id="ref1819">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_003" />
+    <reflected ref="syp2004-p-18" />
+  </reflection>
+  <reflection id="ref1820">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_004" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1821">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_004" />
+    <reflected ref="syp2002-p-61" />
+  </reflection>
+  <reflection id="ref1822">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_006" />
+    <reflected ref="p60" />
+  </reflection>
+  <reflection id="ref1823">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_006" />
+    <reflected ref="sakerin_a" />
+  </reflection>
+  <reflection id="ref1824">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_006" />
+    <reflected ref="p3" />
+  </reflection>
+  <reflection id="ref1825">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_006" />
+    <reflected ref="luchkina_a" />
+  </reflection>
+  <reflection id="ref1826">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_006" />
+    <reflected ref="tchursin_n" />
+  </reflection>
+  <reflection id="ref1827">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_006" />
+    <reflected ref="glaznev_n" />
+  </reflection>
+  <reflection id="ref1828">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_006" />
+    <reflected ref="samerzeva_l" />
+  </reflection>
+  <reflection id="ref1829">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_006" />
+    <reflected ref="p37" />
+  </reflection>
+  <reflection id="ref1830">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_006" />
+    <reflected ref="p59" />
+  </reflection>
+  <reflection id="ref1831">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_006" />
+    <reflected ref="p38" />
+  </reflection>
+  <reflection id="ref1832">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_007" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="ref1833">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_014" />
+    <reflected ref="syp2004-p-17" />
+  </reflection>
+  <reflection id="ref1834">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_016" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1835">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_015" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1836">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_017" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1837">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_017" />
+    <reflected ref="kazanceva_a" />
+  </reflection>
+  <reflection id="ref1838">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_028" />
+    <reflected ref="bauer_v" />
+  </reflection>
+  <reflection id="ref1839">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_028" />
+    <reflected ref="jirov_a" />
+  </reflection>
+  <reflection id="ref1840">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_028" />
+    <reflected ref="p45" />
+  </reflection>
+  <reflection id="ref1841">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_028" />
+    <reflected ref="saizev_v" />
+  </reflection>
+  <reflection id="ref1842">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_029" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1843">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_002" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1844">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_004" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1845">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_005" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1846">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_006" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1847">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_007" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1848">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_008" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1849">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_009" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1850">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_001" />
+    <reflected ref="syp2001-p-kolodin" />
+  </reflection>
+  <reflection id="ref1851">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_010" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1852">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_011" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1853">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_012" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1854">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_013" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1855">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_014" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1856">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_017" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1857">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_018" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1858">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_020" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1859">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_034" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="ref1860">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_021" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1861">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_022" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1862">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_025" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1863">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_013" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1864">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_026" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1865">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_014" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1866">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_015" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1867">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_016" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref1868">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_030" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1869">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_031" />
+    <reflected ref="person65" />
+  </reflection>
+  <reflection id="ref1870">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_031" />
+    <reflected ref="samerzeva_l" />
+  </reflection>
+  <reflection id="ref1871">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_028" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1872">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_031" />
+    <reflected ref="person11" />
+  </reflection>
+  <reflection id="ref1873">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_031" />
+    <reflected ref="dobronravova_l" />
+  </reflection>
+  <reflection id="ref1874">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_031" />
+    <reflected ref="koshkarev_a" />
+  </reflection>
+  <reflection id="ref1875">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_031" />
+    <reflected ref="Voronov_a" />
+  </reflection>
+  <reflection id="ref1876">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_031" />
+    <reflected ref="person57" />
+  </reflection>
+  <reflection id="ref1877">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_031" />
+    <reflected ref="syp2004-p-9" />
+  </reflection>
+  <reflection id="ref1878">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_041" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1879">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_040" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref1880">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_034" />
+    <reflected ref="koshkarev_a" />
+  </reflection>
+  <reflection id="ref1881">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_038" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1882">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_034" />
+    <reflected ref="dobronravova_l" />
+  </reflection>
+  <reflection id="ref1883">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_036" />
+    <reflected ref="WebDB" />
+  </reflection>
+  <reflection id="ref1884">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_036" />
+    <reflected ref="person57" />
+  </reflection>
+  <reflection id="ref1885">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_036" />
+    <reflected ref="Voronov_a" />
+  </reflection>
+  <reflection id="ref1886">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_036" />
+    <reflected ref="person65" />
+  </reflection>
+  <reflection id="ref1887">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_036" />
+    <reflected ref="dobronravova_l" />
+  </reflection>
+  <reflection id="ref1888">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_036" />
+    <reflected ref="person11" />
+  </reflection>
+  <reflection id="ref1889">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_036" />
+    <reflected ref="syp2004-p-9" />
+  </reflection>
+  <reflection id="ref1890">
+    <in-doc ref="20070726_syp2001_col_learnwork_pd_005" />
+    <reflected ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="ref1891">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_037" />
+    <reflected ref="WebDB" />
+  </reflection>
+  <reflection id="ref1892">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_037" />
+    <reflected ref="person57" />
+  </reflection>
+  <reflection id="ref1893">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_037" />
+    <reflected ref="person65" />
+  </reflection>
+  <reflection id="ref1894">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_037" />
+    <reflected ref="syp2004-p-9" />
+  </reflection>
+  <reflection id="ref1895">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_037" />
+    <reflected ref="Voronov_a" />
+  </reflection>
+  <reflection id="ref1896">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_037" />
+    <reflected ref="dobronravova_l" />
+  </reflection>
+  <reflection id="ref1897">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_039" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1898">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_040" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1899">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_041" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1900">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_044" />
+    <reflected ref="salmin_a" />
+  </reflection>
+  <reflection id="ref1901">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_044" />
+    <reflected ref="person_1" />
+  </reflection>
+  <reflection id="ref1902">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_044" />
+    <reflected ref="syp2009_p79" />
+  </reflection>
+  <reflection id="ref1903">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_044" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1904">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_044" />
+    <reflected ref="person19" />
+  </reflection>
+  <reflection id="ref1905">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_044" />
+    <reflected ref="person13_" />
+  </reflection>
+  <reflection id="ref1906">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_045" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1907">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_046" />
+    <reflected ref="andrijanov_s" />
+  </reflection>
+  <reflection id="ref1908">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_046" />
+    <reflected ref="syp2004-p-6" />
+  </reflection>
+  <reflection id="ref1909">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_046" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1910">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_047" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1911">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_048" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1912">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_049" />
+    <reflected ref="gornostalev_d" />
+  </reflection>
+  <reflection id="ref1913">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_050" />
+    <reflected ref="gornostalev_d" />
+  </reflection>
+  <reflection id="ref1914">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="person21" />
+  </reflection>
+  <reflection id="ref1915">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="kuzkokov_s" />
+  </reflection>
+  <reflection id="ref1916">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="gornostalev_d" />
+  </reflection>
+  <reflection id="ref1917">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1918">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_055" />
+    <reflected ref="AI" />
+  </reflection>
+  <reflection id="ref1919">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_059" />
+    <reflected ref="andrijanov_s" />
+  </reflection>
+  <reflection id="ref1920">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_060" />
+    <reflected ref="andrijanov_s" />
+  </reflection>
+  <reflection id="ref1921">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_062" />
+    <reflected ref="popov_b" />
+  </reflection>
+  <reflection id="ref1922">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_062" />
+    <reflected ref="p44" />
+  </reflection>
+  <reflection id="ref1923">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_066" />
+    <reflected ref="syp2001-p-khalmansky" />
+  </reflection>
+  <reflection id="ref1924">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_066" />
+    <reflected ref="morozov_a" />
+  </reflection>
+  <reflection id="ref1925">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="sologub_d" />
+  </reflection>
+  <reflection id="ref1926">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_052" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1927">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_070" />
+    <reflected ref="AI" />
+  </reflection>
+  <reflection id="ref1928">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_073" />
+    <reflected ref="p6" />
+  </reflection>
+  <reflection id="ref1929">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_073" />
+    <reflected ref="solovyev_v" />
+  </reflection>
+  <reflection id="ref1930">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_073" />
+    <reflected ref="p87" />
+  </reflection>
+  <reflection id="ref1931">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_076" />
+    <reflected ref="p23" />
+  </reflection>
+  <reflection id="ref1932">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_078" />
+    <reflected ref="andrijanov_s" />
+  </reflection>
+  <reflection id="ref1933">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_079" />
+    <reflected ref="andrijanov_s" />
+  </reflection>
+  <reflection id="ref1934">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_079" />
+    <reflected ref="nemov_s" />
+  </reflection>
+  <reflection id="ref1935">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_079" />
+    <reflected ref="klimov_n" />
+  </reflection>
+  <reflection id="ref1936">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_080" />
+    <reflected ref="syp2004-p-1" />
+  </reflection>
+  <reflection id="ref1937">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_080" />
+    <reflected ref="klimov_n" />
+  </reflection>
+  <reflection id="ref1938">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_080" />
+    <reflected ref="huffman" />
+  </reflection>
+  <reflection id="ref1939">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_079" />
+    <reflected ref="huffman" />
+  </reflection>
+  <reflection id="ref1940">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_081" />
+    <reflected ref="blishkin_v" />
+  </reflection>
+  <reflection id="ref1941">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_083" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1942">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_084" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1943">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_085" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1944">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_098" />
+    <reflected ref="abramenkov_s" />
+  </reflection>
+  <reflection id="ref1945">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_098" />
+    <reflected ref="andrijanov_s" />
+  </reflection>
+  <reflection id="ref1946">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_099" />
+    <reflected ref="andrijanov_s" />
+  </reflection>
+  <reflection id="ref1947">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_100" />
+    <reflected ref="andrijanov_s" />
+  </reflection>
+  <reflection id="ref1948">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_103" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1949">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_109" />
+    <reflected ref="andrijanov_s" />
+  </reflection>
+  <reflection id="ref1950">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_111" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1951">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_112" />
+    <reflected ref="popov_b" />
+  </reflection>
+  <reflection id="ref1952">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_112" />
+    <reflected ref="p3" />
+  </reflection>
+  <reflection id="ref1953">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_113" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1954">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_114" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1955">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_115" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1956">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_116" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1957">
+    <in-doc ref="20070726_syp2007_col_otdyh2007_pd_117" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1958">
+    <in-doc ref="20070726_syp2007_col_peizagi_pd_001" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1959">
+    <in-doc ref="20070726_syp2007_col_peizagi_pd_002" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1960">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_001" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1961">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_002" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1962">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_004" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1963">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_007" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1964">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_019" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1965">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_022" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1966">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_023" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1967">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_024" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1968">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_027" />
+    <reflected ref="smirnov_p" />
+  </reflection>
+  <reflection id="ref1969">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_027" />
+    <reflected ref="koval_d" />
+  </reflection>
+  <reflection id="ref1970">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_027" />
+    <reflected ref="person17" />
+  </reflection>
+  <reflection id="ref1971">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_028" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref1972">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_030" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1973">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_031" />
+    <reflected ref="syp2004-p-33" />
+  </reflection>
+  <reflection id="ref1974">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_044" />
+    <reflected ref="bauer_v" />
+  </reflection>
+  <reflection id="ref1975">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_046" />
+    <reflected ref="syp2004-p-33" />
+  </reflection>
+  <reflection id="ref1976">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_047" />
+    <reflected ref="sakerin_a" />
+  </reflection>
+  <reflection id="ref1977">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_047" />
+    <reflected ref="tytov_d" />
+  </reflection>
+  <reflection id="ref1978">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_047" />
+    <reflected ref="p37" />
+  </reflection>
+  <reflection id="ref1979">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_047" />
+    <reflected ref="person16" />
+  </reflection>
+  <reflection id="ref1980">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_048" />
+    <reflected ref="sakerin_a" />
+  </reflection>
+  <reflection id="ref1981">
+    <in-doc ref="20070726_syp2007_col_rabota_i_y4eba2007_pd_048" />
+    <reflected ref="person16" />
+  </reflection>
+  <reflection id="ref1982">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_003" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1983">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_016" />
+    <reflected ref="bauer_v" />
+  </reflection>
+  <reflection id="ref1984">
+    <in-doc ref="20070726_syp2007_col_raznoe2007_pd_021" />
+    <reflected ref="syp2007" />
+  </reflection>
+  <reflection id="ref1985">
+    <in-doc ref="20070726_syp2006_col_digest_pd_002" />
+    <reflected ref="person25" />
+  </reflection>
+  <reflection id="ref1986">
+    <in-doc ref="20070726_syp2006_col_digest_pd_003" />
+    <reflected ref="person25" />
+  </reflection>
+  <reflection id="ref1987">
+    <in-doc ref="20070726_syp2006_col_digest_pd_014" />
+    <reflected ref="person37" />
+  </reflection>
+  <reflection id="ref1988">
+    <in-doc ref="20070726_syp2006_col_digest_pd_095" />
+    <reflected ref="syp2005" />
+  </reflection>
+  <reflection id="ref1989">
+    <in-doc ref="20070726_syp2006_col_digest_pd_100" />
+    <reflected ref="novokreshenoff_l" />
+  </reflection>
+  <reflection id="ref1990">
+    <in-doc ref="20070726_syp2006_col_digest_pd_104" />
+    <reflected ref="school2006" />
+  </reflection>
+  <reflection id="ref1991">
+    <in-doc ref="20070726_syp2006_col_digest_pd_096" />
+    <reflected ref="school2006" />
+  </reflection>
+  <reflection id="ref1992">
+    <in-doc ref="20070726_syp2006_col_digest_pd_097" />
+    <reflected ref="school2006" />
+  </reflection>
+  <reflection id="ref1993">
+    <in-doc ref="20070726_syp2006_col_digest_pd_105" />
+    <reflected ref="school2006" />
+  </reflection>
+  <reflection id="ref1994">
+    <in-doc ref="20070726_syp2006_col_digest_pd_108" />
+    <reflected ref="school2006" />
+  </reflection>
+  <reflection id="ref1995">
+    <in-doc ref="20070726_syp2006_col_digest_pd_109" />
+    <reflected ref="school2006" />
+  </reflection>
+  <reflection id="ref1996">
+    <in-doc ref="20070726_syp2006_col_digest_pd_111" />
+    <reflected ref="school2006" />
+  </reflection>
+  <reflection id="ref1997">
+    <in-doc ref="20070726_syp2005_col_digest_pd_001" />
+    <reflected ref="p20" />
+  </reflection>
+  <reflection id="ref1998">
+    <in-doc ref="20070726_syp2005_col_digest_pd_020" />
+    <reflected ref="syp2005" />
+  </reflection>
+  <reflection id="ref1999">
+    <in-doc ref="20070726_syp2005_col_digest_pd_023" />
+    <reflected ref="syp2005" />
+  </reflection>
+  <reflection id="ref2000">
+    <in-doc ref="20070726_syp2005_col_digest_pd_024" />
+    <reflected ref="syp2005" />
+  </reflection>
+  <reflection id="ref2001">
+    <in-doc ref="20070726_syp2005_col_digest_pd_025" />
+    <reflected ref="syp2005" />
+  </reflection>
+  <reflection id="ref2002">
+    <in-doc ref="20070726_syp2005_col_digest_pd_026" />
+    <reflected ref="syp2005" />
+  </reflection>
+  <reflection id="ref2003">
+    <in-doc ref="20070726_syp2005_col_digest_pd_027" />
+    <reflected ref="syp2005" />
+  </reflection>
+  <reflection id="ref2004">
+    <in-doc ref="20070726_syp2005_col_digest_pd_028" />
+    <reflected ref="syp2005" />
+  </reflection>
+  <reflection id="ref2005">
+    <in-doc ref="20070726_syp2005_col_digest_pd_029" />
+    <reflected ref="syp2005" />
+  </reflection>
+  <reflection id="ref2006">
+    <in-doc ref="20070726_syp2005_col_digest_pd_032" />
+    <reflected ref="syp2005" />
+  </reflection>
+  <reflection id="ref2007">
+    <in-doc ref="20070726_syp2005_col_digest_pd_044" />
+    <reflected ref="syp2005" />
+  </reflection>
+  <reflection id="ref2008">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_007" />
+    <reflected ref="syp2001-p-gorodnyaya" />
+  </reflection>
+  <reflection id="ref2009">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_008" />
+    <reflected ref="syp2001-p-yushkova" />
+  </reflection>
+  <reflection id="ref2010">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_008" />
+    <reflected ref="syp2001-p-polyakova_e" />
+  </reflection>
+  <reflection id="ref2011">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_009" />
+    <reflected ref="syp2001-p-polyakova_a" />
+  </reflection>
+  <reflection id="ref2012">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_002" />
+    <reflected ref="syp2001-p-root" />
+  </reflection>
+  <reflection id="ref2013">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_010" />
+    <reflected ref="syp2001-p-dortman" />
+  </reflection>
+  <reflection id="ref2014">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_012" />
+    <reflected ref="syp2001-p-bobrik" />
+  </reflection>
+  <reflection id="ref2015">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_013" />
+    <reflected ref="syp2001-p-faktorovich" />
+  </reflection>
+  <reflection id="ref2016">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_025" />
+    <reflected ref="syp2001-p-kateshov" />
+  </reflection>
+  <reflection id="ref2017">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_027" />
+    <reflected ref="syp2001-p-dortman" />
+  </reflection>
+  <reflection id="ref2018">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_029" />
+    <reflected ref="syp2001-p-khalmansky" />
+  </reflection>
+  <reflection id="ref2019">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_030" />
+    <reflected ref="syp2001-p-rabinovich" />
+  </reflection>
+  <reflection id="ref2020">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_030" />
+    <reflected ref="syp2001-p-drobyshevich_o" />
+  </reflection>
+  <reflection id="ref2021">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_031" />
+    <reflected ref="syp2001-p-kalinina" />
+  </reflection>
+  <reflection id="ref2022">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_032" />
+    <reflected ref="syp2001-p-lystsov" />
+  </reflection>
+  <reflection id="ref2023">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_033" />
+    <reflected ref="syp2001-p-kudryavtseva" />
+  </reflection>
+  <reflection id="ref2024">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_035" />
+    <reflected ref="syp2001-p-smolyak" />
+  </reflection>
+  <reflection id="ref2025">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_040" />
+    <reflected ref="syp2001-p-smolyak" />
+  </reflection>
+  <reflection id="ref2026">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_042" />
+    <reflected ref="syp2001-p-zanina" />
+  </reflection>
+  <reflection id="ref2027">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_039" />
+    <reflected ref="syp2001-p-zanina" />
+  </reflection>
+  <reflection id="ref2028">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_036" />
+    <reflected ref="syp2001-p-luzin" />
+  </reflection>
+  <reflection id="ref2029">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_022" />
+    <reflected ref="syp2001-p-luzin" />
+  </reflection>
+  <reflection id="ref2030">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_002" />
+    <reflected ref="syp2001-p-ilduganov" />
+  </reflection>
+  <reflection id="ref2031">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_002" />
+    <reflected ref="syp2001-p-dortman" />
+  </reflection>
+  <reflection id="ref2032">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_002" />
+    <reflected ref="syp2001-p-potapenko" />
+  </reflection>
+  <reflection id="ref2033">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_002" />
+    <reflected ref="syp2001-p-shpitalev" />
+  </reflection>
+  <reflection id="ref2034">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_002" />
+    <reflected ref="syp2001-p-zanin" />
+  </reflection>
+  <reflection id="ref2035">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_006" />
+    <reflected ref="syp2001-p-legchenko" />
+  </reflection>
+  <reflection id="ref2036">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_006" />
+    <reflected ref="syp2001-p-ermakov" />
+  </reflection>
+  <reflection id="ref2037">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_006" />
+    <reflected ref="syp2001-p-kolodin" />
+  </reflection>
+  <reflection id="ref2038">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_007" />
+    <reflected ref="syp2001-p-sosedkina" />
+  </reflection>
+  <reflection id="ref2039">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_007" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref2040">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_007" />
+    <reflected ref="syp2001-p-vodopyanov" />
+  </reflection>
+  <reflection id="ref2041">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_007" />
+    <reflected ref="syp2001-p-polyakova_a" />
+  </reflection>
+  <reflection id="ref2042">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_007" />
+    <reflected ref="syp2001-p-sosedkin" />
+  </reflection>
+  <reflection id="ref2043">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_008" />
+    <reflected ref="syp2001-p-vodopyanov" />
+  </reflection>
+  <reflection id="ref2044">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_010" />
+    <reflected ref="syp2001-p-kalinina" />
+  </reflection>
+  <reflection id="ref2045">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_011" />
+    <reflected ref="syp2001-p-gorodnyaya" />
+  </reflection>
+  <reflection id="ref2046">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_011" />
+    <reflected ref="syp2001-p-siparenko" />
+  </reflection>
+  <reflection id="ref2047">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_011" />
+    <reflected ref="syp2001-p-polyakova_e" />
+  </reflection>
+  <reflection id="ref2048">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_011" />
+    <reflected ref="syp2001-p-yushkova" />
+  </reflection>
+  <reflection id="ref2049">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_007" />
+    <reflected ref="syp2001-p-yushkov" />
+  </reflection>
+  <reflection id="ref2050">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_012" />
+    <reflected ref="syp2001-p-root" />
+  </reflection>
+  <reflection id="ref2051">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_013" />
+    <reflected ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="ref2052">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_013" />
+    <reflected ref="syp2001-p-bobrik" />
+  </reflection>
+  <reflection id="ref2053">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_013" />
+    <reflected ref="syp2001-p-yushkov" />
+  </reflection>
+  <reflection id="ref2054">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_013" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref2055">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_013" />
+    <reflected ref="syp2001-p-vodopyanov" />
+  </reflection>
+  <reflection id="ref2056">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_013" />
+    <reflected ref="syp2001-p-polyakova_a" />
+  </reflection>
+  <reflection id="ref2057">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_004" />
+    <reflected ref="syp2001-p-fomina" />
+  </reflection>
+  <reflection id="ref2058">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_005" />
+    <reflected ref="syp2001-p-kolesnikov" />
+  </reflection>
+  <reflection id="ref2059">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_006" />
+    <reflected ref="syp2001-p-banin" />
+  </reflection>
+  <reflection id="ref2060">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_010" />
+    <reflected ref="syp2001-p-pozdnyakov" />
+  </reflection>
+  <reflection id="ref2061">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_011" />
+    <reflected ref="syp2001-p-pozdnyakov" />
+  </reflection>
+  <reflection id="ref2062">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_017" />
+    <reflected ref="syp2001-p-kuznetsov" />
+  </reflection>
+  <reflection id="ref2063">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_018" />
+    <reflected ref="syp2001-p-banin" />
+  </reflection>
+  <reflection id="ref2064">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_020" />
+    <reflected ref="syp2001-p-kolesnikov" />
+  </reflection>
+  <reflection id="ref2065">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_021" />
+    <reflected ref="syp2001-p-kolesnikov" />
+  </reflection>
+  <reflection id="ref2066">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_021" />
+    <reflected ref="syp2001-p-banin" />
+  </reflection>
+  <reflection id="ref2067">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_023" />
+    <reflected ref="syp2001-p-ivanov_a" />
+  </reflection>
+  <reflection id="ref2068">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_026" />
+    <reflected ref="syp2001-p-banin" />
+  </reflection>
+  <reflection id="ref2069">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_026" />
+    <reflected ref="syp2001-p-kolesnikov" />
+  </reflection>
+  <reflection id="ref2070">
+    <in-doc ref="20070726_syp2001_col_portraits_pd_038" />
+    <reflected ref="syp2001-p-zaytsev" />
+  </reflection>
+  <reflection id="ref2071">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_001" />
+    <reflected ref="syp2001school" />
+  </reflection>
+  <reflection id="ref2072">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_001" />
+    <reflected ref="syp2001-p-vdovin" />
+  </reflection>
+  <reflection id="ref2073">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_003" />
+    <reflected ref="syp2001-p-baehrs" />
+  </reflection>
+  <reflection id="ref2074">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_003" />
+    <reflected ref="syp2001-p-gorodnyaya" />
+  </reflection>
+  <reflection id="ref2075">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_003" />
+    <reflected ref="syp2001-p-dortman" />
+  </reflection>
+  <reflection id="ref2076">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_003" />
+    <reflected ref="syp2001-p-potapenko" />
+  </reflection>
+  <reflection id="ref2077">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_003" />
+    <reflected ref="syp2001-p-shpitalev" />
+  </reflection>
+  <reflection id="ref2078">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_003" />
+    <reflected ref="syp2001-p-bobrik" />
+  </reflection>
+  <reflection id="ref2079">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_004" />
+    <reflected ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="ref2080">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_004" />
+    <reflected ref="syp2001-p-zaytsev" />
+  </reflection>
+  <reflection id="ref2081">
+    <in-doc ref="20070726_syp2001_col_mastersk_pd_004" />
+    <reflected ref="syp2001-p-zaytsev" />
+  </reflection>
+</db>
