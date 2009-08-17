@@ -11,7 +11,7 @@
 
     private void Page_Load(object sender, System.EventArgs e)
     {
-     //   int StartTime = nowmillisecs();
+        int StartTime = nowmillisecs();
         NameValueCollection pcoll = new NameValueCollection();
         XsltArgumentList alist = new XsltArgumentList();
         pcoll.Add(this.Request.QueryString);
@@ -21,43 +21,30 @@
         if (pcoll["type"] != null) alist.AddParam("type", "", pcoll["type"]);
         if (pcoll["search"] != null) alist.AddParam("search", "", pcoll["search"]);
 
-        if (pcoll["style"]!=null)
-        {
-            Response.Cookies["style_cook"].Value = pcoll["style"];
-            alist.AddParam("style", "", Response.Cookies["style_cook"].Value);
-        } else
-        {
-            if (Request.Cookies["style_cook"] != null)
-            {
-                alist.AddParam("style", "", Request.Cookies["style_cook"].Value);
-            }
-            else
-            {
-                Response.Cookies["style_cook"].Value = "blue";
+        if (pcoll["style"]!=null) {   // Setting style
+            Response.Cookies["style"].Value = pcoll["style"];
+            alist.AddParam("style", "", Response.Cookies["style"].Value);
+        } else {
+            if (Request.Cookies["style"] != null) {
+                alist.AddParam("style", "", Request.Cookies["style"].Value);
+            } else {
+                Response.Cookies["style"].Value = "blue";
                 alist.AddParam("style", "", "blue");
             }
         }
 
-        if (pcoll["size"] != null)
-        {
-            Response.Cookies["size_cook"].Value = pcoll["size"];
-            alist.AddParam("size", "", Response.Cookies["size_cook"].Value);
-        }
-        else
-        {
-            if (Request.Cookies["size_cook"] != null)
-            {
-                alist.AddParam("size", "", Request.Cookies["size_cook"].Value);
-            }
-            else
-            {
-                Response.Cookies["size_cook"].Value = "normal";
+        if (pcoll["size"] != null) {  // Setting font size
+            Response.Cookies["size"].Value = pcoll["size"];
+            alist.AddParam("size", "", Response.Cookies["size"].Value);
+        } else {
+            if (Request.Cookies["size"] != null) {
+                alist.AddParam("size", "", Request.Cookies["size"].Value);
+            } else {
+                Response.Cookies["size"].Value = "normal";
                 alist.AddParam("size", "", "normal");
             }
         }
-        
-        
-        
+         
         Response.ContentType = "text/html";
 
 
@@ -70,9 +57,10 @@
 
         transformer = Application["transformer"] as XslCompiledTransform;
         xpdoc = Application["xpdoc"] as XPathDocument;
+        
         if ((xpdoc == null) || (transformer == null))
         {
-           // LogLine("Loading data", Server.MapPath("log.txt"));
+            LogLine("Loading data", Server.MapPath("log.txt"));
             transformer = new XslCompiledTransform();
             xdoc = new XmlDocument();
             data = xdoc.CreateElement("data");
@@ -85,17 +73,17 @@
 
         transformer.Transform(xpdoc, alist, Response.Output);
 
-       // int FinishTime = nowmillisecs();
+        int FinishTime = nowmillisecs();
 
-      //  LogLine("" + (FinishTime - StartTime) + " ms.", Server.MapPath("log.txt"));
+        LogLine("" + (FinishTime - StartTime) + " ms.", Server.MapPath("log.txt"));
     }
- /*   private static void LogLine(string s, string path)
+    private static void LogLine(string s, string path)
     {
         System.IO.StreamWriter sw = System.IO.File.AppendText(path);
         sw.WriteLine(s);
         sw.Close();
     }
-  */
+  
     private void LoadBase(XmlDocument xdoc, XmlElement data)
     {
         string path = Server.MapPath("XML/");
