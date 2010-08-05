@@ -55,8 +55,9 @@
         XslCompiledTransform transformer = null;
         XPathDocument xpdoc = null;
 
-        transformer = Application["transformer"] as XslCompiledTransform;
-        xpdoc = Application["xpdoc"] as XPathDocument;
+       //we don't need caching now 
+       // transformer = Application["transformer"] as XslCompiledTransform;
+       // xpdoc = Application["xpdoc"] as XPathDocument;
         
         if ((xpdoc == null) || (transformer == null))
         {
@@ -99,6 +100,7 @@
             
             xdoc.Load(path+finfo.Name);
             data.AppendChild(xdoc.DocumentElement);
+            LogLine(finfo.Name, Server.MapPath("log.txt"));
         }
         foreach (DirectoryInfo difo in ourDir.GetDirectories())
         {

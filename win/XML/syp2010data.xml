@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<db id="syp2010data">
+  <mastersk id="3d-simulyation_2010">
+    <name>Интерактивный физический 3D-симулятор: проектируем и создаем сложные управляемые модели.</name>
+  </mastersk>
+  <mastersk id="CCC_2010">
+    <name>C Code Coverage (CCC)</name>
+  </mastersk>
+  <mastersk id="arshivator_2010">
+    <name>Архиватор на Erlang</name>
+  </mastersk>
+  <mastersk id="fractal_2010">
+    <name>Фрактальная графика</name>
+  </mastersk>
+  <mastersk id="flash_2010">
+    <name>AI for kids</name>
+  </mastersk>
+  <mastersk id="game on java_2010">
+    <name>Разработка логических игр на Java</name>
+  </mastersk>
+  <mastersk id="sonya_2010">
+    <name>Умненькая Соня</name>
+  </mastersk>
+  <mastersk id="web-server_2010">
+    <name>Web-сервер на Perl</name>
+  </mastersk>
+  <mastersk id="socialnaya set_2010">
+    <name>Социальная сеть нового поколения</name>
+  </mastersk>
+  <mastersk id="mastersk10_2010">
+    <name>Scratch</name>
+  </mastersk>
+  <mastersk id="phisic_2010">
+    <name>Лаборатория у вас на столе</name>
+  </mastersk>
+  <mastersk id="CMS_2010">
+    <name>Конструктор сайтов</name>
+  </mastersk>
+  <mastersk id="setevie tehn_2010">
+    <name>Сетевые технологии</name>
+  </mastersk>
+  <mastersk id="compilyator_2010">
+    <name>Компиляторы</name>
+  </mastersk>
+  <mastersk id="language C_2010">
+    <name>Язык C + пресс-центр</name>
+  </mastersk>
+</db>

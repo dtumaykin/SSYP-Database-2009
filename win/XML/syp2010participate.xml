@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<db docid="syp2010participate">
+  <participate>
+    <subject ref="syp2009_p85" />
+    <object ref="3d-simulyation_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="1e103556-bf37-4dfb-909b-839efbd0db87" />
+    <object ref="3d-simulyation_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="a3fbb47c-e901-4414-bda6-6f760f3c93e8" />
+    <object ref="3d-simulyation_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="p23" />
+    <object ref="3d-simulyation_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="person20" />
+    <object ref="3d-simulyation_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="5c8f14ce-6a53-4ea2-9cfa-d934a6f712ba" />
+    <object ref="3d-simulyation_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="p25" />
+    <object ref="3d-simulyation_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p1" />
+    <object ref="3d-simulyation_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2001-p-pokrovskaya" />
+    <object ref="3d-simulyation_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="person17" />
+    <object ref="3d-simulyation_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p87" />
+    <object ref="3d-simulyation_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p5" />
+    <object ref="3d-simulyation_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="person_1" />
+    <object ref="arshivator_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2001-p-banin" />
+    <object ref="arshivator_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="kuzkokov_s" />
+    <object ref="arshivator_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="person19" />
+    <object ref="arshivator_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="smirnov_p" />
+    <object ref="arshivator_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="person60" />
+    <object ref="arshivator_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="rusakova_n" />
+    <object ref="fraktal_2009" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p10" />
+    <object ref="fraktal_2009" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="83f05f08-f2c2-4c44-b296-e183aebbc27f" />
+    <object ref="fraktal_2009" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="6d48dacd-2eac-47ca-be27-6cf2a56e9532" />
+    <object ref="fraktal_2009" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="692c8d24-16dc-4545-b4bc-70e1bcb0b9ed" />
+    <object ref="fraktal_2009" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2008_1118" />
+    <object ref="fraktal_2009" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2008_1182" />
+    <object ref="flash_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="c8caf3b3-3d2a-40c6-a3c2-ca2a035fb6fc" />
+    <object ref="flash_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="e964945c-b182-491c-b8f0-88f2c9812a75" />
+    <object ref="flash_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="koval_d" />
+    <object ref="flash_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2001-p-marchuk_a" />
+    <object ref="flash_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p35" />
+    <object ref="flash_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p36" />
+    <object ref="flash_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="p6" />
+    <object ref="game on java_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="kazanceva_n" />
+    <object ref="game on java_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="92da2e04-21f3-40ce-aecc-e21ba8d5c789" />
+    <object ref="game on java_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p83" />
+    <object ref="game on java_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2001-p-marchuk_a" />
+    <object ref="sonya_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="2e71c343-b28a-4809-ad23-7d99a6535c19" />
+    <object ref="sonya_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p90" />
+    <object ref="sonya_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="gornostalev_d" />
+    <object ref="sonya_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="0b5d0d4b-b1ca-4649-8165-4c270e178975" />
+    <object ref="sonya_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2008_1157" />
+    <object ref="sonya_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="9a014a84-5cf6-4a05-9450-0366bb842588" />
+    <object ref="sonya_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p43" />
+    <object ref="sonya_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="salmin_a" />
+    <object ref="web-server_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="3de47478-5046-47cd-949d-91c11c332543" />
+    <object ref="web-server_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="p22" />
+    <object ref="web-server_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="morozov_a" />
+    <object ref="web-server_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="person21" />
+    <object ref="web-server_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="29361fe6-e9ec-435f-b7bc-682c8846d8b2" />
+    <object ref="web-server_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="sherbina_s" />
+    <object ref="socialnetwork08" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2002-p-17" />
+    <object ref="socialnetwork08" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p32" />
+    <object ref="socialnetwork08" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="p21" />
+    <object ref="socialnetwork08" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p27" />
+    <object ref="socialnetwork08" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="kazanceva_a" />
+    <object ref="socialnetwork08" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="e8a58704-ba11-4c35-a9be-96ff1b125fcb" />
+    <object ref="socialnetwork08" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="sologub_d" />
+    <object ref="socialnetwork08" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="tytov_d" />
+    <object ref="socialnetwork08" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="f54ef02c-2003-468a-aa72-a514cc41eef1" />
+    <object ref="socialnetwork08" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="person13_" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="b0b970a6-2b85-41e1-abae-9b7bac463598" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="53500b32-d31b-4b33-a797-b6d50f095750" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="c5ac604c-a214-448b-b276-c6baa234ff4e" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p13" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="4965385c-0fb7-4534-8de1-aff31cd463aa" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="sakerin_v" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="3833f68f-713e-4c8e-96e4-966d0ff14ce3" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="ac0c4b42-b527-43f4-9254-8b3b578a5d1f" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p58" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="4b525a94-626c-4c67-8ce7-40122f3ceaed" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="3d06540c-678a-442d-874d-d533c992cb70" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="a553b2f9-88a3-453a-b385-7e13dd2374aa" />
+    <object ref="mastersk10_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="sakerin_a" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p68" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="18651416-f4df-44d1-9637-2f6ec3decaec" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="person15" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="pichuev_a" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="bf8d7281-30e9-48a8-a256-e364e337c7ab" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p14" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="b500dd07-3732-4adf-bf10-b45efe134538" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="person11" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="bauer_v" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="zyulyaev_n" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p57" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2008_1130" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="person16" />
+    <object ref="CMS_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2001-p-nasibulov" />
+    <object ref="mast7" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2004-p-5" />
+    <object ref="mast7" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p56" />
+    <object ref="mast7" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="bc62ac09-ba29-4daf-bf17-c264ed9157b0" />
+    <object ref="mast7" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="kovalioff_d" />
+    <object ref="mast7" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="a1847b2d-f3a3-4af4-ad46-e76ec8133479" />
+    <object ref="mast7" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="p24" />
+    <object ref="mast7" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p94" />
+    <object ref="language C_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="syp2009_p33" />
+    <object ref="language C_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="4d282c2f-7324-4c26-911b-4facb6243a95" />
+    <object ref="language C_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="a4fedecd-88fe-43d6-a4b0-cc6e7bc53283" />
+    <object ref="language C_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="e0a8251c-9212-40fd-b7cd-2d25613473ca" />
+    <object ref="language C_2010" />
+    <details>участвует</details>
+  </participate>
+  <participate>
+    <subject ref="9e44cb7c-fd56-4f8b-a6bf-e1fb73fb4baf" />
+    <object ref="language C_2010" />
+    <details>участвует</details>
+  </participate>
+</db>

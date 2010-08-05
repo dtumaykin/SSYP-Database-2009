@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db docid="syp2010_ref" count="359">
+  <reflection id="syp2010_ref1">
+    <object ref="syp2010_photodoc_lectures_DSC05095.JPG" />
+    <subject ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2010_ref2">
+    <object ref="syp2010_photodoc_lectures_DSC05095.JPG" />
+    <subject ref="3faf0fbc-46e3-4de7-8c30-b46c729010bd" />
+  </reflection>
+  <reflection id="syp2010_ref3">
+    <object ref="syp2010_photodoc_portraits_DSC05127.JPG" />
+    <subject ref="sakerin_v" />
+  </reflection>
+  <reflection id="syp2010_ref4">
+    <object ref="syp2010_photodoc_portraits_DSC05127.JPG" />
+    <subject ref="phisic_2010" />
+  </reflection>
+  <reflection id="syp2010_ref5">
+    <object ref="syp2010_photodoc_portraits_DSC05254.JPG" />
+    <subject ref="person17" />
+  </reflection>
+  <reflection id="syp2010_ref6">
+    <object ref="syp2010_photodoc_lectures_DSC05098.JPG" />
+    <subject ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2010_ref7">
+    <object ref="syp2010_photodoc_lectures_DSC05099.JPG" />
+    <subject ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2010_ref8">
+    <object ref="syp2010_photodoc_mixture_DSC05107.JPG" />
+    <subject ref="morozov_a" />
+  </reflection>
+  <reflection id="syp2010_ref9">
+    <object ref="syp2010_photodoc_mixture_DSC05108.JPG" />
+    <subject ref="person17" />
+  </reflection>
+  <reflection id="syp2010_ref10">
+    <object ref="syp2010_photodoc_mixture_DSC05111.JPG" />
+    <subject ref="3de47478-5046-47cd-949d-91c11c332543" />
+  </reflection>
+  <reflection id="syp2010_ref11">
+    <object ref="syp2010_photodoc_mixture_DSC05111.JPG" />
+    <subject ref="koval_d" />
+  </reflection>
+  <reflection id="syp2010_ref12">
+    <object ref="syp2010_photodoc_mixture_DSC05112.JPG" />
+    <subject ref="gornostalev_d" />
+  </reflection>
+  <reflection id="syp2010_ref13">
+    <object ref="syp2010_photodoc_mixture_DSC05112.JPG" />
+    <subject ref="4d282c2f-7324-4c26-911b-4facb6243a95" />
+  </reflection>
+  <reflection id="syp2010_ref14">
+    <object ref="syp2010_photodoc_mixture_DSC05112.JPG" />
+    <subject ref="pichuev_a" />
+  </reflection>
+  <reflection id="syp2010_ref15">
+    <object ref="syp2010_photodoc_mixture_DSC05112.JPG" />
+    <subject ref="syp2008_1157" />
+  </reflection>
+  <reflection id="syp2010_ref16">
+    <object ref="syp2010_photodoc_mixture_DSC05112.JPG" />
+    <subject ref="f54ef02c-2003-468a-aa72-a514cc41eef1" />
+  </reflection>
+  <reflection id="syp2010_ref17">
+    <object ref="syp2010_photodoc_portraits_DSC05114.JPG" />
+    <subject ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2010_ref18">
+    <object ref="syp2010_photodoc_portraits_DSC05115.JPG" />
+    <subject ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2010_ref19">
+    <object ref="syp2010_photodoc_portraits_DSC05121.JPG" />
+    <subject ref="4b525a94-626c-4c67-8ce7-40122f3ceaed" />
+  </reflection>
+  <reflection id="syp2010_ref20">
+    <object ref="syp2010_photodoc_portraits_DSC05126.JPG" />
+    <subject ref="sakerin_v" />
+  </reflection>
+  <reflection id="syp2010_ref21">
+    <object ref="syp2010_photodoc_portraits_DSC05128.JPG" />
+    <subject ref="4b525a94-626c-4c67-8ce7-40122f3ceaed" />
+  </reflection>
+  <reflection id="syp2010_ref22">
+    <object ref="syp2010_photodoc_portraits_DSC05128.JPG" />
+    <subject ref="sakerin_v" />
+  </reflection>
+  <reflection id="syp2010_ref23">
+    <object ref="syp2010_photodoc_portraits_DSC05128.JPG" />
+    <subject ref="phisic_2010" />
+  </reflection>
+  <reflection id="syp2010_ref24">
+    <object ref="syp2010_photodoc_portraits_DSC05127.JPG" />
+    <subject ref="4b525a94-626c-4c67-8ce7-40122f3ceaed" />
+  </reflection>
+  <reflection id="syp2010_ref25">
+    <object ref="syp2010_photodoc_portraits_DSC05129.JPG" />
+    <subject ref="3de47478-5046-47cd-949d-91c11c332543" />
+  </reflection>
+  <reflection id="syp2010_ref26">
+    <object ref="syp2010_photodoc_portraits_DSC05129.JPG" />
+    <subject ref="morozov_a" />
+  </reflection>
+  <reflection id="syp2010_ref27">
+    <object ref="syp2010_photodoc_portraits_DSC05129.JPG" />
+    <subject ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2010_ref28">
+    <object ref="syp2010_photodoc_portraits_DSC05129.JPG" />
+    <subject ref="web-server_2010" />
+  </reflection>
+  <reflection id="syp2010_ref29">
+    <object ref="syp2010_photodoc_portraits_DSC05130.JPG" />
+    <subject ref="3de47478-5046-47cd-949d-91c11c332543" />
+  </reflection>
+  <reflection id="syp2010_ref30">
+    <object ref="syp2010_photodoc_portraits_DSC05130.JPG" />
+    <subject ref="a4fedecd-88fe-43d6-a4b0-cc6e7bc53283" />
+  </reflection>
+  <reflection id="syp2010_ref31">
+    <object ref="syp2010_photodoc_portraits_DSC05130.JPG" />
+    <subject ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2010_ref32">
+    <object ref="syp2010_photodoc_portraits_DSC05130.JPG" />
+    <subject ref="web-server_2010" />
+  </reflection>
+  <reflection id="syp2010_ref33">
+    <object ref="syp2010_photodoc_portraits_DSC05135.JPG" />
+    <subject ref="3de47478-5046-47cd-949d-91c11c332543" />
+  </reflection>
+  <reflection id="syp2010_ref34">
+    <object ref="syp2010_photodoc_portraits_DSC05135.JPG" />
+    <subject ref="web-server_2010" />
+  </reflection>
+  <reflection id="syp2010_ref35">
+    <object ref="syp2010_photodoc_portraits_DSC05138.JPG" />
+    <subject ref="morozov_a" />
+  </reflection>
+  <reflection id="syp2010_ref36">
+    <object ref="syp2010_photodoc_portraits_DSC05138.JPG" />
+    <subject ref="web-server_2010" />
+  </reflection>
+  <reflection id="syp2010_ref37">
+    <object ref="syp2010_photodoc_portraits_DSC05139.JPG" />
+    <subject ref="salmin_a" />
+  </reflection>
+  <reflection id="syp2010_ref38">
+    <object ref="syp2010_photodoc_portraits_DSC05139.JPG" />
+    <subject ref="web-server_2010" />
+  </reflection>
+  <reflection id="syp2010_ref39">
+    <object ref="syp2010_photodoc_portraits_DSC05140.JPG" />
+    <subject ref="syp2009_p32" />
+  </reflection>
+  <reflection id="syp2010_ref40">
+    <object ref="syp2010_photodoc_portraits_DSC05140.JPG" />
+    <subject ref="p21" />
+  </reflection>
+  <reflection id="syp2010_ref41">
+    <object ref="syp2010_photodoc_portraits_DSC05140.JPG" />
+    <subject ref="syp2002-p-17" />
+  </reflection>
+  <reflection id="syp2010_ref42">
+    <object ref="syp2010_photodoc_portraits_DSC05140.JPG" />
+    <subject ref="e8a58704-ba11-4c35-a9be-96ff1b125fcb" />
+  </reflection>
+  <reflection id="syp2010_ref43">
+    <object ref="syp2010_photodoc_portraits_DSC05140.JPG" />
+    <subject ref="sologub_d" />
+  </reflection>
+  <reflection id="syp2010_ref44">
+    <object ref="syp2010_photodoc_portraits_DSC05140.JPG" />
+    <subject ref="tytov_d" />
+  </reflection>
+  <reflection id="syp2010_ref45">
+    <object ref="syp2010_photodoc_portraits_DSC05140.JPG" />
+    <subject ref="f54ef02c-2003-468a-aa72-a514cc41eef1" />
+  </reflection>
+  <reflection id="syp2010_ref46">
+    <object ref="syp2010_photodoc_portraits_DSC05140.JPG" />
+    <subject ref="31969770-9292-4e83-99e4-16692fae9506" />
+  </reflection>
+  <reflection id="syp2010_ref47">
+    <object ref="syp2010_photodoc_portraits_DSC05140.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref48">
+    <object ref="syp2010_photodoc_portraits_DSC05140.JPG" />
+    <subject ref="syp2009_p27" />
+  </reflection>
+  <reflection id="syp2010_ref49">
+    <object ref="syp2010_photodoc_portraits_DSC05140.JPG" />
+    <subject ref="kazanceva_a" />
+  </reflection>
+  <reflection id="syp2010_ref50">
+    <object ref="syp2010_photodoc_portraits_DSC05141.JPG" />
+    <subject ref="syp2009_p32" />
+  </reflection>
+  <reflection id="syp2010_ref51">
+    <object ref="syp2010_photodoc_portraits_DSC05141.JPG" />
+    <subject ref="p21" />
+  </reflection>
+  <reflection id="syp2010_ref52">
+    <object ref="syp2010_photodoc_portraits_DSC05141.JPG" />
+    <subject ref="syp2002-p-17" />
+  </reflection>
+  <reflection id="syp2010_ref53">
+    <object ref="syp2010_photodoc_portraits_DSC05141.JPG" />
+    <subject ref="syp2009_p27" />
+  </reflection>
+  <reflection id="syp2010_ref54">
+    <object ref="syp2010_photodoc_portraits_DSC05141.JPG" />
+    <subject ref="kazanceva_a" />
+  </reflection>
+  <reflection id="syp2010_ref55">
+    <object ref="syp2010_photodoc_portraits_DSC05141.JPG" />
+    <subject ref="e8a58704-ba11-4c35-a9be-96ff1b125fcb" />
+  </reflection>
+  <reflection id="syp2010_ref56">
+    <object ref="syp2010_photodoc_portraits_DSC05141.JPG" />
+    <subject ref="sologub_d" />
+  </reflection>
+  <reflection id="syp2010_ref57">
+    <object ref="syp2010_photodoc_portraits_DSC05141.JPG" />
+    <subject ref="tytov_d" />
+  </reflection>
+  <reflection id="syp2010_ref58">
+    <object ref="syp2010_photodoc_portraits_DSC05141.JPG" />
+    <subject ref="f54ef02c-2003-468a-aa72-a514cc41eef1" />
+  </reflection>
+  <reflection id="syp2010_ref59">
+    <object ref="syp2010_photodoc_portraits_DSC05141.JPG" />
+    <subject ref="31969770-9292-4e83-99e4-16692fae9506" />
+  </reflection>
+  <reflection id="syp2010_ref60">
+    <object ref="syp2010_photodoc_portraits_DSC05141.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref61">
+    <object ref="syp2010_photodoc_portraits_DSC05142.JPG" />
+    <subject ref="p21" />
+  </reflection>
+  <reflection id="syp2010_ref62">
+    <object ref="syp2010_photodoc_portraits_DSC05142.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref63">
+    <object ref="syp2010_photodoc_portraits_DSC05143.JPG" />
+    <subject ref="31969770-9292-4e83-99e4-16692fae9506" />
+  </reflection>
+  <reflection id="syp2010_ref64">
+    <object ref="syp2010_photodoc_portraits_DSC05143.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref65">
+    <object ref="syp2010_photodoc_portraits_DSC05144.JPG" />
+    <subject ref="f54ef02c-2003-468a-aa72-a514cc41eef1" />
+  </reflection>
+  <reflection id="syp2010_ref66">
+    <object ref="syp2010_photodoc_portraits_DSC05144.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref67">
+    <object ref="syp2010_photodoc_portraits_DSC05145.JPG" />
+    <subject ref="sologub_d" />
+  </reflection>
+  <reflection id="syp2010_ref68">
+    <object ref="syp2010_photodoc_portraits_DSC05145.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref69">
+    <object ref="syp2010_photodoc_portraits_DSC05146.JPG" />
+    <subject ref="syp2002-p-17" />
+  </reflection>
+  <reflection id="syp2010_ref70">
+    <object ref="syp2010_photodoc_portraits_DSC05146.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref71">
+    <object ref="syp2010_photodoc_portraits_DSC05147.JPG" />
+    <subject ref="syp2002-p-17" />
+  </reflection>
+  <reflection id="syp2010_ref72">
+    <object ref="syp2010_photodoc_portraits_DSC05147.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref73">
+    <object ref="syp2010_photodoc_portraits_DSC05148.JPG" />
+    <subject ref="tytov_d" />
+  </reflection>
+  <reflection id="syp2010_ref74">
+    <object ref="syp2010_photodoc_portraits_DSC05148.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref75">
+    <object ref="syp2010_photodoc_portraits_DSC05149.JPG" />
+    <subject ref="tytov_d" />
+  </reflection>
+  <reflection id="syp2010_ref76">
+    <object ref="syp2010_photodoc_portraits_DSC05149.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref77">
+    <object ref="syp2010_photodoc_portraits_DSC05150.JPG" />
+    <subject ref="syp2009_p32" />
+  </reflection>
+  <reflection id="syp2010_ref78">
+    <object ref="syp2010_photodoc_portraits_DSC05150.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref79">
+    <object ref="syp2010_photodoc_portraits_DSC05151.JPG" />
+    <subject ref="kazanceva_a" />
+  </reflection>
+  <reflection id="syp2010_ref80">
+    <object ref="syp2010_photodoc_portraits_DSC05151.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref81">
+    <object ref="syp2010_photodoc_portraits_DSC05152.JPG" />
+    <subject ref="e8a58704-ba11-4c35-a9be-96ff1b125fcb" />
+  </reflection>
+  <reflection id="syp2010_ref82">
+    <object ref="syp2010_photodoc_portraits_DSC05152.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref83">
+    <object ref="syp2010_photodoc_portraits_DSC05153.JPG" />
+    <subject ref="e8a58704-ba11-4c35-a9be-96ff1b125fcb" />
+  </reflection>
+  <reflection id="syp2010_ref84">
+    <object ref="syp2010_photodoc_portraits_DSC05153.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref85">
+    <object ref="syp2010_photodoc_portraits_DSC05154.JPG" />
+    <subject ref="syp2009_p27" />
+  </reflection>
+  <reflection id="syp2010_ref86">
+    <object ref="syp2010_photodoc_portraits_DSC05154.JPG" />
+    <subject ref="socialnaya set_2010" />
+  </reflection>
+  <reflection id="syp2010_ref87">
+    <object ref="syp2010_photodoc_portraits_DSC05155.JPG" />
+    <subject ref="mastersk10_2010" />
+  </reflection>
+  <reflection id="syp2010_ref88">
+    <object ref="syp2010_photodoc_portraits_DSC05156.JPG" />
+    <subject ref="syp2009_p13" />
+  </reflection>
+  <reflection id="syp2010_ref89">
+    <object ref="syp2010_photodoc_portraits_DSC05156.JPG" />
+    <subject ref="mastersk10_2010" />
+  </reflection>
+  <reflection id="syp2010_ref90">
+    <object ref="syp2010_photodoc_portraits_DSC05157.JPG" />
+    <subject ref="4965385c-0fb7-4534-8de1-aff31cd463aa" />
+  </reflection>
+  <reflection id="syp2010_ref91">
+    <object ref="syp2010_photodoc_portraits_DSC05157.JPG" />
+    <subject ref="mastersk10_2010" />
+  </reflection>
+  <reflection id="syp2010_ref92">
+    <object ref="syp2010_photodoc_portraits_DSC05158.JPG" />
+    <subject ref="c5ac604c-a214-448b-b276-c6baa234ff4e" />
+  </reflection>
+  <reflection id="syp2010_ref93">
+    <object ref="syp2010_photodoc_portraits_DSC05158.JPG" />
+    <subject ref="mastersk10_2010" />
+  </reflection>
+  <reflection id="syp2010_ref94">
+    <object ref="syp2010_photodoc_portraits_DSC05159.JPG" />
+    <subject ref="53500b32-d31b-4b33-a797-b6d50f095750" />
+  </reflection>
+  <reflection id="syp2010_ref95">
+    <object ref="syp2010_photodoc_portraits_DSC05159.JPG" />
+    <subject ref="mastersk10_2010" />
+  </reflection>
+  <reflection id="syp2010_ref96">
+    <object ref="syp2010_photodoc_portraits_DSC05155.JPG" />
+    <subject ref="b0b970a6-2b85-41e1-abae-9b7bac463598" />
+  </reflection>
+  <reflection id="syp2010_ref97">
+    <object ref="syp2010_photodoc_portraits_DSC05160.JPG" />
+    <subject ref="b0b970a6-2b85-41e1-abae-9b7bac463598" />
+  </reflection>
+  <reflection id="syp2010_ref98">
+    <object ref="syp2010_photodoc_portraits_DSC05160.JPG" />
+    <subject ref="53500b32-d31b-4b33-a797-b6d50f095750" />
+  </reflection>
+  <reflection id="syp2010_ref99">
+    <object ref="syp2010_photodoc_portraits_DSC05160.JPG" />
+    <subject ref="person13_" />
+  </reflection>
+  <reflection id="syp2010_ref100">
+    <object ref="syp2010_photodoc_portraits_DSC05160.JPG" />
+    <subject ref="c5ac604c-a214-448b-b276-c6baa234ff4e" />
+  </reflection>
+  <reflection id="syp2010_ref101">
+    <object ref="syp2010_photodoc_portraits_DSC05160.JPG" />
+    <subject ref="syp2009_p13" />
+  </reflection>
+  <reflection id="syp2010_ref102">
+    <object ref="syp2010_photodoc_portraits_DSC05160.JPG" />
+    <subject ref="4965385c-0fb7-4534-8de1-aff31cd463aa" />
+  </reflection>
+  <reflection id="syp2010_ref103">
+    <object ref="syp2010_photodoc_portraits_DSC05160.JPG" />
+    <subject ref="mastersk10_2010" />
+  </reflection>
+  <reflection id="syp2010_ref104">
+    <object ref="syp2010_photodoc_portraits_DSC05161.JPG" />
+    <subject ref="b0b970a6-2b85-41e1-abae-9b7bac463598" />
+  </reflection>
+  <reflection id="syp2010_ref105">
+    <object ref="syp2010_photodoc_portraits_DSC05161.JPG" />
+    <subject ref="53500b32-d31b-4b33-a797-b6d50f095750" />
+  </reflection>
+  <reflection id="syp2010_ref106">
+    <object ref="syp2010_photodoc_portraits_DSC05161.JPG" />
+    <subject ref="person13_" />
+  </reflection>
+  <reflection id="syp2010_ref107">
+    <object ref="syp2010_photodoc_portraits_DSC05161.JPG" />
+    <subject ref="c5ac604c-a214-448b-b276-c6baa234ff4e" />
+  </reflection>
+  <reflection id="syp2010_ref108">
+    <object ref="syp2010_photodoc_portraits_DSC05161.JPG" />
+    <subject ref="syp2009_p13" />
+  </reflection>
+  <reflection id="syp2010_ref109">
+    <object ref="syp2010_photodoc_portraits_DSC05161.JPG" />
+    <subject ref="4965385c-0fb7-4534-8de1-aff31cd463aa" />
+  </reflection>
+  <reflection id="syp2010_ref110">
+    <object ref="syp2010_photodoc_portraits_DSC05161.JPG" />
+    <subject ref="mastersk10_2010" />
+  </reflection>
+  <reflection id="syp2010_ref111">
+    <object ref="syp2010_photodoc_portraits_DSC05162.JPG" />
+    <subject ref="person13_" />
+  </reflection>
+  <reflection id="syp2010_ref112">
+    <object ref="syp2010_photodoc_portraits_DSC05162.JPG" />
+    <subject ref="mastersk10_2010" />
+  </reflection>
+  <reflection id="syp2010_ref113">
+    <object ref="syp2010_photodoc_portraits_DSC05163.JPG" />
+    <subject ref="syp2009_p10" />
+  </reflection>
+  <reflection id="syp2010_ref114">
+    <object ref="syp2010_photodoc_portraits_DSC05163.JPG" />
+    <subject ref="83f05f08-f2c2-4c44-b296-e183aebbc27f" />
+  </reflection>
+  <reflection id="syp2010_ref115">
+    <object ref="syp2010_photodoc_portraits_DSC05163.JPG" />
+    <subject ref="6d48dacd-2eac-47ca-be27-6cf2a56e9532" />
+  </reflection>
+  <reflection id="syp2010_ref116">
+    <object ref="syp2010_photodoc_portraits_DSC05163.JPG" />
+    <subject ref="692c8d24-16dc-4545-b4bc-70e1bcb0b9ed" />
+  </reflection>
+  <reflection id="syp2010_ref117">
+    <object ref="syp2010_photodoc_portraits_DSC05163.JPG" />
+    <subject ref="rusakova_n" />
+  </reflection>
+  <reflection id="syp2010_ref118">
+    <object ref="syp2010_photodoc_portraits_DSC05163.JPG" />
+    <subject ref="syp2008_1118" />
+  </reflection>
+  <reflection id="syp2010_ref119">
+    <object ref="syp2010_photodoc_portraits_DSC05163.JPG" />
+    <subject ref="fractal_2010" />
+  </reflection>
+  <reflection id="syp2010_ref120">
+    <object ref="syp2010_photodoc_portraits_DSC05164.JPG" />
+    <subject ref="syp2009_p10" />
+  </reflection>
+  <reflection id="syp2010_ref121">
+    <object ref="syp2010_photodoc_portraits_DSC05164.JPG" />
+    <subject ref="83f05f08-f2c2-4c44-b296-e183aebbc27f" />
+  </reflection>
+  <reflection id="syp2010_ref122">
+    <object ref="syp2010_photodoc_portraits_DSC05164.JPG" />
+    <subject ref="6d48dacd-2eac-47ca-be27-6cf2a56e9532" />
+  </reflection>
+  <reflection id="syp2010_ref123">
+    <object ref="syp2010_photodoc_portraits_DSC05164.JPG" />
+    <subject ref="692c8d24-16dc-4545-b4bc-70e1bcb0b9ed" />
+  </reflection>
+  <reflection id="syp2010_ref124">
+    <object ref="syp2010_photodoc_portraits_DSC05164.JPG" />
+    <subject ref="syp2008_1118" />
+  </reflection>
+  <reflection id="syp2010_ref125">
+    <object ref="syp2010_photodoc_portraits_DSC05164.JPG" />
+    <subject ref="fractal_2010" />
+  </reflection>
+  <reflection id="syp2010_ref126">
+    <object ref="syp2010_photodoc_portraits_DSC05164.JPG" />
+    <subject ref="rusakova_n" />
+  </reflection>
+  <reflection id="syp2010_ref128">
+    <object ref="syp2010_photodoc_portraits_DSC05165.JPG" />
+    <subject ref="rusakova_n" />
+  </reflection>
+  <reflection id="syp2010_ref129">
+    <object ref="syp2010_photodoc_portraits_DSC05165.JPG" />
+    <subject ref="fractal_2010" />
+  </reflection>
+  <reflection id="syp2010_ref130">
+    <object ref="syp2010_photodoc_portraits_DSC05166.JPG" />
+    <subject ref="syp2008_1118" />
+  </reflection>
+  <reflection id="syp2010_ref131">
+    <object ref="syp2010_photodoc_portraits_DSC05166.JPG" />
+    <subject ref="fractal_2010" />
+  </reflection>
+  <reflection id="syp2010_ref132">
+    <object ref="syp2010_photodoc_portraits_DSC05167.JPG" />
+    <subject ref="692c8d24-16dc-4545-b4bc-70e1bcb0b9ed" />
+  </reflection>
+  <reflection id="syp2010_ref133">
+    <object ref="syp2010_photodoc_portraits_DSC05167.JPG" />
+    <subject ref="fractal_2010" />
+  </reflection>
+  <reflection id="syp2010_ref134">
+    <object ref="syp2010_photodoc_portraits_DSC05168.JPG" />
+    <subject ref="fractal_2010" />
+  </reflection>
+  <reflection id="syp2010_ref135">
+    <object ref="syp2010_photodoc_portraits_DSC05169.JPG" />
+    <subject ref="fractal_2010" />
+  </reflection>
+  <reflection id="syp2010_ref136">
+    <object ref="syp2010_photodoc_portraits_DSC05170.JPG" />
+    <subject ref="fractal_2010" />
+  </reflection>
+  <reflection id="syp2010_ref137">
+    <object ref="syp2010_photodoc_portraits_DSC05171.JPG" />
+    <subject ref="syp2009_p10" />
+  </reflection>
+  <reflection id="syp2010_ref138">
+    <object ref="syp2010_photodoc_portraits_DSC05171.JPG" />
+    <subject ref="fractal_2010" />
+  </reflection>
+  <reflection id="syp2010_ref139">
+    <object ref="syp2010_photodoc_portraits_DSC05172.JPG" />
+    <subject ref="syp2009_p10" />
+  </reflection>
+  <reflection id="syp2010_ref140">
+    <object ref="syp2010_photodoc_portraits_DSC05172.JPG" />
+    <subject ref="fractal_2010" />
+  </reflection>
+  <reflection id="syp2010_ref141">
+    <object ref="syp2010_photodoc_portraits_DSC05173.JPG" />
+    <subject ref="syp2009_p10" />
+  </reflection>
+  <reflection id="syp2010_ref142">
+    <object ref="syp2010_photodoc_portraits_DSC05173.JPG" />
+    <subject ref="fractal_2010" />
+  </reflection>
+  <reflection id="syp2010_ref143">
+    <object ref="syp2010_photodoc_portraits_DSC05174.JPG" />
+    <subject ref="person15" />
+  </reflection>
+  <reflection id="syp2010_ref144">
+    <object ref="syp2010_photodoc_portraits_DSC05174.JPG" />
+    <subject ref="CMS_2010" />
+  </reflection>
+  <reflection id="syp2010_ref145">
+    <object ref="syp2010_photodoc_portraits_DSC05175.JPG" />
+    <subject ref="b500dd07-3732-4adf-bf10-b45efe134538" />
+  </reflection>
+  <reflection id="syp2010_ref146">
+    <object ref="syp2010_photodoc_portraits_DSC05175.JPG" />
+    <subject ref="CMS_2010" />
+  </reflection>
+  <reflection id="syp2010_ref147">
+    <object ref="syp2010_photodoc_portraits_DSC05176.JPG" />
+    <subject ref="18651416-f4df-44d1-9637-2f6ec3decaec" />
+  </reflection>
+  <reflection id="syp2010_ref148">
+    <object ref="syp2010_photodoc_portraits_DSC05176.JPG" />
+    <subject ref="CMS_2010" />
+  </reflection>
+  <reflection id="syp2010_ref149">
+    <object ref="syp2010_photodoc_portraits_DSC05177.JPG" />
+    <subject ref="pichuev_a" />
+  </reflection>
+  <reflection id="syp2010_ref150">
+    <object ref="syp2010_photodoc_portraits_DSC05177.JPG" />
+    <subject ref="CMS_2010" />
+  </reflection>
+  <reflection id="syp2010_ref151">
+    <object ref="syp2010_photodoc_portraits_DSC05178.JPG" />
+    <subject ref="person11" />
+  </reflection>
+  <reflection id="syp2010_ref152">
+    <object ref="syp2010_photodoc_portraits_DSC05178.JPG" />
+    <subject ref="CMS_2010" />
+  </reflection>
+  <reflection id="syp2010_ref153">
+    <object ref="syp2010_photodoc_portraits_DSC05179.JPG" />
+    <subject ref="18651416-f4df-44d1-9637-2f6ec3decaec" />
+  </reflection>
+  <reflection id="syp2010_ref154">
+    <object ref="syp2010_photodoc_portraits_DSC05179.JPG" />
+    <subject ref="person15" />
+  </reflection>
+  <reflection id="syp2010_ref155">
+    <object ref="syp2010_photodoc_portraits_DSC05179.JPG" />
+    <subject ref="pichuev_a" />
+  </reflection>
+  <reflection id="syp2010_ref156">
+    <object ref="syp2010_photodoc_portraits_DSC05179.JPG" />
+    <subject ref="sakerin_a" />
+  </reflection>
+  <reflection id="syp2010_ref157">
+    <object ref="syp2010_photodoc_portraits_DSC05179.JPG" />
+    <subject ref="syp2009_p14" />
+  </reflection>
+  <reflection id="syp2010_ref158">
+    <object ref="syp2010_photodoc_portraits_DSC05179.JPG" />
+    <subject ref="b500dd07-3732-4adf-bf10-b45efe134538" />
+  </reflection>
+  <reflection id="syp2010_ref159">
+    <object ref="syp2010_photodoc_portraits_DSC05179.JPG" />
+    <subject ref="person11" />
+  </reflection>
+  <reflection id="syp2010_ref160">
+    <object ref="syp2010_photodoc_portraits_DSC05179.JPG" />
+    <subject ref="setevie tehn_2010" />
+  </reflection>
+  <reflection id="syp2010_ref161">
+    <object ref="syp2010_photodoc_portraits_DSC05180.JPG" />
+    <subject ref="18651416-f4df-44d1-9637-2f6ec3decaec" />
+  </reflection>
+  <reflection id="syp2010_ref162">
+    <object ref="syp2010_photodoc_portraits_DSC05180.JPG" />
+    <subject ref="person15" />
+  </reflection>
+  <reflection id="syp2010_ref163">
+    <object ref="syp2010_photodoc_portraits_DSC05180.JPG" />
+    <subject ref="pichuev_a" />
+  </reflection>
+  <reflection id="syp2010_ref164">
+    <object ref="syp2010_photodoc_portraits_DSC05180.JPG" />
+    <subject ref="sakerin_a" />
+  </reflection>
+  <reflection id="syp2010_ref165">
+    <object ref="syp2010_photodoc_portraits_DSC05180.JPG" />
+    <subject ref="syp2009_p14" />
+  </reflection>
+  <reflection id="syp2010_ref166">
+    <object ref="syp2010_photodoc_portraits_DSC05180.JPG" />
+    <subject ref="b500dd07-3732-4adf-bf10-b45efe134538" />
+  </reflection>
+  <reflection id="syp2010_ref167">
+    <object ref="syp2010_photodoc_portraits_DSC05180.JPG" />
+    <subject ref="person11" />
+  </reflection>
+  <reflection id="syp2010_ref168">
+    <object ref="syp2010_photodoc_portraits_DSC05180.JPG" />
+    <subject ref="CMS_2010" />
+  </reflection>
+  <reflection id="syp2010_ref169">
+    <object ref="syp2010_photodoc_portraits_DSC05181.JPG" />
+    <subject ref="syp2009_p14" />
+  </reflection>
+  <reflection id="syp2010_ref170">
+    <object ref="syp2010_photodoc_portraits_DSC05181.JPG" />
+    <subject ref="CMS_2010" />
+  </reflection>
+  <reflection id="syp2010_ref171">
+    <object ref="syp2010_photodoc_portraits_DSC05182.JPG" />
+    <subject ref="sakerin_a" />
+  </reflection>
+  <reflection id="syp2010_ref172">
+    <object ref="syp2010_photodoc_portraits_DSC05182.JPG" />
+    <subject ref="CMS_2010" />
+  </reflection>
+  <reflection id="syp2010_ref173">
+    <object ref="syp2010_photodoc_portraits_DSC05183.JPG" />
+    <subject ref="1e103556-bf37-4dfb-909b-839efbd0db87" />
+  </reflection>
+  <reflection id="syp2010_ref174">
+    <object ref="syp2010_photodoc_portraits_DSC05183.JPG" />
+    <subject ref="a3fbb47c-e901-4414-bda6-6f760f3c93e8" />
+  </reflection>
+  <reflection id="syp2010_ref175">
+    <object ref="syp2010_photodoc_portraits_DSC05183.JPG" />
+    <subject ref="p23" />
+  </reflection>
+  <reflection id="syp2010_ref176">
+    <object ref="syp2010_photodoc_portraits_DSC05183.JPG" />
+    <subject ref="person20" />
+  </reflection>
+  <reflection id="syp2010_ref177">
+    <object ref="syp2010_photodoc_portraits_DSC05183.JPG" />
+    <subject ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2010_ref178">
+    <object ref="syp2010_photodoc_portraits_DSC05183.JPG" />
+    <subject ref="5c8f14ce-6a53-4ea2-9cfa-d934a6f712ba" />
+  </reflection>
+  <reflection id="syp2010_ref179">
+    <object ref="syp2010_photodoc_portraits_DSC05183.JPG" />
+    <subject ref="3faf0fbc-46e3-4de7-8c30-b46c729010bd" />
+  </reflection>
+  <reflection id="syp2010_ref180">
+    <object ref="syp2010_photodoc_portraits_DSC05183.JPG" />
+    <subject ref="3d-simulyation_2010" />
+  </reflection>
+  <reflection id="syp2010_ref181">
+    <object ref="syp2010_photodoc_portraits_DSC05185.JPG" />
+    <subject ref="1e103556-bf37-4dfb-909b-839efbd0db87" />
+  </reflection>
+  <reflection id="syp2010_ref182">
+    <object ref="syp2010_photodoc_portraits_DSC05185.JPG" />
+    <subject ref="a3fbb47c-e901-4414-bda6-6f760f3c93e8" />
+  </reflection>
+  <reflection id="syp2010_ref183">
+    <object ref="syp2010_photodoc_portraits_DSC05185.JPG" />
+    <subject ref="p23" />
+  </reflection>
+  <reflection id="syp2010_ref184">
+    <object ref="syp2010_photodoc_portraits_DSC05185.JPG" />
+    <subject ref="person20" />
+  </reflection>
+  <reflection id="syp2010_ref185">
+    <object ref="syp2010_photodoc_portraits_DSC05185.JPG" />
+    <subject ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2010_ref186">
+    <object ref="syp2010_photodoc_portraits_DSC05185.JPG" />
+    <subject ref="5c8f14ce-6a53-4ea2-9cfa-d934a6f712ba" />
+  </reflection>
+  <reflection id="syp2010_ref187">
+    <object ref="syp2010_photodoc_portraits_DSC05185.JPG" />
+    <subject ref="3faf0fbc-46e3-4de7-8c30-b46c729010bd" />
+  </reflection>
+  <reflection id="syp2010_ref188">
+    <object ref="syp2010_photodoc_portraits_DSC05185.JPG" />
+    <subject ref="3d-simulyation_2010" />
+  </reflection>
+  <reflection id="syp2010_ref189">
+    <object ref="syp2010_photodoc_portraits_DSC05186.JPG" />
+    <subject ref="syp2009_p85" />
+  </reflection>
+  <reflection id="syp2010_ref190">
+    <object ref="syp2010_photodoc_portraits_DSC05186.JPG" />
+    <subject ref="3d-simulyation_2010" />
+  </reflection>
+  <reflection id="syp2010_ref191">
+    <object ref="syp2010_photodoc_portraits_DSC05189.JPG" />
+    <subject ref="person20" />
+  </reflection>
+  <reflection id="syp2010_ref192">
+    <object ref="syp2010_photodoc_portraits_DSC05189.JPG" />
+    <subject ref="3d-simulyation_2010" />
+  </reflection>
+  <reflection id="syp2010_ref193">
+    <object ref="syp2010_photodoc_portraits_DSC05190.JPG" />
+    <subject ref="p23" />
+  </reflection>
+  <reflection id="syp2010_ref194">
+    <object ref="syp2010_photodoc_portraits_DSC05190.JPG" />
+    <subject ref="3d-simulyation_2010" />
+  </reflection>
+  <reflection id="syp2010_ref195">
+    <object ref="syp2010_photodoc_portraits_DSC05191.JPG" />
+    <subject ref="3d-simulyation_2010" />
+  </reflection>
+  <reflection id="syp2010_ref196">
+    <object ref="syp2010_photodoc_portraits_DSC05188.JPG" />
+    <subject ref="3d-simulyation_2010" />
+  </reflection>
+  <reflection id="syp2010_ref197">
+    <object ref="syp2010_photodoc_portraits_DSC05187.JPG" />
+    <subject ref="3d-simulyation_2010" />
+  </reflection>
+  <reflection id="syp2010_ref198">
+    <object ref="syp2010_photodoc_portraits_DSC05192.JPG" />
+    <subject ref="3faf0fbc-46e3-4de7-8c30-b46c729010bd" />
+  </reflection>
+  <reflection id="syp2010_ref199">
+    <object ref="syp2010_photodoc_portraits_DSC05192.JPG" />
+    <subject ref="3d-simulyation_2010" />
+  </reflection>
+  <reflection id="syp2010_ref200">
+    <object ref="syp2010_photodoc_portraits_DSC05193.JPG" />
+    <subject ref="syp2009_p22" />
+  </reflection>
+  <reflection id="syp2010_ref201">
+    <object ref="syp2010_photodoc_portraits_DSC05193.JPG" />
+    <subject ref="person_1" />
+  </reflection>
+  <reflection id="syp2010_ref202">
+    <object ref="syp2010_photodoc_portraits_DSC05193.JPG" />
+    <subject ref="kuzkokov_s" />
+  </reflection>
+  <reflection id="syp2010_ref203">
+    <object ref="syp2010_photodoc_portraits_DSC05193.JPG" />
+    <subject ref="person19" />
+  </reflection>
+  <reflection id="syp2010_ref204">
+    <object ref="syp2010_photodoc_portraits_DSC05193.JPG" />
+    <subject ref="smirnov_p" />
+  </reflection>
+  <reflection id="syp2010_ref205">
+    <object ref="syp2010_photodoc_portraits_DSC05193.JPG" />
+    <subject ref="person60" />
+  </reflection>
+  <reflection id="syp2010_ref206">
+    <object ref="syp2010_photodoc_portraits_DSC05193.JPG" />
+    <subject ref="arshivator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref207">
+    <object ref="syp2010_photodoc_portraits_DSC05195.JPG" />
+    <subject ref="syp2009_p22" />
+  </reflection>
+  <reflection id="syp2010_ref208">
+    <object ref="syp2010_photodoc_portraits_DSC05195.JPG" />
+    <subject ref="person_1" />
+  </reflection>
+  <reflection id="syp2010_ref209">
+    <object ref="syp2010_photodoc_portraits_DSC05195.JPG" />
+    <subject ref="kuzkokov_s" />
+  </reflection>
+  <reflection id="syp2010_ref210">
+    <object ref="syp2010_photodoc_portraits_DSC05195.JPG" />
+    <subject ref="person19" />
+  </reflection>
+  <reflection id="syp2010_ref211">
+    <object ref="syp2010_photodoc_portraits_DSC05195.JPG" />
+    <subject ref="smirnov_p" />
+  </reflection>
+  <reflection id="syp2010_ref212">
+    <object ref="syp2010_photodoc_portraits_DSC05195.JPG" />
+    <subject ref="person60" />
+  </reflection>
+  <reflection id="syp2010_ref213">
+    <object ref="syp2010_photodoc_portraits_DSC05195.JPG" />
+    <subject ref="arshivator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref214">
+    <object ref="syp2010_photodoc_portraits_DSC05196.JPG" />
+    <subject ref="person60" />
+  </reflection>
+  <reflection id="syp2010_ref215">
+    <object ref="syp2010_photodoc_portraits_DSC05196.JPG" />
+    <subject ref="arshivator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref216">
+    <object ref="syp2010_photodoc_portraits_DSC05197.JPG" />
+    <subject ref="person_1" />
+  </reflection>
+  <reflection id="syp2010_ref217">
+    <object ref="syp2010_photodoc_portraits_DSC05197.JPG" />
+    <subject ref="arshivator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref218">
+    <object ref="syp2010_photodoc_portraits_DSC05198.JPG" />
+    <subject ref="person19" />
+  </reflection>
+  <reflection id="syp2010_ref219">
+    <object ref="syp2010_photodoc_portraits_DSC05198.JPG" />
+    <subject ref="arshivator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref220">
+    <object ref="syp2010_photodoc_portraits_DSC05199.JPG" />
+    <subject ref="smirnov_p" />
+  </reflection>
+  <reflection id="syp2010_ref221">
+    <object ref="syp2010_photodoc_portraits_DSC05199.JPG" />
+    <subject ref="arshivator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref222">
+    <object ref="syp2010_photodoc_portraits_DSC05200.JPG" />
+    <subject ref="syp2009_p22" />
+  </reflection>
+  <reflection id="syp2010_ref223">
+    <object ref="syp2010_photodoc_portraits_DSC05200.JPG" />
+    <subject ref="arshivator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref224">
+    <object ref="syp2010_photodoc_portraits_DSC05201.JPG" />
+    <subject ref="syp2009_p22" />
+  </reflection>
+  <reflection id="syp2010_ref225">
+    <object ref="syp2010_photodoc_portraits_DSC05201.JPG" />
+    <subject ref="arshivator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref226">
+    <object ref="syp2010_photodoc_portraits_DSC05202.JPG" />
+    <subject ref="kuzkokov_s" />
+  </reflection>
+  <reflection id="syp2010_ref227">
+    <object ref="syp2010_photodoc_portraits_DSC05202.JPG" />
+    <subject ref="arshivator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref228">
+    <object ref="syp2010_photodoc_portraits_DSC05203.JPG" />
+    <subject ref="kuzkokov_s" />
+  </reflection>
+  <reflection id="syp2010_ref229">
+    <object ref="syp2010_photodoc_portraits_DSC05203.JPG" />
+    <subject ref="arshivator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref230">
+    <object ref="syp2010_photodoc_portraits_DSC05204.JPG" />
+    <subject ref="c8caf3b3-3d2a-40c6-a3c2-ca2a035fb6fc" />
+  </reflection>
+  <reflection id="syp2010_ref231">
+    <object ref="syp2010_photodoc_portraits_DSC05204.JPG" />
+    <subject ref="e964945c-b182-491c-b8f0-88f2c9812a75" />
+  </reflection>
+  <reflection id="syp2010_ref232">
+    <object ref="syp2010_photodoc_portraits_DSC05204.JPG" />
+    <subject ref="syp2008_1182" />
+  </reflection>
+  <reflection id="syp2010_ref233">
+    <object ref="syp2010_photodoc_portraits_DSC05204.JPG" />
+    <subject ref="koval_d" />
+  </reflection>
+  <reflection id="syp2010_ref234">
+    <object ref="syp2010_photodoc_portraits_DSC05204.JPG" />
+    <subject ref="0cac277d-9c9a-421b-a3e5-509b7cd0204a" />
+  </reflection>
+  <reflection id="syp2010_ref236">
+    <object ref="syp2010_photodoc_portraits_DSC05204.JPG" />
+    <subject ref="syp2009_p36" />
+  </reflection>
+  <reflection id="syp2010_ref237">
+    <object ref="syp2010_photodoc_portraits_DSC05204.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref238">
+    <object ref="syp2010_photodoc_portraits_DSC05205.JPG" />
+    <subject ref="c8caf3b3-3d2a-40c6-a3c2-ca2a035fb6fc" />
+  </reflection>
+  <reflection id="syp2010_ref239">
+    <object ref="syp2010_photodoc_portraits_DSC05205.JPG" />
+    <subject ref="e964945c-b182-491c-b8f0-88f2c9812a75" />
+  </reflection>
+  <reflection id="syp2010_ref240">
+    <object ref="syp2010_photodoc_portraits_DSC05205.JPG" />
+    <subject ref="syp2008_1182" />
+  </reflection>
+  <reflection id="syp2010_ref241">
+    <object ref="syp2010_photodoc_portraits_DSC05205.JPG" />
+    <subject ref="koval_d" />
+  </reflection>
+  <reflection id="syp2010_ref242">
+    <object ref="syp2010_photodoc_portraits_DSC05205.JPG" />
+    <subject ref="0cac277d-9c9a-421b-a3e5-509b7cd0204a" />
+  </reflection>
+  <reflection id="syp2010_ref244">
+    <object ref="syp2010_photodoc_portraits_DSC05205.JPG" />
+    <subject ref="syp2009_p36" />
+  </reflection>
+  <reflection id="syp2010_ref245">
+    <object ref="syp2010_photodoc_portraits_DSC05205.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref246">
+    <object ref="syp2010_photodoc_portraits_DSC05206.JPG" />
+    <subject ref="c8caf3b3-3d2a-40c6-a3c2-ca2a035fb6fc" />
+  </reflection>
+  <reflection id="syp2010_ref247">
+    <object ref="syp2010_photodoc_portraits_DSC05206.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref249">
+    <object ref="syp2010_photodoc_portraits_DSC05207.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref250">
+    <object ref="syp2010_photodoc_portraits_DSC05208.JPG" />
+    <subject ref="0cac277d-9c9a-421b-a3e5-509b7cd0204a" />
+  </reflection>
+  <reflection id="syp2010_ref251">
+    <object ref="syp2010_photodoc_portraits_DSC05208.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref252">
+    <object ref="syp2010_photodoc_portraits_DSC05209.JPG" />
+    <subject ref="syp2009_p35" />
+  </reflection>
+  <reflection id="syp2010_ref253">
+    <object ref="syp2010_photodoc_portraits_DSC05209.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref254">
+    <object ref="syp2010_photodoc_portraits_DSC05210.JPG" />
+    <subject ref="koval_d" />
+  </reflection>
+  <reflection id="syp2010_ref255">
+    <object ref="syp2010_photodoc_portraits_DSC05210.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref256">
+    <object ref="syp2010_photodoc_portraits_DSC05211.JPG" />
+    <subject ref="koval_d" />
+  </reflection>
+  <reflection id="syp2010_ref257">
+    <object ref="syp2010_photodoc_portraits_DSC05211.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref258">
+    <object ref="syp2010_photodoc_portraits_DSC05212.JPG" />
+    <subject ref="syp2009_p36" />
+  </reflection>
+  <reflection id="syp2010_ref259">
+    <object ref="syp2010_photodoc_portraits_DSC05212.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref260">
+    <object ref="syp2010_photodoc_portraits_DSC05213.JPG" />
+    <subject ref="syp2009_p36" />
+  </reflection>
+  <reflection id="syp2010_ref261">
+    <object ref="syp2010_photodoc_portraits_DSC05213.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref262">
+    <object ref="syp2010_photodoc_portraits_DSC05214.JPG" />
+    <subject ref="e964945c-b182-491c-b8f0-88f2c9812a75" />
+  </reflection>
+  <reflection id="syp2010_ref264">
+    <object ref="syp2010_photodoc_portraits_DSC05214.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref265">
+    <object ref="syp2010_photodoc_portraits_DSC05215.JPG" />
+    <subject ref="syp2008_1182" />
+  </reflection>
+  <reflection id="syp2010_ref266">
+    <object ref="syp2010_photodoc_portraits_DSC05215.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref267">
+    <object ref="syp2010_photodoc_portraits_DSC05216.JPG" />
+    <subject ref="syp2008_1182" />
+  </reflection>
+  <reflection id="syp2010_ref268">
+    <object ref="syp2010_photodoc_portraits_DSC05216.JPG" />
+    <subject ref="flash_2010" />
+  </reflection>
+  <reflection id="syp2010_ref269">
+    <object ref="syp2010_photodoc_portraits_DSC05217.JPG" />
+    <subject ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="syp2010_ref270">
+    <object ref="syp2010_photodoc_portraits_DSC05217.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref271">
+    <object ref="syp2010_photodoc_portraits_DSC05218.JPG" />
+    <subject ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="syp2010_ref272">
+    <object ref="syp2010_photodoc_portraits_DSC05218.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref273">
+    <object ref="syp2010_photodoc_portraits_DSC05219.JPG" />
+    <subject ref="gornostalev_d" />
+  </reflection>
+  <reflection id="syp2010_ref274">
+    <object ref="syp2010_photodoc_portraits_DSC05219.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref275">
+    <object ref="syp2010_photodoc_portraits_DSC05220.JPG" />
+    <subject ref="gornostalev_d" />
+  </reflection>
+  <reflection id="syp2010_ref276">
+    <object ref="syp2010_photodoc_portraits_DSC05220.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref277">
+    <object ref="syp2010_photodoc_portraits_DSC05221.JPG" />
+    <subject ref="9a014a84-5cf6-4a05-9450-0366bb842588" />
+  </reflection>
+  <reflection id="syp2010_ref278">
+    <object ref="syp2010_photodoc_portraits_DSC05221.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref279">
+    <object ref="syp2010_photodoc_portraits_DSC05222.JPG" />
+    <subject ref="9a014a84-5cf6-4a05-9450-0366bb842588" />
+  </reflection>
+  <reflection id="syp2010_ref280">
+    <object ref="syp2010_photodoc_portraits_DSC05222.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref281">
+    <object ref="syp2010_photodoc_portraits_DSC05223.JPG" />
+    <subject ref="syp2009_p90" />
+  </reflection>
+  <reflection id="syp2010_ref282">
+    <object ref="syp2010_photodoc_portraits_DSC05223.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref283">
+    <object ref="syp2010_photodoc_portraits_DSC05224.JPG" />
+    <subject ref="syp2008_1157" />
+  </reflection>
+  <reflection id="syp2010_ref284">
+    <object ref="syp2010_photodoc_portraits_DSC05224.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref285">
+    <object ref="syp2010_photodoc_portraits_DSC05225.JPG" />
+    <subject ref="syp2008_1157" />
+  </reflection>
+  <reflection id="syp2010_ref286">
+    <object ref="syp2010_photodoc_portraits_DSC05225.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref287">
+    <object ref="syp2010_photodoc_portraits_DSC05226.JPG" />
+    <subject ref="2e71c343-b28a-4809-ad23-7d99a6535c19" />
+  </reflection>
+  <reflection id="syp2010_ref288">
+    <object ref="syp2010_photodoc_portraits_DSC05226.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref289">
+    <object ref="syp2010_photodoc_portraits_DSC05227.JPG" />
+    <subject ref="syp2009_p43" />
+  </reflection>
+  <reflection id="syp2010_ref290">
+    <object ref="syp2010_photodoc_portraits_DSC05227.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref291">
+    <object ref="syp2010_photodoc_portraits_DSC05228.JPG" />
+    <subject ref="syp2008_1157" />
+  </reflection>
+  <reflection id="syp2010_ref292">
+    <object ref="syp2010_photodoc_portraits_DSC05228.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref293">
+    <object ref="syp2010_photodoc_portraits_DSC05230.JPG" />
+    <subject ref="syp2009_p90" />
+  </reflection>
+  <reflection id="syp2010_ref294">
+    <object ref="syp2010_photodoc_portraits_DSC05230.JPG" />
+    <subject ref="gornostalev_d" />
+  </reflection>
+  <reflection id="syp2010_ref295">
+    <object ref="syp2010_photodoc_portraits_DSC05230.JPG" />
+    <subject ref="0b5d0d4b-b1ca-4649-8165-4c270e178975" />
+  </reflection>
+  <reflection id="syp2010_ref296">
+    <object ref="syp2010_photodoc_portraits_DSC05230.JPG" />
+    <subject ref="2e71c343-b28a-4809-ad23-7d99a6535c19" />
+  </reflection>
+  <reflection id="syp2010_ref297">
+    <object ref="syp2010_photodoc_portraits_DSC05230.JPG" />
+    <subject ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="syp2010_ref298">
+    <object ref="syp2010_photodoc_portraits_DSC05230.JPG" />
+    <subject ref="syp2008_1157" />
+  </reflection>
+  <reflection id="syp2010_ref299">
+    <object ref="syp2010_photodoc_portraits_DSC05230.JPG" />
+    <subject ref="9a014a84-5cf6-4a05-9450-0366bb842588" />
+  </reflection>
+  <reflection id="syp2010_ref300">
+    <object ref="syp2010_photodoc_portraits_DSC05230.JPG" />
+    <subject ref="syp2009_p43" />
+  </reflection>
+  <reflection id="syp2010_ref301">
+    <object ref="syp2010_photodoc_portraits_DSC05230.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref302">
+    <object ref="syp2010_photodoc_portraits_DSC05231.JPG" />
+    <subject ref="syp2009_p90" />
+  </reflection>
+  <reflection id="syp2010_ref303">
+    <object ref="syp2010_photodoc_portraits_DSC05231.JPG" />
+    <subject ref="gornostalev_d" />
+  </reflection>
+  <reflection id="syp2010_ref304">
+    <object ref="syp2010_photodoc_portraits_DSC05231.JPG" />
+    <subject ref="0b5d0d4b-b1ca-4649-8165-4c270e178975" />
+  </reflection>
+  <reflection id="syp2010_ref305">
+    <object ref="syp2010_photodoc_portraits_DSC05231.JPG" />
+    <subject ref="2e71c343-b28a-4809-ad23-7d99a6535c19" />
+  </reflection>
+  <reflection id="syp2010_ref306">
+    <object ref="syp2010_photodoc_portraits_DSC05231.JPG" />
+    <subject ref="syp2001-p-marchuk_a" />
+  </reflection>
+  <reflection id="syp2010_ref307">
+    <object ref="syp2010_photodoc_portraits_DSC05231.JPG" />
+    <subject ref="syp2008_1157" />
+  </reflection>
+  <reflection id="syp2010_ref308">
+    <object ref="syp2010_photodoc_portraits_DSC05231.JPG" />
+    <subject ref="9a014a84-5cf6-4a05-9450-0366bb842588" />
+  </reflection>
+  <reflection id="syp2010_ref309">
+    <object ref="syp2010_photodoc_portraits_DSC05231.JPG" />
+    <subject ref="syp2009_p43" />
+  </reflection>
+  <reflection id="syp2010_ref310">
+    <object ref="syp2010_photodoc_portraits_DSC05231.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref311">
+    <object ref="syp2010_photodoc_portraits_DSC05233.JPG" />
+    <subject ref="0b5d0d4b-b1ca-4649-8165-4c270e178975" />
+  </reflection>
+  <reflection id="syp2010_ref312">
+    <object ref="syp2010_photodoc_portraits_DSC05233.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref313">
+    <object ref="syp2010_photodoc_portraits_DSC05235.JPG" />
+    <subject ref="0b5d0d4b-b1ca-4649-8165-4c270e178975" />
+  </reflection>
+  <reflection id="syp2010_ref314">
+    <object ref="syp2010_photodoc_portraits_DSC05235.JPG" />
+    <subject ref="sonya_2010" />
+  </reflection>
+  <reflection id="syp2010_ref315">
+    <object ref="syp2010_photodoc_portraits_DSC05237.JPG" />
+    <subject ref="bc62ac09-ba29-4daf-bf17-c264ed9157b0" />
+  </reflection>
+  <reflection id="syp2010_ref316">
+    <object ref="syp2010_photodoc_portraits_DSC05237.JPG" />
+    <subject ref="compilyator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref317">
+    <object ref="syp2010_photodoc_portraits_DSC05238.JPG" />
+    <subject ref="p24" />
+  </reflection>
+  <reflection id="syp2010_ref318">
+    <object ref="syp2010_photodoc_portraits_DSC05238.JPG" />
+    <subject ref="compilyator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref319">
+    <object ref="syp2010_photodoc_portraits_DSC05240.JPG" />
+    <subject ref="syp2009_p56" />
+  </reflection>
+  <reflection id="syp2010_ref320">
+    <object ref="syp2010_photodoc_portraits_DSC05240.JPG" />
+    <subject ref="compilyator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref321">
+    <object ref="syp2010_photodoc_portraits_DSC05241.JPG" />
+    <subject ref="e0a8251c-9212-40fd-b7cd-2d25613473ca" />
+  </reflection>
+  <reflection id="syp2010_ref322">
+    <object ref="syp2010_photodoc_portraits_DSC05241.JPG" />
+    <subject ref="language C_2010" />
+  </reflection>
+  <reflection id="syp2010_ref323">
+    <object ref="syp2010_photodoc_portraits_DSC05242.JPG" />
+    <subject ref="9e44cb7c-fd56-4f8b-a6bf-e1fb73fb4baf" />
+  </reflection>
+  <reflection id="syp2010_ref324">
+    <object ref="syp2010_photodoc_portraits_DSC05242.JPG" />
+    <subject ref="language C_2010" />
+  </reflection>
+  <reflection id="syp2010_ref325">
+    <object ref="syp2010_photodoc_portraits_DSC05243.JPG" />
+    <subject ref="4d282c2f-7324-4c26-911b-4facb6243a95" />
+  </reflection>
+  <reflection id="syp2010_ref326">
+    <object ref="syp2010_photodoc_portraits_DSC05243.JPG" />
+    <subject ref="language C_2010" />
+  </reflection>
+  <reflection id="syp2010_ref327">
+    <object ref="syp2010_photodoc_portraits_DSC05244.JPG" />
+    <subject ref="4d282c2f-7324-4c26-911b-4facb6243a95" />
+  </reflection>
+  <reflection id="syp2010_ref328">
+    <object ref="syp2010_photodoc_portraits_DSC05244.JPG" />
+    <subject ref="language C_2010" />
+  </reflection>
+  <reflection id="syp2010_ref329">
+    <object ref="syp2010_photodoc_portraits_DSC05245.JPG" />
+    <subject ref="kovalioff_d" />
+  </reflection>
+  <reflection id="syp2010_ref330">
+    <object ref="syp2010_photodoc_portraits_DSC05248.JPG" />
+    <subject ref="a1847b2d-f3a3-4af4-ad46-e76ec8133479" />
+  </reflection>
+  <reflection id="syp2010_ref331">
+    <object ref="syp2010_photodoc_portraits_DSC05248.JPG" />
+    <subject ref="compilyator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref332">
+    <object ref="syp2010_photodoc_portraits_DSC05250.JPG" />
+    <subject ref="syp2004-p-5" />
+  </reflection>
+  <reflection id="syp2010_ref333">
+    <object ref="syp2010_photodoc_portraits_DSC05250.JPG" />
+    <subject ref="compilyator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref334">
+    <object ref="syp2010_photodoc_portraits_DSC05251.JPG" />
+    <subject ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="syp2010_ref335">
+    <object ref="syp2010_photodoc_portraits_DSC05251.JPG" />
+    <subject ref="compilyator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref336">
+    <object ref="syp2010_photodoc_portraits_DSC05252.JPG" />
+    <subject ref="syp2001-p-nasibulov" />
+  </reflection>
+  <reflection id="syp2010_ref337">
+    <object ref="syp2010_photodoc_portraits_DSC05252.JPG" />
+    <subject ref="compilyator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref338">
+    <object ref="syp2010_photodoc_portraits_DSC05253.JPG" />
+    <subject ref="person17" />
+  </reflection>
+  <reflection id="syp2010_ref339">
+    <object ref="syp2010_photodoc_portraits_DSC05253.JPG" />
+    <subject ref="CCC_2010" />
+  </reflection>
+  <reflection id="syp2010_ref340">
+    <object ref="syp2010_photodoc_portraits_DSC05254.JPG" />
+    <subject ref="CCC_2010" />
+  </reflection>
+  <reflection id="syp2010_ref341">
+    <object ref="syp2010_photodoc_portraits_DSC05259.JPG" />
+    <subject ref="16593dbd-a16e-430b-8f49-0453b4cbf70e" />
+  </reflection>
+  <reflection id="syp2010_ref342">
+    <object ref="syp2010_photodoc_portraits_DSC05259.JPG" />
+    <subject ref="CCC_2010" />
+  </reflection>
+  <reflection id="syp2010_ref343">
+    <object ref="syp2010_photodoc_portraits_DSC05260.JPG" />
+    <subject ref="syp2004-p-90" />
+  </reflection>
+  <reflection id="syp2010_ref344">
+    <object ref="syp2010_photodoc_portraits_DSC05261.JPG" />
+    <subject ref="syp2001-p-zanina" />
+  </reflection>
+  <reflection id="syp2010_ref345">
+    <object ref="syp2010_photodoc_portraits_DSC05265.JPG" />
+    <subject ref="322d8fef-29d8-4fe8-978c-fed53e38d026" />
+  </reflection>
+  <reflection id="syp2010_ref346">
+    <object ref="syp2010_photodoc_portraits_DSC05265.JPG" />
+    <subject ref="game on java_2010" />
+  </reflection>
+  <reflection id="syp2010_ref347">
+    <object ref="syp2010_photodoc_portraits_DSC05258.JPG" />
+    <subject ref="CCC_2010" />
+  </reflection>
+  <reflection id="syp2010_ref348">
+    <object ref="syp2010_photodoc_portraits_DSC05257.JPG" />
+    <subject ref="CCC_2010" />
+  </reflection>
+  <reflection id="syp2010_ref349">
+    <object ref="syp2010_photodoc_portraits_DSC05256.JPG" />
+    <subject ref="arshivator_2010" />
+  </reflection>
+  <reflection id="syp2010_ref350">
+    <object ref="syp2010_photodoc_portraits_DSC05246.JPG" />
+    <subject ref="setevie tehn_2010" />
+  </reflection>
+  <reflection id="syp2010_ref351">
+    <object ref="syp2010_photodoc_portraits_DSC05247.JPG" />
+    <subject ref="setevie tehn_2010" />
+  </reflection>
+  <reflection id="syp2010_ref352">
+    <object ref="syp2010_photodoc_portraits_DSC05247.JPG" />
+    <subject ref="syp2008_1130" />
+  </reflection>
+  <reflection id="syp2010_ref353">
+    <object ref="syp2010_photodoc_portraits_DSC05246.JPG" />
+    <subject ref="syp2009_p57" />
+  </reflection>
+  <reflection id="syp2010_ref354">
+    <object ref="syp2010_photodoc_portraits_DSC05125.JPG" />
+    <subject ref="phisic_2010" />
+  </reflection>
+  <reflection id="syp2010_ref355">
+    <object ref="syp2010_photodoc_portraits_DSC05124.JPG" />
+    <subject ref="phisic_2010" />
+  </reflection>
+  <reflection id="syp2010_ref356">
+    <object ref="syp2010_photodoc_portraits_DSC05123.JPG" />
+    <subject ref="phisic_2010" />
+  </reflection>
+  <reflection id="syp2010_ref357">
+    <object ref="syp2010_photodoc_portraits_DSC05122.JPG" />
+    <subject ref="phisic_2010" />
+  </reflection>
+  <reflection id="syp2010_ref358">
+    <object ref="syp2010_photodoc_portraits_DSC05120.JPG" />
+    <subject ref="phisic_2010" />
+  </reflection>
+</db>

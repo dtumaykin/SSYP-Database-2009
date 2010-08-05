@@ -567,7 +567,7 @@
   <xsl:template name="list">
     <center>
       <br/>
-      <xsl:variable name="item" select="/data/*/org-sys[starts-with(name,'ЛШЮ')]"/>
+      <xsl:variable name="item" select="/data/*/org-sys[starts-with(name,'ЛШ')]"/>
       <xsl:for-each select="$item">
         <div class="elem_div_400">
           <a class="menu" href="?id={@id}">

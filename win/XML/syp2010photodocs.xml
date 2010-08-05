@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<db docid="syp2010photodocs">
+  <!-- Сделано программой Ассоциатор.Набор_Фотографий_И_Коллекций -->
+  <collection id="syp2010_col_lectures">
+    <name>collection lectures</name>
+  </collection>
+  <photo-doc id="syp2010_photodoc_lectures_DSC05095.JPG">
+    <name>DSC05095.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/lectures/DSC05095</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_lectures^DSC05095.JPG">
+    <subject ref="syp2010_photodoc_lectures_DSC05095.JPG" />
+    <object ref="syp2010_col_lectures" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_lectures_DSC05096.JPG">
+    <name>DSC05096.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/lectures/DSC05096</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_lectures^DSC05096.JPG">
+    <subject ref="syp2010_photodoc_lectures_DSC05096.JPG" />
+    <object ref="syp2010_col_lectures" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_lectures_DSC05097.JPG">
+    <name>DSC05097.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/lectures/DSC05097</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_lectures^DSC05097.JPG">
+    <subject ref="syp2010_photodoc_lectures_DSC05097.JPG" />
+    <object ref="syp2010_col_lectures" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_lectures_DSC05098.JPG">
+    <name>DSC05098.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/lectures/DSC05098</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_lectures^DSC05098.JPG">
+    <subject ref="syp2010_photodoc_lectures_DSC05098.JPG" />
+    <object ref="syp2010_col_lectures" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_lectures_DSC05099.JPG">
+    <name>DSC05099.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/lectures/DSC05099</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_lectures^DSC05099.JPG">
+    <subject ref="syp2010_photodoc_lectures_DSC05099.JPG" />
+    <object ref="syp2010_col_lectures" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_lectures_DSC05116.JPG">
+    <name>DSC05116.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/lectures/DSC05116</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_lectures^DSC05116.JPG">
+    <subject ref="syp2010_photodoc_lectures_DSC05116.JPG" />
+    <object ref="syp2010_col_lectures" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_lectures_DSC05117.JPG">
+    <name>DSC05117.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/lectures/DSC05117</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_lectures^DSC05117.JPG">
+    <subject ref="syp2010_photodoc_lectures_DSC05117.JPG" />
+    <object ref="syp2010_col_lectures" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_lectures_DSC05118.JPG">
+    <name>DSC05118.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/lectures/DSC05118</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_lectures^DSC05118.JPG">
+    <subject ref="syp2010_photodoc_lectures_DSC05118.JPG" />
+    <object ref="syp2010_col_lectures" />
+  </collection-member>
+  <collection id="syp2010_col_mixture">
+    <name>collection mixture</name>
+  </collection>
+  <photo-doc id="syp2010_photodoc_mixture_DSC05106.JPG">
+    <name>DSC05106.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/mixture/DSC05106</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_mixture^DSC05106.JPG">
+    <subject ref="syp2010_photodoc_mixture_DSC05106.JPG" />
+    <object ref="syp2010_col_mixture" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_mixture_DSC05107.JPG">
+    <name>DSC05107.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/mixture/DSC05107</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_mixture^DSC05107.JPG">
+    <subject ref="syp2010_photodoc_mixture_DSC05107.JPG" />
+    <object ref="syp2010_col_mixture" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_mixture_DSC05108.JPG">
+    <name>DSC05108.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/mixture/DSC05108</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_mixture^DSC05108.JPG">
+    <subject ref="syp2010_photodoc_mixture_DSC05108.JPG" />
+    <object ref="syp2010_col_mixture" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_mixture_DSC05109.JPG">
+    <name>DSC05109.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/mixture/DSC05109</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_mixture^DSC05109.JPG">
+    <subject ref="syp2010_photodoc_mixture_DSC05109.JPG" />
+    <object ref="syp2010_col_mixture" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_mixture_DSC05110.JPG">
+    <name>DSC05110.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/mixture/DSC05110</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_mixture^DSC05110.JPG">
+    <subject ref="syp2010_photodoc_mixture_DSC05110.JPG" />
+    <object ref="syp2010_col_mixture" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_mixture_DSC05111.JPG">
+    <name>DSC05111.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/mixture/DSC05111</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_mixture^DSC05111.JPG">
+    <subject ref="syp2010_photodoc_mixture_DSC05111.JPG" />
+    <object ref="syp2010_col_mixture" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_mixture_DSC05112.JPG">
+    <name>DSC05112.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/mixture/DSC05112</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_mixture^DSC05112.JPG">
+    <subject ref="syp2010_photodoc_mixture_DSC05112.JPG" />
+    <object ref="syp2010_col_mixture" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_mixture_DSC05113.JPG">
+    <name>DSC05113.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/mixture/DSC05113</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_mixture^DSC05113.JPG">
+    <subject ref="syp2010_photodoc_mixture_DSC05113.JPG" />
+    <object ref="syp2010_col_mixture" />
+  </collection-member>
+  <collection id="syp2010_col_portraits">
+    <name>collection portraits</name>
+  </collection>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05114.JPG">
+    <name>DSC05114.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05114</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05114.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05114.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05115.JPG">
+    <name>DSC05115.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05115</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05115.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05115.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05120.JPG">
+    <name>DSC05120.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05120</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05120.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05120.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05121.JPG">
+    <name>DSC05121.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05121</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05121.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05121.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05122.JPG">
+    <name>DSC05122.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05122</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05122.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05122.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05123.JPG">
+    <name>DSC05123.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05123</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05123.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05123.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05124.JPG">
+    <name>DSC05124.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05124</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05124.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05124.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05125.JPG">
+    <name>DSC05125.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05125</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05125.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05125.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05126.JPG">
+    <name>DSC05126.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05126</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05126.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05126.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05127.JPG">
+    <name>DSC05127.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05127</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05127.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05127.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05128.JPG">
+    <name>DSC05128.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05128</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05128.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05128.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05129.JPG">
+    <name>DSC05129.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05129</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05129.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05129.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05130.JPG">
+    <name>DSC05130.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05130</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05130.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05130.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05131.JPG">
+    <name>DSC05131.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05131</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05131.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05131.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05132.JPG">
+    <name>DSC05132.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05132</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05132.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05132.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05133.JPG">
+    <name>DSC05133.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05133</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05133.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05133.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05134.JPG">
+    <name>DSC05134.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05134</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05134.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05134.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05135.JPG">
+    <name>DSC05135.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05135</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05135.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05135.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05136.JPG">
+    <name>DSC05136.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05136</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05136.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05136.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05137.JPG">
+    <name>DSC05137.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05137</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05137.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05137.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05138.JPG">
+    <name>DSC05138.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05138</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05138.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05138.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05139.JPG">
+    <name>DSC05139.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05139</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05139.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05139.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05140.JPG">
+    <name>DSC05140.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05140</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05140.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05140.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05141.JPG">
+    <name>DSC05141.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05141</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05141.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05141.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05142.JPG">
+    <name>DSC05142.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05142</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05142.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05142.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05143.JPG">
+    <name>DSC05143.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05143</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05143.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05143.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05144.JPG">
+    <name>DSC05144.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05144</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05144.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05144.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05145.JPG">
+    <name>DSC05145.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05145</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05145.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05145.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05146.JPG">
+    <name>DSC05146.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05146</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05146.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05146.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05147.JPG">
+    <name>DSC05147.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05147</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05147.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05147.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05148.JPG">
+    <name>DSC05148.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05148</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05148.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05148.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05149.JPG">
+    <name>DSC05149.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05149</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05149.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05149.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05150.JPG">
+    <name>DSC05150.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05150</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05150.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05150.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05151.JPG">
+    <name>DSC05151.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05151</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05151.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05151.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05152.JPG">
+    <name>DSC05152.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05152</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05152.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05152.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05153.JPG">
+    <name>DSC05153.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05153</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05153.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05153.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05154.JPG">
+    <name>DSC05154.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05154</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05154.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05154.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05155.JPG">
+    <name>DSC05155.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05155</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05155.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05155.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05156.JPG">
+    <name>DSC05156.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05156</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05156.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05156.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05157.JPG">
+    <name>DSC05157.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05157</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05157.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05157.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05158.JPG">
+    <name>DSC05158.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05158</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05158.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05158.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05159.JPG">
+    <name>DSC05159.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05159</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05159.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05159.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05160.JPG">
+    <name>DSC05160.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05160</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05160.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05160.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05161.JPG">
+    <name>DSC05161.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05161</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05161.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05161.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05162.JPG">
+    <name>DSC05162.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05162</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05162.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05162.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05163.JPG">
+    <name>DSC05163.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05163</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05163.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05163.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05164.JPG">
+    <name>DSC05164.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05164</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05164.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05164.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05165.JPG">
+    <name>DSC05165.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05165</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05165.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05165.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05166.JPG">
+    <name>DSC05166.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05166</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05166.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05166.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05167.JPG">
+    <name>DSC05167.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05167</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05167.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05167.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05168.JPG">
+    <name>DSC05168.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05168</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05168.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05168.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05169.JPG">
+    <name>DSC05169.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05169</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05169.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05169.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05170.JPG">
+    <name>DSC05170.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05170</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05170.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05170.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05171.JPG">
+    <name>DSC05171.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05171</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05171.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05171.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05172.JPG">
+    <name>DSC05172.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05172</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05172.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05172.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05173.JPG">
+    <name>DSC05173.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05173</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05173.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05173.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05174.JPG">
+    <name>DSC05174.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05174</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05174.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05174.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05175.JPG">
+    <name>DSC05175.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05175</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05175.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05175.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05176.JPG">
+    <name>DSC05176.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05176</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05176.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05176.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05177.JPG">
+    <name>DSC05177.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05177</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05177.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05177.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05178.JPG">
+    <name>DSC05178.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05178</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05178.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05178.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05179.JPG">
+    <name>DSC05179.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05179</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05179.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05179.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05180.JPG">
+    <name>DSC05180.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05180</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05180.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05180.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05181.JPG">
+    <name>DSC05181.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05181</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05181.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05181.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05182.JPG">
+    <name>DSC05182.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05182</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05182.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05182.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05183.JPG">
+    <name>DSC05183.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05183</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05183.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05183.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05184.JPG">
+    <name>DSC05184.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05184</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05184.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05184.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05185.JPG">
+    <name>DSC05185.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05185</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05185.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05185.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05186.JPG">
+    <name>DSC05186.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05186</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05186.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05186.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05187.JPG">
+    <name>DSC05187.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05187</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05187.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05187.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05188.JPG">
+    <name>DSC05188.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05188</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05188.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05188.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05189.JPG">
+    <name>DSC05189.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05189</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05189.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05189.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05190.JPG">
+    <name>DSC05190.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05190</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05190.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05190.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05191.JPG">
+    <name>DSC05191.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05191</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05191.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05191.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05192.JPG">
+    <name>DSC05192.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05192</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05192.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05192.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05193.JPG">
+    <name>DSC05193.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05193</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05193.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05193.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05194.JPG">
+    <name>DSC05194.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05194</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05194.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05194.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05195.JPG">
+    <name>DSC05195.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05195</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05195.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05195.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05196.JPG">
+    <name>DSC05196.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05196</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05196.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05196.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05197.JPG">
+    <name>DSC05197.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05197</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05197.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05197.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05198.JPG">
+    <name>DSC05198.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05198</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05198.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05198.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05199.JPG">
+    <name>DSC05199.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05199</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05199.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05199.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05200.JPG">
+    <name>DSC05200.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05200</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05200.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05200.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05201.JPG">
+    <name>DSC05201.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05201</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05201.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05201.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05202.JPG">
+    <name>DSC05202.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05202</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05202.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05202.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05203.JPG">
+    <name>DSC05203.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05203</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05203.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05203.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05204.JPG">
+    <name>DSC05204.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05204</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05204.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05204.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05205.JPG">
+    <name>DSC05205.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05205</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05205.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05205.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05206.JPG">
+    <name>DSC05206.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05206</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05206.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05206.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05207.JPG">
+    <name>DSC05207.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05207</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05207.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05207.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05208.JPG">
+    <name>DSC05208.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05208</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05208.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05208.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05209.JPG">
+    <name>DSC05209.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05209</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05209.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05209.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05210.JPG">
+    <name>DSC05210.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05210</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05210.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05210.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05211.JPG">
+    <name>DSC05211.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05211</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05211.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05211.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05212.JPG">
+    <name>DSC05212.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05212</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05212.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05212.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05213.JPG">
+    <name>DSC05213.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05213</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05213.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05213.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05214.JPG">
+    <name>DSC05214.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05214</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05214.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05214.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05215.JPG">
+    <name>DSC05215.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05215</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05215.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05215.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05216.JPG">
+    <name>DSC05216.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05216</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05216.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05216.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05217.JPG">
+    <name>DSC05217.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05217</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05217.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05217.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05218.JPG">
+    <name>DSC05218.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05218</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05218.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05218.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05219.JPG">
+    <name>DSC05219.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05219</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05219.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05219.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05220.JPG">
+    <name>DSC05220.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05220</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05220.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05220.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05221.JPG">
+    <name>DSC05221.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05221</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05221.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05221.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05222.JPG">
+    <name>DSC05222.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05222</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05222.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05222.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05223.JPG">
+    <name>DSC05223.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05223</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05223.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05223.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05224.JPG">
+    <name>DSC05224.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05224</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05224.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05224.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05225.JPG">
+    <name>DSC05225.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05225</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05225.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05225.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05226.JPG">
+    <name>DSC05226.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05226</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05226.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05226.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05227.JPG">
+    <name>DSC05227.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05227</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05227.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05227.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05228.JPG">
+    <name>DSC05228.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05228</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05228.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05228.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05230.JPG">
+    <name>DSC05230.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05230</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05230.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05230.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05231.JPG">
+    <name>DSC05231.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05231</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05231.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05231.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05232.JPG">
+    <name>DSC05232.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05232</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05232.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05232.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05233.JPG">
+    <name>DSC05233.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05233</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05233.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05233.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05235.JPG">
+    <name>DSC05235.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05235</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05235.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05235.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05237.JPG">
+    <name>DSC05237.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05237</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05237.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05237.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05238.JPG">
+    <name>DSC05238.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05238</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05238.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05238.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05240.JPG">
+    <name>DSC05240.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05240</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05240.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05240.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05241.JPG">
+    <name>DSC05241.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05241</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05241.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05241.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05242.JPG">
+    <name>DSC05242.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05242</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05242.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05242.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05243.JPG">
+    <name>DSC05243.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05243</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05243.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05243.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05244.JPG">
+    <name>DSC05244.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05244</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05244.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05244.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05245.JPG">
+    <name>DSC05245.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05245</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05245.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05245.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05246.JPG">
+    <name>DSC05246.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05246</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05246.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05246.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05247.JPG">
+    <name>DSC05247.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05247</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05247.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05247.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05248.JPG">
+    <name>DSC05248.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05248</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05248.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05248.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05249.JPG">
+    <name>DSC05249.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05249</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05249.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05249.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05250.JPG">
+    <name>DSC05250.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05250</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05250.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05250.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05251.JPG">
+    <name>DSC05251.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05251</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05251.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05251.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05252.JPG">
+    <name>DSC05252.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05252</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05252.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05252.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05253.JPG">
+    <name>DSC05253.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05253</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05253.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05253.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05254.JPG">
+    <name>DSC05254.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05254</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05254.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05254.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05255.JPG">
+    <name>DSC05255.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05255</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05255.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05255.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05256.JPG">
+    <name>DSC05256.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05256</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05256.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05256.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05257.JPG">
+    <name>DSC05257.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05257</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05257.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05257.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05258.JPG">
+    <name>DSC05258.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05258</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05258.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05258.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05259.JPG">
+    <name>DSC05259.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05259</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05259.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05259.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05260.JPG">
+    <name>DSC05260.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05260</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05260.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05260.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05261.JPG">
+    <name>DSC05261.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05261</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05261.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05261.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05264.JPG">
+    <name>DSC05264.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05264</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05264.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05264.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+  <photo-doc id="syp2010_photodoc_portraits_DSC05265.JPG">
+    <name>DSC05265.JPG</name>
+    <from-date>2010</from-date>
+    <published>photos/syp2010/portraits/DSC05265</published>
+    <width>3456</width>
+    <height>2592</height>
+  </photo-doc>
+  <collection-member id="syp2010_col_r_portraits^DSC05265.JPG">
+    <subject ref="syp2010_photodoc_portraits_DSC05265.JPG" />
+    <object ref="syp2010_col_portraits" />
+  </collection-member>
+</db>

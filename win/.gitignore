@@ -13,4 +13,6 @@
 photos/*
 bin/*
 obj/*
+App_Data/*
+Backup/*
 log.txt
